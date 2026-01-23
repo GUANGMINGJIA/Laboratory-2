@@ -1,0 +1,3769 @@
+accession	organism	kingdom	length	sp_cleavage_site	label	tm_helix_start_leq_90	fold
+P19874	Oryctolagus cuniculus	Metazoa	101	22.0	1		1
+P01222	Homo sapiens	Metazoa	138	20.0	1		1
+P0C1X6	Tityus discrepans	Metazoa	62	26.0	1		1
+Q86R84	Dermatophagoides farinae	Metazoa	462	25.0	1		1
+Q7T2R1	Daboia siamensis	Metazoa	138	16.0	1		1
+P83403	Glossina morsitans morsitans	Metazoa	63	23.0	1		1
+C9X4J8	Tityus discrepans	Metazoa	86	20.0	1		1
+P01179	Rattus norvegicus	Metazoa	125	19.0	1		1
+P16933	Schizophyllum commune	Fungi	136	24.0	1		1
+P62520	Chilobrachys guangxiensis	Metazoa	63	27.0	1		1
+G3MYZ3	Bos taurus	Metazoa	604	21.0	1		1
+Q95VF0	Epiphyas postvittana	Metazoa	164	23.0	1		1
+Q62894	Rattus norvegicus	Metazoa	562	19.0	1		1
+P35331	Gallus gallus	Metazoa	1284	24.0	1		1
+P01177	Sus scrofa	Metazoa	125	19.0	1		1
+O96059	Bombyx mori	Metazoa	66	24.0	1		1
+P04634	Rattus norvegicus	Metazoa	395	18.0	1		1
+A6MEY4	Bungarus fasciatus	Metazoa	145	27.0	1		1
+B8AL97	Oryza sativa subsp. indica	Plants	470	34.0	1		1
+Q6UXB2	Homo sapiens	Metazoa	119	21.0	1		1
+P09486	Homo sapiens	Metazoa	303	17.0	1		1
+Q03178	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	341	18.0	1		1
+P25497	Pseudechis australis	Metazoa	83	21.0	1		1
+Q9VH14	Drosophila melanogaster	Metazoa	210	27.0	1		1
+C0H9B6	Salmo salar	Metazoa	413	19.0	1		1
+Q76FB0	Cyanidium caldarium	Other	155	20.0	1		1
+Q9UAD0	Olivierus martensii	Metazoa	59	24.0	1		1
+P58823	Phaseolus vulgaris	Plants	342	29.0	1		1
+P04062	Homo sapiens	Metazoa	536	39.0	1		1
+Q70DJ5	Arachis hypogaea	Plants	280	26.0	1		1
+P00736	Homo sapiens	Metazoa	705	17.0	1		1
+P07981	Hypocrea jecorina	Fungi	459	22.0	1		1
+Q96TU3	Aspergillus awamori	Fungi	537	19.0	1		1
+P19957	Homo sapiens	Metazoa	117	22.0	1		1
+D3GDK4	Cryptopygus antarcticus	Metazoa	225	15.0	1		1
+Q6UXK5	Homo sapiens	Metazoa	716	25.0	1		1
+P52753	Cryphonectria parasitica	Fungi	118	22.0	1		1
+P09462	Ovis aries	Metazoa	142	19.0	1		1
+Q61001	Mus musculus	Metazoa	3718	40.0	1		1
+A0A7M6UMR7	Apis mellifera	Metazoa	1010	16.0	1		1
+Q8T0W2	Pimpla hypochondriaca	Metazoa	203	19.0	1		1
+P01724	Mus musculus	Metazoa	129	19.0	1		1
+P45663	Centruroides noxius	Metazoa	87	19.0	1		1
+Q9NYY1	Homo sapiens	Metazoa	176	24.0	1		1
+C0HK27	Dioclea lasiophylla	Plants	291	28.0	1		1
+Q86IV5	Dictyostelium discoideum	Other	258	21.0	1		1
+P43307	Homo sapiens	Metazoa	286	18.0	1		1
+P07998	Homo sapiens	Metazoa	156	28.0	1		1
+P67930	Ovis aries	Metazoa	217	27.0	1		1
+P22323	Cavia porcellus	Metazoa	410	24.0	1		1
+P36511	Rattus norvegicus	Metazoa	530	23.0	1		1
+P31418	Manduca sexta	Metazoa	166	22.0	1		1
+Q9UK55	Homo sapiens	Metazoa	444	21.0	1		1
+P26010	Homo sapiens	Metazoa	798	19.0	1		1
+Q08334	Homo sapiens	Metazoa	325	19.0	1		1
+P30230	Raphanus sativus	Plants	80	29.0	1		1
+Q969H8	Homo sapiens	Metazoa	173	31.0	1		1
+O57385	Deinagkistrodon acutus	Metazoa	138	16.0	1		1
+O93364	Crotalus adamanteus	Metazoa	516	18.0	1		1
+Q62598	Rattus norvegicus	Metazoa	687	17.0	1		1
+P03950	Homo sapiens	Metazoa	147	24.0	1		1
+P23083	Homo sapiens	Metazoa	117	19.0	1		1
+Q99969	Homo sapiens	Metazoa	163	20.0	1		1
+Q8NJ73	Pyricularia grisea	Fungi	380	21.0	1		1
+Q64HC7	Armadillidium vulgare	Metazoa	73	19.0	1		1
+Q949Y3	Arabidopsis thaliana	Plants	475	30.0	1		1
+P85840	Tityus serrulatus	Metazoa	416	24.0	1		1
+Q969N2	Homo sapiens	Metazoa	578	21.0	1		1
+Q8WPJ2	Mytilus edulis	Metazoa	367	17.0	1		1
+Q6X4U4	Homo sapiens	Metazoa	206	23.0	1		1
+Q86WA6	Homo sapiens	Metazoa	291	37.0	1		1
+Q9BJX2	Olivierus martensii	Metazoa	54	23.0	1		1
+C0HL83	Stellaria media	Plants	81	31.0	1		1
+O59896	Pycnoporus cinnabarinus	Fungi	518	21.0	1		1
+P29459	Homo sapiens	Metazoa	219	22.0	1		1
+C0HJQ8	Mesobuthus eupeus	Metazoa	58	21.0	1		1
+P19883	Homo sapiens	Metazoa	344	29.0	1		1
+Q9Z0M9	Mus musculus	Metazoa	193	28.0	1		1
+P29029	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	562	20.0	1		1
+P00996	Bos taurus	Metazoa	79	23.0	1		1
+Q6XE38	Homo sapiens	Metazoa	83	21.0	1		1
+A8E2V8	Trimeresurus gracilis	Metazoa	139	16.0	1		1
+Q7ZT99	Crotalus atrox	Metazoa	240	19.0	1		1
+Q09332	Drosophila melanogaster	Metazoa	1548	22.0	1		1
+P82144	Gloydius brevicaudus siniticus	Metazoa	200	19.0	1		1
+P00702	Phasianus colchicus colchicus	Metazoa	147	17.0	1		1
+Q91Z98	Mus musculus	Metazoa	402	21.0	1		1
+P07237	Homo sapiens	Metazoa	508	17.0	1		1
+Q9SU40	Arabidopsis thaliana	Plants	587	20.0	1		1
+P08603	Homo sapiens	Metazoa	1231	18.0	1		1
+A0A4P9I8G4	Waitea arvalis	Fungi	238	20.0	1		1
+A0A0A1I6N9	Androctonus crassicauda	Metazoa	74	22.0	1		1
+B2NHN2	Talaromyces funiculosus	Fungi	339	20.0	1		1
+B3STN7	Nosema bombycis (strain CQ1 / CVCC 102059)	Fungi	316	18.0	1		1
+P11839	Ovis aries	Metazoa	222	15.0	1		1
+Q25055	Holotrichia diomphalia	Metazoa	104	20.0	1		1
+P35501	Myzus persicae	Metazoa	552	23.0	1		1
+P05067	Homo sapiens	Metazoa	770	17.0	1		1
+P20933	Homo sapiens	Metazoa	346	23.0	1		1
+Q2YHJ8	Craspedocephalus puniceus	Metazoa	138	16.0	1		1
+Q6UW01	Homo sapiens	Metazoa	205	32.0	1		1
+Q8MP00	Aedes aegypti	Metazoa	90	27.0	1		1
+Q8JIY9	Protobothrops jerdonii	Metazoa	138	16.0	1		1
+P19400	Ascaris suum	Metazoa	169	20.0	1		1
+P01491	Centruroides sculpturatus	Metazoa	86	19.0	1		1
+Q9VB68	Drosophila melanogaster	Metazoa	377	26.0	1		1
+P17813	Homo sapiens	Metazoa	658	25.0	1		1
+P82114	Bothrops moojeni	Metazoa	138	16.0	1		1
+A1IKL2	Anisakis simplex	Metazoa	152	18.0	1		1
+P16035	Homo sapiens	Metazoa	220	26.0	1		1
+Q26427	Galleria mellonella	Metazoa	267	16.0	1		1
+P11407	Vipera ammodytes ammodytes	Metazoa	138	16.0	1		1
+Q6UWL6	Homo sapiens	Metazoa	708	20.0	1		1
+P09989	Trichosanthes kirilowii	Plants	289	23.0	1		1
+Q8JGT6	Protobothrops mucrosquamatus	Metazoa	146	23.0	1		1
+Q0GY40	Hoffmannihadrurus gertschi	Metazoa	95	19.0	1		1
+P00626	Vipera ammodytes ammodytes	Metazoa	138	16.0	1		1
+O00100	Aspergillus terreus	Fungi	466	19.0	1		1
+P02763	Homo sapiens	Metazoa	201	18.0	1		1
+Q9JLA3	Rattus norvegicus	Metazoa	1551	42.0	1		1
+P80022	Solanum lycopersicum	Plants	230	25.0	1		1
+P01348	Sus scrofa	Metazoa	182	24.0	1		1
+P01900	Mus musculus	Metazoa	365	24.0	1		1
+P26776	Sus scrofa	Metazoa	153	20.0	1		1
+O00626	Homo sapiens	Metazoa	93	24.0	1		1
+P20142	Homo sapiens	Metazoa	388	16.0	1		1
+Q17043	Aplysia kurodai	Metazoa	556	19.0	1		1
+C0HKG1	Clitoria ternatea	Plants	127	24.0	1		1
+Q2PS07	Fagopyrum esculentum	Plants	149	22.0	1		1
+P08118	Homo sapiens	Metazoa	114	20.0	1		1
+Q6WN34	Homo sapiens	Metazoa	429	25.0	1		1
+P59938	Olivierus martensii	Metazoa	57	21.0	1		1
+A4VBF0	Vipera nikolskii	Metazoa	138	16.0	1		1
+C9X4K7	Tityus discrepans	Metazoa	85	21.0	1		1
+P82102	Mytilus galloprovincialis	Metazoa	96	20.0	1		1
+Q5W280	Bombina orientalis	Metazoa	96	19.0	1		1
+Q8NCC3	Homo sapiens	Metazoa	412	33.0	1		1
+Q8UVU7	Cerrophidion godmani	Metazoa	137	16.0	1		1
+P80221	Bos taurus	Metazoa	112	36.0	1		1
+P15473	Rattus norvegicus	Metazoa	292	27.0	1		1
+P00711	Bos taurus	Metazoa	142	19.0	1		1
+P61626	Homo sapiens	Metazoa	148	18.0	1		1
+P01322	Rattus norvegicus	Metazoa	110	24.0	1		1
+Q653V7	Oryza sativa subsp. japonica	Plants	885	33.0	1		1
+P01302	Bos taurus	Metazoa	131	29.0	1		1
+Q9GQV7	Aedes aegypti	Metazoa	128	22.0	1		1
+P02681	Tachypleus tridentatus	Metazoa	195	20.0	1		1
+P11598	Rattus norvegicus	Metazoa	505	24.0	1		1
+Q99538	Homo sapiens	Metazoa	433	17.0	1		1
+P02783	Rattus norvegicus	Metazoa	112	21.0	1		1
+P13599	Rattus norvegicus	Metazoa	366	22.0	1		1
+P31110	Oryza sativa subsp. japonica	Plants	177	26.0	1		1
+P54762	Homo sapiens	Metazoa	984	17.0	1		1
+Q7ZT98	Ophiophagus hannah	Metazoa	239	18.0	1		1
+P49141	Monodelphis domestica	Metazoa	149	20.0	1		1
+P12549	Chironomus thummi thummi	Metazoa	161	16.0	1		1
+P14946	Lolium perenne	Plants	263	23.0	1		1
+Q7Z5L0	Homo sapiens	Metazoa	202	24.0	1		1
+Q6JK69	Bothrops atrox	Metazoa	138	16.0	1		1
+P05371	Rattus norvegicus	Metazoa	447	21.0	1		1
+P0DPV0	Scolopendra dehaani	Metazoa	101	23.0	1		1
+Q96LA5	Homo sapiens	Metazoa	508	19.0	1		1
+Q6STF1	Gloydius halys	Metazoa	504	18.0	1		1
+Q8ISL8	Apis mellifera	Metazoa	78	24.0	1		1
+P02648	Canis lupus familiaris	Metazoa	266	18.0	1		1
+Q12841	Homo sapiens	Metazoa	308	20.0	1		1
+P31779	Aquarana catesbeiana	Metazoa	153	24.0	1		1
+F5CPD5	Micrurus altirostris	Metazoa	81	21.0	1		1
+P09791	Trypanosoma brucei brucei	Other	129	27.0	1		1
+A4LAR6	Grifola frondosa	Fungi	107	24.0	1		1
+P01614	Homo sapiens	Metazoa	121	19.0	1		1
+W5XCJ6	Macrovipera lebetinus	Metazoa	154	23.0	1		1
+O00206	Homo sapiens	Metazoa	839	23.0	1		1
+P09466	Homo sapiens	Metazoa	180	18.0	1		1
+P81382	Calloselasma rhodostoma	Metazoa	516	18.0	1		1
+Q3V1G4	Mus musculus	Metazoa	746	20.0	1		1
+P40199	Homo sapiens	Metazoa	344	34.0	1		1
+Q01117	Lipomyces kononenkoae	Fungi	624	28.0	1		1
+P12637	Canis lupus familiaris	Metazoa	410	19.0	1		1
+A9UGV6	Oryza sativa subsp. japonica	Plants	61	26.0	1		1
+P02754	Bos taurus	Metazoa	178	16.0	1		1
+P0C8E7	Rhipicephalus sanguineus	Metazoa	114	20.0	1		1
+P01218	Ovis aries	Metazoa	120	24.0	1		1
+Q6PW77	Sarocladium strictum	Fungi	499	25.0	1		1
+P01009	Homo sapiens	Metazoa	418	24.0	1		1
+Q09098	Mus musculus	Metazoa	99	23.0	1		1
+P22394	Geotrichum candidum	Fungi	563	19.0	1		1
+Q6TGQ8	Bothrops moojeni	Metazoa	502	18.0	1		1
+P13612	Homo sapiens	Metazoa	1032	33.0	1		1
+P23515	Homo sapiens	Metazoa	440	24.0	1		1
+Q6H3D4	Trimeresurus stejnegeri	Metazoa	138	16.0	1		1
+Q02809	Homo sapiens	Metazoa	727	18.0	1		1
+O46166	Eratigena agrestis	Metazoa	68	17.0	1		1
+P49256	Canis lupus familiaris	Metazoa	356	44.0	1		1
+A0A1S6EK92	Moringa oleifera	Plants	79	20.0	1		1
+Q12127	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	133	18.0	1		1
+A0A161AT60	Pisum sativum	Plants	120	25.0	1		1
+P48745	Homo sapiens	Metazoa	357	31.0	1		1
+P04706	Zea mays	Plants	223	19.0	1		1
+P82007	Helianthus annuus	Plants	116	26.0	1		1
+Q99519	Homo sapiens	Metazoa	415	47.0	1		1
+P25942	Homo sapiens	Metazoa	277	20.0	1		1
+Q8MMH5	Pimpla hypochondriaca	Metazoa	61	20.0	1		1
+P14448	Gallus gallus	Metazoa	741	18.0	1		1
+P01229	Homo sapiens	Metazoa	141	20.0	1		1
+P32004	Homo sapiens	Metazoa	1257	19.0	1		1
+Q8N0W4	Homo sapiens	Metazoa	816	41.0	1		1
+Q94K85	Arabidopsis thaliana	Plants	359	26.0	1		1
+I2C090	Ophiophagus hannah	Metazoa	1641	22.0	1		1
+Q13478	Homo sapiens	Metazoa	541	18.0	1		1
+P05090	Homo sapiens	Metazoa	189	20.0	1		1
+Q08879	Mus musculus	Metazoa	705	29.0	1		1
+P12068	Sus scrofa	Metazoa	146	18.0	1		1
+Q9UKZ9	Homo sapiens	Metazoa	415	23.0	1		1
+Q9H1E1	Homo sapiens	Metazoa	156	28.0	1		1
+P50228	Mus musculus	Metazoa	132	40.0	1		1
+P10669	Sus scrofa	Metazoa	344	29.0	1		1
+P12273	Homo sapiens	Metazoa	146	28.0	1		1
+P0CX77	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	362	25.0	1		1
+P60042	Rattus norvegicus	Metazoa	116	24.0	1		1
+P00747	Homo sapiens	Metazoa	810	19.0	1		1
+P01742	Homo sapiens	Metazoa	117	19.0	1		1
+Q9W7J5	Pseudonaja textilis	Metazoa	103	21.0	1		1
+Q86YT9	Homo sapiens	Metazoa	394	19.0	1		1
+Q15582	Homo sapiens	Metazoa	683	23.0	1		1
+Q8J0I9	Trichoderma harzianum	Fungi	490	28.0	1		1
+Q39688	Daucus carota	Plants	389	24.0	1		1
+P61870	Penicillium camembertii	Fungi	305	26.0	1		1
+P01594	Homo sapiens	Metazoa	117	22.0	1		1
+P11021	Homo sapiens	Metazoa	654	18.0	1		1
+P01795	Mus musculus	Metazoa	144	19.0	1		1
+P82818	Bombyx mori	Metazoa	66	24.0	1		1
+Q60994	Mus musculus	Metazoa	247	17.0	1		1
+Q8WQK0	Cotesia rubecula	Metazoa	65	23.0	1		1
+Q8BK48	Mus musculus	Metazoa	559	26.0	1		1
+P18959	Manduca sexta	Metazoa	168	26.0	1		1
+P14095	Rattus norvegicus	Metazoa	96	24.0	1		1
+O22317	Musa acuminata	Plants	340	28.0	1		1
+P04552	Haliotis rufescens	Metazoa	154	18.0	1		1
+P67876	Aspergillus restrictus	Fungi	176	27.0	1		1
+P01602	Homo sapiens	Metazoa	117	22.0	1		1
+P17314	Triticum aestivum	Plants	168	25.0	1		1
+P02808	Homo sapiens	Metazoa	62	19.0	1		1
+Q01682	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	463	18.0	1		1
+P08375	Sarcophaga peregrina	Metazoa	63	23.0	1		1
+O42257	Naja sputatrix	Metazoa	90	21.0	1		1
+Q8JI39	Protobothrops flavoviridis	Metazoa	240	19.0	1		1
+P78581	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	Fungi	588	18.0	1		1
+C7F6X3	Leucosporidium sp. (strain AY30)	Fungi	261	20.0	1		1
+P80090	Lymnaea stagnalis	Metazoa	122	29.0	1		1
+Q02795	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	286	19.0	1		1
+P0DPU8	Scolopendra dehaani	Metazoa	105	24.0	1		1
+P18649	Canis lupus familiaris	Metazoa	323	18.0	1		1
+P12314	Homo sapiens	Metazoa	374	15.0	1		1
+P04937	Rattus norvegicus	Metazoa	2477	24.0	1		1
+P34180	Vipera ammodytes ammodytes	Metazoa	137	16.0	1		1
+Q76BW5	Oryza sativa subsp. japonica	Plants	290	25.0	1		1
+Q9IAM1	Deinagkistrodon acutus	Metazoa	152	23.0	1		1
+P55803	Bos taurus	Metazoa	246	28.0	1		1
+P01307	Sus scrofa	Metazoa	119	25.0	1		1
+P33577	Petromyzon marinus	Metazoa	119	19.0	1		1
+P29523	Bombyx mori	Metazoa	550	39.0	1		1
+P06215	Phaseolus vulgaris	Plants	328	27.0	1		1
+P05623	Drosophila melanogaster	Metazoa	55	19.0	1		1
+A0A8U1C2Y4	Apis mellifera	Metazoa	686	19.0	1		1
+P01225	Homo sapiens	Metazoa	129	18.0	1		1
+C0K3N1	Bitis arietans	Metazoa	150	24.0	1		1
+P21570	Mus musculus	Metazoa	145	24.0	1		1
+A8CL69	Apis mellifera	Metazoa	195	33.0	1		1
+P01311	Oryctolagus cuniculus	Metazoa	110	24.0	1		1
+A0AT32	Lens culinaris	Plants	118	25.0	1		1
+Q76FP5	Hypocrea rufa	Fungi	479	20.0	1		1
+P81608	Sus scrofa	Metazoa	191	16.0	1		1
+P86929	Metaphire guillelmi	Metazoa	73	14.0	1		1
+P13204	Bos taurus	Metazoa	129	26.0	1		1
+P43306	Clarias gariepinus	Metazoa	86	24.0	1		1
+Q9UBP4	Homo sapiens	Metazoa	350	21.0	1		1
+P0DUS6	Doratifera vulnerans	Metazoa	60	24.0	1		1
+P02727	Canis lupus familiaris	Metazoa	129	17.0	1		1
+P01706	Homo sapiens	Metazoa	119	19.0	1		1
+Q53NL5	Oryza sativa subsp. japonica	Plants	290	27.0	1		1
+P09319	Oreochromis mossambicus	Metazoa	212	24.0	1		1
+Q24824	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	96	19.0	1		1
+P24259	Sus scrofa	Metazoa	150	24.0	1		1
+P85966	Triticum kiharae	Plants	116	34.0	1		1
+Q29011	Sus scrofa	Metazoa	2434	16.0	1		1
+A9UGV7	Oryza sativa subsp. japonica	Plants	63	26.0	1		1
+P01297	Sus scrofa	Metazoa	121	24.0	1		1
+P16860	Homo sapiens	Metazoa	134	26.0	1		1
+Q41358	Sambucus nigra	Plants	570	28.0	1		1
+P09470	Mus musculus	Metazoa	1312	34.0	1		1
+Q6IV20	Gallus gallus	Metazoa	104	22.0	1		1
+P01538	Viscum album	Plants	111	26.0	1		1
+Q05538	Solanum lycopersicum	Plants	322	22.0	1		1
+P19427	Bos taurus	Metazoa	201	18.0	1		1
+P16112	Homo sapiens	Metazoa	2530	16.0	1		1
+P20462	Notamacropus eugenii	Metazoa	176	18.0	1		1
+Q800Y2	Argyrosomus regius	Metazoa	118	19.0	1		1
+P28088	Bos taurus	Metazoa	441	26.0	1		1
+Q8RUW5	Arabidopsis thaliana	Plants	433	19.0	1		1
+P39037	Sus scrofa	Metazoa	232	15.0	1		1
+Q63191	Rattus norvegicus	Metazoa	1216	21.0	1		1
+Q96IQ7	Homo sapiens	Metazoa	327	23.0	1		1
+P21760	Gallus gallus	Metazoa	178	20.0	1		1
+Q9Y5U5	Homo sapiens	Metazoa	241	25.0	1		1
+G5ED35	Caenorhabditis elegans	Metazoa	135	20.0	1		1
+O15467	Homo sapiens	Metazoa	120	23.0	1		1
+P01235	Cyprinus carpio	Metazoa	144	27.0	1		1
+O00748	Homo sapiens	Metazoa	559	26.0	1		1
+P01088	Zea mays	Plants	155	28.0	1		1
+P23141	Homo sapiens	Metazoa	567	17.0	1		1
+Q5ECE3	Lonomia obliqua	Metazoa	201	16.0	1		1
+Q62718	Rattus norvegicus	Metazoa	344	32.0	1		1
+P83618	Panax ginseng	Plants	238	23.0	1		1
+Q805F3	Xenopus laevis	Metazoa	397	16.0	1		1
+Q09140	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1448	18.0	1		1
+P06727	Homo sapiens	Metazoa	396	20.0	1		1
+P01005	Gallus gallus	Metazoa	210	24.0	1		1
+P01308	Homo sapiens	Metazoa	110	24.0	1		1
+Q09117	Populus deltoides	Plants	312	24.0	1		1
+O62644	Bos taurus	Metazoa	151	18.0	1		1
+Q16790	Homo sapiens	Metazoa	459	37.0	1		1
+D1MGU1	Protobothrops jerdonii	Metazoa	146	23.0	1		1
+P16975	Rattus norvegicus	Metazoa	301	17.0	1		1
+Q17060	Apis mellifera	Metazoa	544	20.0	1		1
+P52823	Homo sapiens	Metazoa	247	17.0	1		1
+P22297	Manduca sexta	Metazoa	681	18.0	1		1
+F5CPE0	Micrurus altirostris	Metazoa	80	21.0	1		1
+P34998	Homo sapiens	Metazoa	415	23.0	1		1
+B1P0S1	Pseudopleuronectes americanus	Metazoa	218	23.0	1		1
+P13611	Homo sapiens	Metazoa	3396	20.0	1		1
+P61823	Bos taurus	Metazoa	150	26.0	1		1
+Q9Y5Q6	Homo sapiens	Metazoa	135	22.0	1		1
+Q9BX93	Homo sapiens	Metazoa	195	19.0	1		1
+P34951	Hordeum vulgare	Plants	143	24.0	1		1
+P21956	Mus musculus	Metazoa	463	22.0	1		1
+P83636	Faxonius limosus	Metazoa	106	29.0	1		1
+Q7ZTA6	Crotalus viridis viridis	Metazoa	138	16.0	1		1
+A8CG90	Daboia russelii	Metazoa	137	16.0	1		1
+P09955	Sus scrofa	Metazoa	416	15.0	1		1
+P83234	Ophiophagus hannah	Metazoa	190	20.0	1		1
+Q9SJY7	Arabidopsis thaliana	Plants	131	21.0	1		1
+P17697	Bos taurus	Metazoa	439	19.0	1		1
+P01034	Homo sapiens	Metazoa	146	26.0	1		1
+Q16270	Homo sapiens	Metazoa	282	26.0	1		1
+P01217	Bos taurus	Metazoa	120	24.0	1		1
+Q4WZ11	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	87	19.0	1		1
+P32358	Bombyx mori	Metazoa	579	15.0	1		1
+A3RF67	Dalbergia nigrescens	Plants	547	31.0	1		1
+Q8T0W3	Pimpla hypochondriaca	Metazoa	63	25.0	1		1
+P30438	Felis catus	Metazoa	92	22.0	1		1
+P10256	Oncorhynchus keta	Metazoa	142	23.0	1		1
+I7ICN3	Bitis rhinoceros	Metazoa	150	23.0	1		1
+O01949	Aedes aegypti	Metazoa	273	19.0	1		1
+Q8T113	Bombyx mori	Metazoa	227	17.0	1		1
+O95711	Homo sapiens	Metazoa	162	20.0	1		1
+P81447	Capra hircus	Metazoa	154	18.0	1		1
+P10354	Rattus norvegicus	Metazoa	466	18.0	1		1
+P15691	Bos taurus	Metazoa	190	26.0	1		1
+O62680	Sus scrofa	Metazoa	123	25.0	1		1
+P04119	Sus scrofa	Metazoa	178	18.0	1		1
+P04090	Homo sapiens	Metazoa	185	24.0	1		1
+Q06703	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	312	44.0	1		1
+Q5B1W7	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	Fungi	385	18.0	1		1
+P80958	Naja atra	Metazoa	82	21.0	1		1
+A0A1W6EVM7	Ampulex compressa	Metazoa	50	26.0	1		1
+Q9N2D4	Callithrix jacchus	Metazoa	387	15.0	1		1
+B5LYJ9	Remusatia vivipara	Plants	256	23.0	1		1
+P54660	Dictyostelium discoideum	Other	143	22.0	1		1
+C1IC50	Walterinnesia aegyptia	Metazoa	81	24.0	1		1
+Q9R100	Mus musculus	Metazoa	827	25.0	1		1
+Q8QG87	Bothrops insularis	Metazoa	138	16.0	1		1
+G9M8X1	Nephotettix cincticeps	Metazoa	687	19.0	1		1
+G8YYA5	Androctonus amoreuxi	Metazoa	74	22.0	1		1
+Q17128	Blaberus discoidalis	Metazoa	72	21.0	1		1
+P09585	Cyprinus carpio	Metazoa	210	23.0	1		1
+P01317	Bos taurus	Metazoa	105	24.0	1		1
+Q9Y251	Homo sapiens	Metazoa	543	35.0	1		1
+P02776	Homo sapiens	Metazoa	101	31.0	1		1
+P01398	Bungarus multicinctus	Metazoa	87	21.0	1		1
+O35701	Mus musculus	Metazoa	481	27.0	1		1
+O64393	Triticum aestivum	Plants	148	23.0	1		1
+P19999	Rattus norvegicus	Metazoa	238	17.0	1		1
+P31532	Mus musculus	Metazoa	130	18.0	1		1
+O60931	Homo sapiens	Metazoa	367	22.0	1		1
+P36438	Brassica rapa subsp. rapa	Plants	320	35.0	1		1
+P31211	Rattus norvegicus	Metazoa	396	22.0	1		1
+Q59Y31	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	533	21.0	1		1
+P80392	Meleagris gallopavo	Metazoa	64	28.0	1		1
+P29460	Homo sapiens	Metazoa	328	22.0	1		1
+Q8AV98	Protobothrops flavoviridis	Metazoa	148	23.0	1		1
+Q96RQ9	Homo sapiens	Metazoa	567	21.0	1		1
+P08236	Homo sapiens	Metazoa	651	22.0	1		1
+Q6UXL0	Homo sapiens	Metazoa	311	29.0	1		1
+P02814	Homo sapiens	Metazoa	79	22.0	1		1
+Q5KSB7	Oligobrachia mashikoi	Metazoa	161	16.0	1		1
+P54318	Rattus norvegicus	Metazoa	468	16.0	1		1
+P83371	Oncorhynchus keta	Metazoa	508	25.0	1		1
+P0DUS9	Doratifera vulnerans	Metazoa	59	19.0	1		1
+P80370	Homo sapiens	Metazoa	383	23.0	1		1
+O11780	Sus scrofa	Metazoa	683	23.0	1		1
+O00585	Homo sapiens	Metazoa	134	23.0	1		1
+Q2PG81	Protobothrops elegans	Metazoa	137	16.0	1		1
+P01909	Homo sapiens	Metazoa	254	23.0	1		1
+P0DUJ5	Pterois volitans	Metazoa	66	22.0	1		1
+P81623	Bos taurus	Metazoa	258	29.0	1		1
+Q60675	Mus musculus	Metazoa	3118	19.0	1		1
+P14612	Pseudechis australis	Metazoa	89	21.0	1		1
+O60046	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	217	20.0	1		1
+P00651	Aspergillus oryzae (strain ATCC 42149 / RIB 40)	Fungi	130	26.0	1		1
+P01701	Homo sapiens	Metazoa	117	19.0	1		1
+A1X158	Perna viridis	Metazoa	561	20.0	1		1
+M5AXY1	Felis catus	Metazoa	201	18.0	1		1
+P0C552	Bungarus fasciatus	Metazoa	78	21.0	1		1
+B0JFB8	Antheraea mylitta	Metazoa	105	19.0	1		1
+P01901	Mus musculus	Metazoa	369	21.0	1		1
+P41222	Homo sapiens	Metazoa	190	22.0	1		1
+P02749	Homo sapiens	Metazoa	345	19.0	1		1
+O60565	Homo sapiens	Metazoa	184	24.0	1		1
+P05186	Homo sapiens	Metazoa	524	17.0	1		1
+P11643	Hordeum vulgare	Plants	171	24.0	1		1
+P30986	Eschscholzia californica	Plants	538	23.0	1		1
+A0A1S3PBB7	Salmo salar	Metazoa	375	23.0	1		1
+A0A7J6K7I9	Toxoplasma gondii	Other	553	64.0	1		1
+Q07558	Hirudinaria manillensis	Metazoa	84	20.0	1		1
+O43852	Homo sapiens	Metazoa	315	19.0	1		1
+P29788	Mus musculus	Metazoa	478	19.0	1		1
+P63153	Sus scrofa	Metazoa	146	23.0	1		1
+P0DJI8	Homo sapiens	Metazoa	122	18.0	1		1
+O14786	Homo sapiens	Metazoa	923	21.0	1		1
+Q61508	Mus musculus	Metazoa	559	19.0	1		1
+Q8N6Q3	Homo sapiens	Metazoa	437	21.0	1		1
+A7VN13	Protobothrops flavoviridis	Metazoa	107	19.0	1		1
+Q05091	Pyrus communis	Plants	330	24.0	1		1
+P04073	Rattus norvegicus	Metazoa	392	16.0	1		1
+Q70SU8	Salmo salar	Metazoa	342	19.0	1		1
+P19835	Homo sapiens	Metazoa	753	20.0	1		1
+P01494	Centruroides sculpturatus	Metazoa	87	19.0	1		1
+Q07092	Homo sapiens	Metazoa	1604	21.0	1		1
+P00698	Gallus gallus	Metazoa	147	18.0	1		1
+P53616	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	420	24.0	1		1
+P32947	Diutina rugosa	Fungi	549	15.0	1		1
+P58154	Lymnaea stagnalis	Metazoa	229	19.0	1		1
+P57087	Homo sapiens	Metazoa	298	28.0	1		1
+P60304	Naja atra	Metazoa	81	21.0	1		1
+P80035	Canis lupus familiaris	Metazoa	398	19.0	1		1
+Q9XYT4	Cryptorchestia cavimana	Metazoa	128	20.0	1		1
+P48816	Bombyx mori	Metazoa	137	18.0	1		1
+Q00855	Dermatophagoides farinae	Metazoa	146	17.0	1		1
+Q07154	Zea mays	Plants	269	24.0	1		1
+Q9ES58	Rattus norvegicus	Metazoa	327	23.0	1		1
+Q86Y34	Homo sapiens	Metazoa	549	20.0	1		1
+P91745	Lucilia cuprina	Metazoa	375	20.0	1		1
+P11936	Sus scrofa	Metazoa	284	22.0	1		1
+P31096	Bos taurus	Metazoa	278	16.0	1		1
+P45590	Hyalophora cecropia	Metazoa	129	17.0	1		1
+O46168	Eratigena agrestis	Metazoa	68	17.0	1		1
+Q9NPR2	Homo sapiens	Metazoa	837	43.0	1		1
+P08721	Rattus norvegicus	Metazoa	317	16.0	1		1
+Q968Z6	Dictyostelium discoideum	Other	557	19.0	1		1
+Q13421	Homo sapiens	Metazoa	630	36.0	1		1
+Q41649	Vicia faba	Plants	151	22.0	1		1
+P61629	Papio anubis	Metazoa	148	18.0	1		1
+P18829	Schistocerca gregaria	Metazoa	63	22.0	1		1
+Q99ML8	Mus musculus	Metazoa	113	23.0	1		1
+Q3L1D1	Agaricus bisporus	Fungi	594	25.0	1		1
+P80915	Macadamia integrifolia	Plants	102	26.0	1		1
+P07692	Torpedo marmorata	Metazoa	590	24.0	1		1
+P31346	Sus scrofa	Metazoa	147	24.0	1		1
+Q4LCS8	Androctonus australis	Metazoa	82	22.0	1		1
+P11799	Gallus gallus	Metazoa	1906		0	False	1
+A0A1E3P8S6	Wickerhamomyces anomalus (strain ATCC 58044 / CBS 1984 / NCYC 433 / NRRL Y-366-8)	Fungi	391		0	False	1
+Q16698	Homo sapiens	Metazoa	335		0	False	1
+O82259	Arabidopsis thaliana	Plants	225		0	False	1
+Q9M0S5	Arabidopsis thaliana	Plants	764		0	False	1
+P50213	Homo sapiens	Metazoa	366		0	False	1
+Q6ZSZ5	Homo sapiens	Metazoa	1361		0	False	1
+P18111	Mus musculus	Metazoa	268		0	False	1
+Q9SQR2	Arabidopsis thaliana	Plants	272		0	False	1
+O14235	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	348		0	False	1
+Q7X9V3	Arabidopsis thaliana	Plants	258		0	False	1
+O95251	Homo sapiens	Metazoa	611		0	False	1
+P62801	Gallus gallus	Metazoa	103		0	False	1
+P27788	Zea mays	Plants	152		0	False	1
+P20152	Mus musculus	Metazoa	466		0	False	1
+Q8CDK2	Mus musculus	Metazoa	862		0	False	1
+P80147	Sus scrofa	Metazoa	500		0	False	1
+Q96CJ1	Homo sapiens	Metazoa	260		0	False	1
+Q8TF71	Homo sapiens	Metazoa	515		0	True	1
+Q9DB41	Mus musculus	Metazoa	320		0	True	1
+Q9ESV1	Rattus norvegicus	Metazoa	1051		0	False	1
+Q9ZQI7	Arabidopsis thaliana	Plants	456		0	False	1
+Q03611	Caenorhabditis elegans	Metazoa	733		0	False	1
+P06350	Oncorhynchus mykiss	Metazoa	207		0	False	1
+P52591	Rattus norvegicus	Metazoa	1199		0	True	1
+P17012	Mus musculus	Metazoa	799		0	False	1
+A2AKX3	Mus musculus	Metazoa	2646		0	False	1
+Q24434	Drosophila melanogaster	Metazoa	479		0	False	1
+P0CT67	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	152		0	False	1
+P25573	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	417		0	True	1
+P47196	Rattus norvegicus	Metazoa	480		0	False	1
+Q15942	Homo sapiens	Metazoa	572		0	False	1
+O00574	Homo sapiens	Metazoa	342		0	True	1
+Q66KV4	Xenopus laevis	Metazoa	90		0	False	1
+Q9GZU7	Homo sapiens	Metazoa	261		0	False	1
+P34213	Caenorhabditis elegans	Metazoa	205		0	False	1
+Q9H040	Homo sapiens	Metazoa	489		0	False	1
+Q95748	Arabidopsis thaliana	Plants	190		0	False	1
+L0R6Q1	Homo sapiens	Metazoa	103		0	True	1
+Q94F30	Arabidopsis thaliana	Plants	489		0	False	1
+Q5D869	Arabidopsis thaliana	Plants	1976		0	False	1
+F4JCC1	Arabidopsis thaliana	Plants	992		0	False	1
+B6ZKM3	Carapichea ipecacuanha	Plants	543		0	False	1
+Q07510	Spinacia oleracea	Plants	405		0	False	1
+P93203	Solanum lycopersicum	Plants	697		0	False	1
+Q8R316	Mus musculus	Metazoa	516		0	False	1
+Q9P7J7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	437		0	False	1
+O60264	Homo sapiens	Metazoa	1052		0	False	1
+P22778	Ipomoea batatas	Plants	244		0	False	1
+P45968	Caenorhabditis elegans	Metazoa	339		0	False	1
+P40625	Tetrahymena pyriformis	Other	99		0	False	1
+P28230	Mus musculus	Metazoa	283		0	True	1
+Q20924	Caenorhabditis elegans	Metazoa	473		0	False	1
+Q27415	Drosophila melanogaster	Metazoa	152		0	False	1
+Q0D2I5	Homo sapiens	Metazoa	559		0	False	1
+O54942	Mus musculus	Metazoa	218		0	True	1
+Q9UBS0	Homo sapiens	Metazoa	482		0	False	1
+Q8NBU5	Homo sapiens	Metazoa	361		0	True	1
+Q23529	Caenorhabditis elegans	Metazoa	777		0	False	1
+P40897	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	799		0	False	1
+F4KF14	Arabidopsis thaliana	Plants	855		0	False	1
+Q22323	Caenorhabditis elegans	Metazoa	283		0	False	1
+Q6AYD3	Rattus norvegicus	Metazoa	394		0	False	1
+B6HJ92	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	552		0	False	1
+Q16560	Homo sapiens	Metazoa	246		0	False	1
+Q9LZN0	Arabidopsis thaliana	Plants	546		0	False	1
+O94776	Homo sapiens	Metazoa	668		0	False	1
+Q60795	Mus musculus	Metazoa	597		0	False	1
+C6SZ50	Glycine max	Plants	211		0	False	1
+B5X0I6	Arabidopsis thaliana	Plants	1091		0	False	1
+P38121	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	705		0	False	1
+Q9H813	Homo sapiens	Metazoa	350		0	True	1
+P58467	Mus musculus	Metazoa	439		0	False	1
+Q9ULV3	Homo sapiens	Metazoa	898		0	False	1
+Q9BRQ6	Homo sapiens	Metazoa	235		0	False	1
+P00423	Bos taurus	Metazoa	169		0	False	1
+Q8NAP3	Homo sapiens	Metazoa	1195		0	False	1
+Q3U1J0	Mus musculus	Metazoa	479		0	True	1
+Q9BUZ4	Homo sapiens	Metazoa	470		0	False	1
+Q64373	Mus musculus	Metazoa	233		0	False	1
+Q8R3C6	Mus musculus	Metazoa	952		0	False	1
+Q9UT50	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	485		0	False	1
+Q96PK6	Homo sapiens	Metazoa	669		0	False	1
+O96237	Plasmodium falciparum (isolate 3D7)	Other	899		0	False	1
+A0A3Q7HWE4	Solanum lycopersicum	Plants	165		0	False	1
+P25453	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	334		0	False	1
+P25555	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	427		0	False	1
+Q6DE08	Xenopus laevis	Metazoa	361		0	False	1
+Q39237	Arabidopsis thaliana	Plants	368		0	False	1
+Q9ERS0	Rattus norvegicus	Metazoa	405		0	True	1
+P22513	Trypanosoma cruzi	Other	359		0	False	1
+P38060	Mus musculus	Metazoa	325		0	False	1
+Q9BXJ9	Homo sapiens	Metazoa	866		0	False	1
+Q9SU56	Arabidopsis thaliana	Plants	610		0	True	1
+Q96P66	Homo sapiens	Metazoa	508		0	True	1
+P21372	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	849		0	False	1
+G5ED68	Caenorhabditis elegans	Metazoa	676		0	False	1
+Q7M400	Tetrahymena pyriformis	Other	121		0	False	1
+P31414	Arabidopsis thaliana	Plants	770		0	True	1
+Q5KKP4	Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)	Fungi	640		0	False	1
+Q62962	Rattus norvegicus	Metazoa	512		0	True	1
+O74458	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1006		0	False	1
+Q9H0C3	Homo sapiens	Metazoa	514		0	True	1
+W5U2K2	Catharanthus roseus	Plants	289		0	False	1
+P08635	Rattus norvegicus	Metazoa	263		0	False	1
+P38205	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	684		0	False	1
+P79015	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	127		0	False	1
+Q8K4F5	Mus musculus	Metazoa	307		0	False	1
+Q8CEG8	Mus musculus	Metazoa	438		0	False	1
+G5EFS4	Caenorhabditis elegans	Metazoa	311		0	False	1
+Q9LQL0	Arabidopsis thaliana	Plants	166		0	False	1
+Q9M7N6	Solanum lycopersicum	Plants	152		0	False	1
+Q9UBX3	Homo sapiens	Metazoa	287		0	True	1
+Q24325	Drosophila melanogaster	Metazoa	1221		0	False	1
+Q8LB54	Arabidopsis thaliana	Plants	355		0	False	1
+Q9BYD3	Homo sapiens	Metazoa	311		0	False	1
+P46199	Homo sapiens	Metazoa	727		0	False	1
+P78917	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	550		0	False	1
+Q9UU99	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1008		0	False	1
+Q55BP0	Dictyostelium discoideum	Other	136		0	False	1
+E9PUL5	Mus musculus	Metazoa	346		0	False	1
+P40007	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	231		0	False	1
+O75807	Homo sapiens	Metazoa	674		0	False	1
+O13744	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	259		0	False	1
+Q9UTK4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1807		0	False	1
+Q9UKD2	Homo sapiens	Metazoa	239		0	False	1
+U9W8F2	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	110		0	False	1
+Q8LLD0	Arabidopsis thaliana	Plants	1046		0	False	1
+Q9M1Z3	Arabidopsis thaliana	Plants	91		0	False	1
+P31689	Homo sapiens	Metazoa	397		0	False	1
+Q6NTJ3	Xenopus laevis	Metazoa	887		0	False	1
+Q6RFH5	Homo sapiens	Metazoa	385		0	False	1
+Q8LAC4	Arabidopsis thaliana	Plants	322		0	False	1
+O02324	Caenorhabditis elegans	Metazoa	137		0	False	1
+P56746	Homo sapiens	Metazoa	228		0	True	1
+O74381	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	467		0	False	1
+P79110	Bos taurus	Metazoa	311		0	True	1
+O35368	Mus musculus	Metazoa	408		0	False	1
+G5EFY4	Caenorhabditis elegans	Metazoa	286		0	False	1
+Q61644	Mus musculus	Metazoa	441		0	False	1
+B1AZ99	Mus musculus	Metazoa	396		0	False	1
+Q6PDS3	Mus musculus	Metazoa	724		0	False	1
+P22694	Homo sapiens	Metazoa	351		0	False	1
+Q13838	Homo sapiens	Metazoa	428		0	False	1
+Q8BUE1	Mus musculus	Metazoa	797		0	False	1
+Q9HAP2	Homo sapiens	Metazoa	919		0	False	1
+Q9P7F8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	329		0	False	1
+Q9C9Y6	Arabidopsis thaliana	Plants	140		0	False	1
+Q9XGX9	Arabidopsis thaliana	Plants	93		0	False	1
+Q12692	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	134		0	False	1
+P06624	Bos taurus	Metazoa	263		0	True	1
+P47074	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	515		0	False	1
+P83291	Arabidopsis thaliana	Plants	328		0	False	1
+P08152	Mus musculus	Metazoa	470		0	False	1
+P22108	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	325		0	False	1
+Q14493	Homo sapiens	Metazoa	270		0	False	1
+Q91836	Xenopus laevis	Metazoa	298		0	False	1
+O00204	Homo sapiens	Metazoa	365		0	False	1
+O14925	Homo sapiens	Metazoa	209		0	True	1
+P42685	Homo sapiens	Metazoa	505		0	False	1
+Q02085	Mus musculus	Metazoa	264		0	False	1
+Q9VF27	Drosophila melanogaster	Metazoa	217		0	False	1
+Q9JK42	Mus musculus	Metazoa	407		0	False	1
+G3XKQ9	Oryza sativa subsp. japonica	Plants	394		0	False	1
+P93045	Arabidopsis thaliana	Plants	240		0	False	1
+Q9FH18	Arabidopsis thaliana	Plants	509		0	False	1
+P63045	Rattus norvegicus	Metazoa	116		0	False	1
+Q9NUM3	Homo sapiens	Metazoa	307		0	True	1
+O95625	Homo sapiens	Metazoa	1053		0	False	1
+Q9JHZ9	Rattus norvegicus	Metazoa	504		0	True	1
+Q9W420	Drosophila melanogaster	Metazoa	1831		0	False	1
+A0A1L8FDW4	Xenopus laevis	Metazoa	619		0	False	1
+P38439	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	464		0	False	1
+Q65ZG8	Caenorhabditis elegans	Metazoa	597		0	False	1
+P02276	Triticum aestivum	Plants	151		0	False	1
+O60481	Homo sapiens	Metazoa	467		0	False	1
+Q9H8V3	Homo sapiens	Metazoa	914		0	False	1
+Q9C552	Arabidopsis thaliana	Plants	753		0	False	1
+O74417	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	497		0	False	1
+P54609	Arabidopsis thaliana	Plants	809		0	False	1
+Q63424	Rattus norvegicus	Metazoa	729		0	True	1
+Q84LM4	Arabidopsis thaliana	Plants	764		0	False	1
+Q02764	Nicotiana tabacum	Plants	187		0	False	1
+O22922	Arabidopsis thaliana	Plants	232		0	False	1
+P40522	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	640		0	False	1
+Q15021	Homo sapiens	Metazoa	1401		0	False	1
+Q6ZY51	Arabidopsis thaliana	Plants	1196		0	False	1
+Q6PIU2	Homo sapiens	Metazoa	408		0	True	1
+P35363	Mus musculus	Metazoa	471		0	True	1
+P52175	Bos taurus	Metazoa	152		0	False	1
+Q6R327	Homo sapiens	Metazoa	1708		0	False	1
+P29117	Rattus norvegicus	Metazoa	206		0	False	1
+P11413	Homo sapiens	Metazoa	515		0	False	1
+P36118	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	322		0	False	1
+P38132	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	845		0	False	1
+P22289	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	66		0	True	1
+Q60670	Mus musculus	Metazoa	779		0	False	1
+D3ZGB1	Rattus norvegicus	Metazoa	1548		0	False	1
+Q2QWU2	Oryza sativa subsp. japonica	Plants	443		0	False	1
+Q84VQ3	Arabidopsis thaliana	Plants	439		0	False	1
+P00046	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	109		0	False	1
+Q9D1M4	Mus musculus	Metazoa	174		0	False	1
+Q42972	Oryza sativa subsp. japonica	Plants	356		0	False	1
+O57321	Ambystoma tigrinum	Metazoa	543		0	True	1
+Q9S7C9	Arabidopsis thaliana	Plants	311		0	False	1
+P47898	Homo sapiens	Metazoa	357		0	True	1
+Q7RTT9	Homo sapiens	Metazoa	530		0	True	1
+Q8NE35	Homo sapiens	Metazoa	698		0	False	1
+Q0WQW5	Arabidopsis thaliana	Plants	638		0	False	1
+P25569	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	745		0	False	1
+P38143	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	162		0	False	1
+O59894	Komagataella pastoris	Fungi	376		0	False	1
+Q9Y6C9	Homo sapiens	Metazoa	303		0	True	1
+E9PZM4	Mus musculus	Metazoa	1827		0	False	1
+Q6Z2G7	Oryza sativa subsp. japonica	Plants	361		0	False	1
+Q07998	Danio rerio	Metazoa	423		0	False	1
+O74978	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	276		0	False	1
+A4D2B0	Homo sapiens	Metazoa	266		0	False	1
+Q9Z206	Mus musculus	Metazoa	595		0	False	1
+Q9H1I8	Homo sapiens	Metazoa	757		0	False	1
+P47118	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	141		0	False	1
+O94650	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	73		0	False	1
+Q0DC89	Oryza sativa subsp. japonica	Plants	214		0	False	1
+P36012	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	229		0	False	1
+P37398	Oryza sativa subsp. japonica	Plants	727		0	False	1
+P21281	Homo sapiens	Metazoa	511		0	False	1
+Q14145	Homo sapiens	Metazoa	624		0	False	1
+P0CP68	Cryptococcus neoformans var. neoformans serotype D (strain JEC21 / ATCC MYA-565)	Fungi	365		0	False	1
+P40075	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	244		0	False	1
+O94516	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	364		0	False	1
+P06208	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	619		0	False	1
+G5EDW1	Caenorhabditis elegans	Metazoa	217		0	False	1
+Q8BG21	Mus musculus	Metazoa	171		0	True	1
+Q03435	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	203		0	False	1
+Q06339	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	672		0	False	1
+Q921B4	Mus musculus	Metazoa	824		0	False	1
+O46411	Bos taurus	Metazoa	560		0	False	1
+Q6P5G0	Mus musculus	Metazoa	583		0	False	1
+O00198	Homo sapiens	Metazoa	91		0	True	1
+Q9QZI9	Mus musculus	Metazoa	472		0	False	1
+Q6K881	Oryza sativa subsp. japonica	Plants	565		0	False	1
+Q9SLD2	Arabidopsis thaliana	Plants	520		0	False	1
+Q8K3Y6	Rattus norvegicus	Metazoa	776		0	False	1
+Q6ZTN6	Homo sapiens	Metazoa	605		0	False	1
+Q8N370	Homo sapiens	Metazoa	569		0	True	1
+Q7KMJ6	Drosophila melanogaster	Metazoa	793		0	False	1
+P00508	Gallus gallus	Metazoa	423		0	False	1
+Q63HR2	Homo sapiens	Metazoa	1409		0	False	1
+Q12166	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	604		0	False	1
+Q9W6V6	Gallus gallus	Metazoa	2705		0	False	1
+Q6YXX9	Oryza sativa subsp. japonica	Plants	150		0	False	1
+Q9Z2D7	Mus musculus	Metazoa	554		0	False	1
+P27787	Zea mays	Plants	150		0	False	1
+P07560	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	215		0	False	1
+O94451	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	727		0	False	1
+P46010	Arabidopsis thaliana	Plants	346		0	False	1
+C0HKE5	Mus musculus	Metazoa	130		0	False	1
+O42998	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1919		0	False	1
+O74792	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	515		0	False	1
+Q01593	Arabidopsis thaliana	Plants	720		0	False	1
+P48529	Arabidopsis thaliana	Plants	305		0	False	1
+Q99496	Homo sapiens	Metazoa	336		0	False	1
+Q7KWJ5	Plasmodium falciparum (isolate 3D7)	Other	504		0	True	1
+Q8IY18	Homo sapiens	Metazoa	1101		0	False	1
+P32239	Homo sapiens	Metazoa	447		0	True	1
+O13900	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	481		0	False	1
+Q8BGV8	Mus musculus	Metazoa	463		0	True	1
+P34784	Aglaothamnion neglectum	Other	317		0	False	1
+Q9UBX2	Homo sapiens	Metazoa	424		0	False	1
+Q9BWF3	Homo sapiens	Metazoa	364		0	False	1
+P78317	Homo sapiens	Metazoa	190		0	False	1
+Q810B3	Mus musculus	Metazoa	232		0	False	1
+P40630	Mus musculus	Metazoa	243		0	False	1
+P22336	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	621		0	False	1
+Q9BYI3	Homo sapiens	Metazoa	521		0	False	1
+Q9XFR5	Arabidopsis thaliana	Plants	268		0	False	1
+Q01956	Rattus norvegicus	Metazoa	889		0	False	1
+Q8IVF7	Homo sapiens	Metazoa	1028		0	False	1
+Q504T8	Homo sapiens	Metazoa	468		0	False	1
+Q7SIG6	Mus musculus	Metazoa	958		0	False	1
+P54964	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	269		0	False	1
+Q67Y99	Arabidopsis thaliana	Plants	330		0	False	1
+Q3UMZ3	Mus musculus	Metazoa	260		0	True	1
+Q9URT4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	697		0	False	1
+P34326	Caenorhabditis elegans	Metazoa	187		0	False	1
+Q18508	Caenorhabditis elegans	Metazoa	1784		0	False	1
+Q8R4U1	Mus musculus	Metazoa	393		0	False	1
+Q8CFC7	Mus musculus	Metazoa	668		0	False	1
+Q96CP6	Homo sapiens	Metazoa	724		0	False	1
+P62241	Homo sapiens	Metazoa	208		0	False	1
+P14604	Rattus norvegicus	Metazoa	290		0	False	1
+Q9Y3D0	Homo sapiens	Metazoa	163		0	False	1
+O74388	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	301		0	False	1
+Q86VW1	Homo sapiens	Metazoa	577		0	True	1
+Q19345	Caenorhabditis elegans	Metazoa	572		0	False	1
+Q8TCC3	Homo sapiens	Metazoa	161		0	False	1
+P53886	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1748		0	False	1
+P68530	Bos taurus	Metazoa	227		0	True	1
+Q9CA42	Arabidopsis thaliana	Plants	1085		0	False	1
+P30804	Canis lupus familiaris	Metazoa	1165		0	False	1
+Q9P032	Homo sapiens	Metazoa	175		0	False	1
+Q7RTY1	Homo sapiens	Metazoa	509		0	True	1
+Q9FJ17	Arabidopsis thaliana	Plants	211		0	False	1
+Q8H151	Arabidopsis thaliana	Plants	608		0	False	1
+Q9C6Z1	Arabidopsis thaliana	Plants	589		0	False	1
+Q8IZD6	Homo sapiens	Metazoa	547		0	True	1
+P51449	Homo sapiens	Metazoa	518		0	False	1
+Q9Y3D5	Homo sapiens	Metazoa	142		0	False	1
+Q9WVR3	Rattus norvegicus	Metazoa	1257		0	False	1
+Q9D3D9	Mus musculus	Metazoa	168		0	False	1
+Q4KLP8	Xenopus laevis	Metazoa	663		0	False	1
+Q2TA12	Bos taurus	Metazoa	306		0	False	1
+P53991	Chlamydomonas reinhardtii	Plants	354		0	False	1
+I3W9F6	Rhizophagus irregularis	Fungi	276		0	True	1
+O55170	Rattus norvegicus	Metazoa	466		0	False	1
+O42227	Xenopus laevis	Metazoa	480		0	False	1
+Q9CXW4	Mus musculus	Metazoa	178		0	False	1
+O43687	Homo sapiens	Metazoa	104		0	False	1
+O75821	Homo sapiens	Metazoa	320		0	False	1
+P29458	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	911		0	False	1
+Q9CQT9	Mus musculus	Metazoa	129		0	True	1
+P35221	Homo sapiens	Metazoa	906		0	False	1
+P32238	Homo sapiens	Metazoa	428		0	True	1
+P57105	Homo sapiens	Metazoa	145		0	False	1
+Q9P241	Homo sapiens	Metazoa	1426		0	False	1
+P05114	Homo sapiens	Metazoa	100		0	False	1
+P10827	Homo sapiens	Metazoa	490		0	False	1
+P11531	Mus musculus	Metazoa	3678		0	False	1
+Q12153	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	453		0	False	1
+Q9VLJ8	Drosophila melanogaster	Metazoa	453		0	False	1
+Q9BSV6	Homo sapiens	Metazoa	310		0	False	1
+P70698	Mus musculus	Metazoa	591		0	False	1
+Q9P805	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	127		0	False	1
+F4J2K2	Arabidopsis thaliana	Plants	625		0	False	1
+O08808	Mus musculus	Metazoa	1255		0	False	1
+P78364	Homo sapiens	Metazoa	1004		0	False	1
+I1CR68	Rhizopus delemar (strain RA 99-880 / ATCC MYA-4621 / FGSC 9543 / NRRL 43880)	Fungi	306		0	True	1
+P38927	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	245		0	False	1
+P08579	Homo sapiens	Metazoa	225		0	False	1
+Q9P7E0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	79		0	True	1
+Q96Q89	Homo sapiens	Metazoa	1820		0	False	1
+P40688	Drosophila melanogaster	Metazoa	548		0	False	1
+P47973	Rattus norvegicus	Metazoa	320		0	False	1
+P15037	Mus musculus	Metazoa	468		0	False	1
+Q16611	Homo sapiens	Metazoa	211		0	False	1
+P22342	Euglena viridis	Other	102		0	False	1
+Q94AV5	Arabidopsis thaliana	Plants	459		0	False	1
+Q5VRD7	Oryza sativa subsp. japonica	Plants	53		0	True	1
+Q61831	Mus musculus	Metazoa	464		0	False	1
+A0A2R6QE26	Actinidia chinensis var. chinensis	Plants	689		0	False	1
+Q8TE02	Homo sapiens	Metazoa	300		0	False	1
+Q8IBS5	Plasmodium falciparum (isolate 3D7)	Other	528		0	False	1
+Q9UBY5	Homo sapiens	Metazoa	353		0	True	1
+P12532	Homo sapiens	Metazoa	417		0	False	1
+Q9FK12	Arabidopsis thaliana	Plants	354		0	False	1
+O13775	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	716		0	False	1
+Q9CR68	Mus musculus	Metazoa	274		0	False	1
+Q3KNY0	Mus musculus	Metazoa	2849		0	False	1
+Q9FLF7	Arabidopsis thaliana	Plants	445		0	False	1
+O95260	Homo sapiens	Metazoa	518		0	False	1
+Q61469	Mus musculus	Metazoa	283		0	True	1
+Q9LML2	Arabidopsis thaliana	Plants	979		0	False	1
+Q8IUN9	Homo sapiens	Metazoa	316		0	True	1
+P0CU08	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	235		0	False	1
+Q61880	Mus musculus	Metazoa	340		0	False	1
+Q92826	Homo sapiens	Metazoa	284		0	False	1
+Q9VV74	Drosophila melanogaster	Metazoa	226		0	False	1
+Q10661	Caenorhabditis elegans	Metazoa	123		0	False	1
+Q96RL7	Homo sapiens	Metazoa	3174		0	False	1
+A7DTF0	Caenorhabditis elegans	Metazoa	337		0	False	1
+Q8IS98	Crithidia fasciculata	Other	134		0	False	1
+Q6I5C3	Oryza sativa subsp. japonica	Plants	209		0	False	1
+Q9TYY7	Caenorhabditis elegans	Metazoa	478		0	True	1
+P48443	Homo sapiens	Metazoa	463		0	False	1
+Q04089	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	582		0	False	1
+Q2M3C6	Homo sapiens	Metazoa	523		0	False	1
+Q5DT39	Rattus norvegicus	Metazoa	243		0	True	1
+Q94126	Caenorhabditis elegans	Metazoa	211		0	False	1
+P21528	Pisum sativum	Plants	441		0	False	1
+G3LSH3	Lotus japonicus	Plants	483		0	False	1
+P36970	Rattus norvegicus	Metazoa	197		0	False	1
+P0CL69	Mus musculus	Metazoa	594		0	False	1
+O88343	Mus musculus	Metazoa	1079		0	False	1
+P42845	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	420		0	False	1
+Q8BGC4	Mus musculus	Metazoa	377		0	False	1
+Q9BSW2	Homo sapiens	Metazoa	731		0	False	1
+Q9UGC7	Homo sapiens	Metazoa	380		0	False	1
+Q8TAT5	Homo sapiens	Metazoa	605		0	False	1
+Q9H4Q4	Homo sapiens	Metazoa	367		0	False	1
+Q8GUC3	Hordeum vulgare	Plants	350		0	False	1
+Q14156	Homo sapiens	Metazoa	821		0	False	1
+P21727	Pisum sativum	Plants	402		0	False	1
+Q25QX6	Xenopus laevis	Metazoa	153		0	False	1
+Q8WWY3	Homo sapiens	Metazoa	499		0	False	1
+P15692	Homo sapiens	Metazoa	395		0	False	1
+Q9VTL1	Drosophila melanogaster	Metazoa	395		0	False	1
+Q9NRR8	Homo sapiens	Metazoa	79		0	False	1
+P55212	Homo sapiens	Metazoa	293		0	False	1
+Q3V6T2	Homo sapiens	Metazoa	1871		0	False	1
+Q10317	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	193		0	False	1
+Q6IDB0	Arabidopsis thaliana	Plants	193		0	False	1
+Q14166	Homo sapiens	Metazoa	644		0	False	1
+O88453	Rattus norvegicus	Metazoa	931		0	False	1
+O74736	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	305		0	False	1
+Q9NK54	Drosophila melanogaster	Metazoa	1711		0	False	1
+P35718	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	212		0	False	1
+P00042	Wickerhamomyces anomalus	Fungi	109		0	False	1
+P04911	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	132		0	False	1
+O60832	Homo sapiens	Metazoa	514		0	False	1
+Q9UHI7	Homo sapiens	Metazoa	598		0	True	1
+P49028	Drosophila melanogaster	Metazoa	147		0	False	1
+P08173	Homo sapiens	Metazoa	479		0	True	1
+Q8RWR1	Arabidopsis thaliana	Plants	429		0	False	1
+Q8VEH6	Mus musculus	Metazoa	393		0	False	1
+Q96GR2	Homo sapiens	Metazoa	724		0	False	1
+A0A0P0WQ90	Oryza sativa subsp. japonica	Plants	416		0	False	1
+P53289	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	263		0	False	1
+Q96AD5	Homo sapiens	Metazoa	504		0	True	1
+Q8K5A9	Rattus norvegicus	Metazoa	228		0	True	1
+Q9ZPX5	Arabidopsis thaliana	Plants	632		0	False	1
+Q9SU30	Arabidopsis thaliana	Plants	413		0	False	1
+Q9S7G6	Arabidopsis thaliana	Plants	991		0	False	1
+Q9STM3	Arabidopsis thaliana	Plants	1360		0	False	1
+Q05437	Gallus gallus	Metazoa	245		0	False	1
+P19518	Oryctolagus cuniculus	Metazoa	222		0	True	1
+O15143	Homo sapiens	Metazoa	372		0	False	1
+P39990	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	126		0	False	1
+O75410	Homo sapiens	Metazoa	805		0	False	1
+P07756	Rattus norvegicus	Metazoa	1500		0	False	1
+Q9SI64	Arabidopsis thaliana	Plants	702		0	False	1
+Q9UPI3	Homo sapiens	Metazoa	526		0	True	1
+P38253	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	122		0	True	1
+Q7Y220	Arabidopsis thaliana	Plants	649		0	False	1
+Q9NQV5	Homo sapiens	Metazoa	511		0	False	1
+Q8IZ52	Homo sapiens	Metazoa	775		0	True	1
+Q8GRN0	Arabidopsis thaliana	Plants	222		0	False	1
+Q61179	Mus musculus	Metazoa	399		0	False	1
+Q9ESL4	Mus musculus	Metazoa	802		0	False	1
+Q9DBY5	Mus musculus	Metazoa	414		0	False	1
+P31392	Rattus norvegicus	Metazoa	395		0	True	1
+P42028	Bos taurus	Metazoa	212		0	False	1
+P53999	Homo sapiens	Metazoa	127		0	False	1
+Q14562	Homo sapiens	Metazoa	1220		0	False	1
+Q12488	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	208		0	False	1
+P97629	Rattus norvegicus	Metazoa	1025		0	False	1
+P11416	Mus musculus	Metazoa	462		0	False	1
+Q9HCX4	Homo sapiens	Metazoa	862		0	False	1
+Q8N573	Homo sapiens	Metazoa	874		0	False	1
+P53239	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	316		0	False	1
+Q8LGJ5	Arabidopsis thaliana	Plants	276		0	False	1
+Q9R210	Mus musculus	Metazoa	475		0	False	1
+Q9ER69	Mus musculus	Metazoa	396		0	False	1
+Q32065	Chlamydomonas reinhardtii	Plants	2971		0	False	1
+Q8LDU4	Arabidopsis thaliana	Plants	319		0	False	1
+P82024	Spinacia oleracea	Plants	180		0	False	1
+Q6PD24	Mus musculus	Metazoa	605		0	False	1
+P57735	Homo sapiens	Metazoa	213		0	False	1
+Q99741	Homo sapiens	Metazoa	560		0	False	1
+Q9FHR8	Arabidopsis thaliana	Plants	278		0	False	1
+D2K8N5	Nicotiana benthamiana	Plants	403		0	False	1
+Q7RTP6	Homo sapiens	Metazoa	2002		0	False	1
+O00590	Homo sapiens	Metazoa	384		0	True	1
+Q6NZF1	Mus musculus	Metazoa	792		0	False	1
+Q96JM3	Homo sapiens	Metazoa	812		0	False	1
+O08691	Mus musculus	Metazoa	354		0	False	1
+P17658	Homo sapiens	Metazoa	529		0	False	1
+Q8R3L2	Mus musculus	Metazoa	676		0	False	1
+O08586	Mus musculus	Metazoa	403		0	False	1
+Q96A56	Homo sapiens	Metazoa	240		0	False	1
+Q13356	Homo sapiens	Metazoa	520		0	False	1
+P82914	Homo sapiens	Metazoa	257		0	False	1
+Q3ZN08	Mus musculus	Metazoa	260		0	False	1
+Q9Z0G9	Mus musculus	Metazoa	219		0	True	1
+Q9HBW0	Homo sapiens	Metazoa	348		0	True	1
+Q8C551	Mus musculus	Metazoa	337		0	False	1
+Q9UNY4	Homo sapiens	Metazoa	1162		0	False	1
+Q9DEX1	Xenopus laevis	Metazoa	560		0	False	1
+Q5IRJ6	Mus musculus	Metazoa	567		0	False	1
+Q03153	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	612		0	False	1
+Q04206	Homo sapiens	Metazoa	551		0	False	1
+Q9HBL7	Homo sapiens	Metazoa	147		0	True	1
+Q00535	Homo sapiens	Metazoa	292		0	False	1
+I1RAW4	Gibberella zeae (strain ATCC MYA-4620 / CBS 123657 / FGSC 9075 / NRRL 31084 / PH-1)	Fungi	316		0	False	1
+Q04741	Homo sapiens	Metazoa	290		0	False	1
+P40060	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	125		0	False	1
+Q9Y2K7	Homo sapiens	Metazoa	1162		0	False	1
+Q9NX76	Homo sapiens	Metazoa	183		0	True	1
+Q8BHN1	Mus musculus	Metazoa	524		0	False	1
+Q00598	Cyanophora paradoxa	Other	363		0	False	1
+Q5GLZ8	Homo sapiens	Metazoa	1057		0	False	1
+I7HD01	Leishmania donovani	Other	189		0	False	1
+Q10MC0	Oryza sativa subsp. japonica	Plants	628		0	False	1
+Q9SUA1	Arabidopsis thaliana	Plants	763		0	False	1
+Q60674	Mus musculus	Metazoa	576		0	False	1
+Q9S757	Arabidopsis thaliana	Plants	368		0	False	1
+Q812E9	Rattus norvegicus	Metazoa	278		0	True	1
+P20339	Homo sapiens	Metazoa	215		0	False	1
+Q99551	Homo sapiens	Metazoa	399		0	False	1
+Q969J2	Homo sapiens	Metazoa	545		0	False	1
+Q84VQ4	Arabidopsis thaliana	Plants	218		0	False	1
+Q969Q6	Homo sapiens	Metazoa	453		0	False	1
+P43606	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	678		0	False	1
+O23492	Arabidopsis thaliana	Plants	582		0	True	1
+Q6ZPR4	Mus musculus	Metazoa	1224		0	True	1
+P0C0S6	Mus musculus	Metazoa	128		0	False	1
+G5EG51	Caenorhabditis elegans	Metazoa	1270		0	False	1
+Q04675	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	128		0	False	1
+B1B3P3	Sophora flavescens	Plants	410		0	False	1
+Q4PSU4	Arabidopsis thaliana	Plants	264		0	False	1
+Q9JIY5	Mus musculus	Metazoa	458		0	False	1
+O81283	Arabidopsis thaliana	Plants	1503		0	True	1
+Q92804	Homo sapiens	Metazoa	592		0	False	1
+P0CV95	Fragaria ananassa	Plants	578		0	False	1
+Q26457	Aedes albopictus	Metazoa	383		0	False	1
+P28805	Spinacia oleracea	Plants	66		0	False	1
+Q07381	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	788		0	False	1
+Q9V3Y0	Drosophila melanogaster	Metazoa	215		0	False	1
+Q8C8M1	Mus musculus	Metazoa	221		0	False	1
+F4JVI3	Arabidopsis thaliana	Plants	493		0	False	1
+Q06678	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	367		0	False	1
+P0C510	Oryza sativa	Plants	477		0	False	1
+P48985	Mus musculus	Metazoa	351		0	False	1
+Q9D3F7	Mus musculus	Metazoa	229		0	False	1
+Q9BW72	Homo sapiens	Metazoa	106		0	True	1
+Q13107	Homo sapiens	Metazoa	963		0	False	1
+Q00059	Homo sapiens	Metazoa	246		0	False	1
+P29547	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	415		0	False	1
+A0A120KVR5	Trypanosoma brucei brucei	Other	1642		0	False	1
+Q9SMX3	Arabidopsis thaliana	Plants	274		0	False	1
+Q00536	Homo sapiens	Metazoa	496		0	False	1
+Q68DD2	Homo sapiens	Metazoa	849		0	False	1
+P55769	Homo sapiens	Metazoa	128		0	False	1
+P42834	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	146		0	False	1
+Q8NCE0	Homo sapiens	Metazoa	465		0	False	1
+Q8WXU2	Homo sapiens	Metazoa	420		0	False	1
+Q96PP9	Homo sapiens	Metazoa	640		0	False	1
+P49847	Drosophila melanogaster	Metazoa	606		0	False	1
+A2AIL4	Mus musculus	Metazoa	333		0	False	1
+P11884	Rattus norvegicus	Metazoa	519		0	False	1
+A6NLJ0	Homo sapiens	Metazoa	364		0	False	1
+O14146	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	159		0	False	1
+P0CH07	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	128		0	False	1
+Q9ULC5	Homo sapiens	Metazoa	683		0	True	1
+Q2LAE1	Arabidopsis thaliana	Plants	1759		0	False	1
+Q96AJ1	Homo sapiens	Metazoa	413		0	False	1
+Q9Y6I4	Homo sapiens	Metazoa	520		0	False	1
+Q03201	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	203		0	False	1
+Q8NB91	Homo sapiens	Metazoa	859		0	False	1
+O70585	Mus musculus	Metazoa	659		0	False	1
+O94248	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	4717		0	False	1
+Q63377	Rattus norvegicus	Metazoa	279		0	True	1
+O17695	Caenorhabditis elegans	Metazoa	461		0	False	1
+Q9YHT2	Gallus gallus	Metazoa	290		0	False	1
+Q9BZF9	Homo sapiens	Metazoa	1416		0	False	1
+B9VRJ2	Papaver somniferum	Plants	321		0	False	1
+Q9BPW8	Homo sapiens	Metazoa	284		0	False	1
+Q8L9Y3	Arabidopsis thaliana	Plants	382		0	False	1
+Q9ES71	Rattus norvegicus	Metazoa	678		0	False	1
+P26370	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	528		0	False	1
+Q8I2S0	Plasmodium falciparum (isolate 3D7)	Other	384		0	False	1
+P52503	Mus musculus	Metazoa	116		0	False	1
+Q62521	Mus musculus	Metazoa	466		0	False	1
+P36552	Mus musculus	Metazoa	443		0	False	1
+Q61188	Mus musculus	Metazoa	746		0	False	1
+P39654	Mus musculus	Metazoa	663		0	False	1
+Q9D6Y7	Mus musculus	Metazoa	233		0	False	1
+Q63ZY3	Homo sapiens	Metazoa	851		0	False	1
+Q50L43	Mus musculus	Metazoa	825		0	False	1
+Q15080	Homo sapiens	Metazoa	339		0	False	1
+O08786	Mus musculus	Metazoa	436		0	True	1
+P51801	Homo sapiens	Metazoa	687		0	True	1
+Q68FR2	Rattus norvegicus	Metazoa	507		0	False	1
+O23138	Arabidopsis thaliana	Plants	114		0	False	1
+Q06596	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	294		0	False	1
+Q5SU73	Mus musculus	Metazoa	570		0	False	1
+Q9SFU0	Arabidopsis thaliana	Plants	1038		0	False	1
+P40303	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	254		0	False	1
+P93022	Arabidopsis thaliana	Plants	1164		0	False	1
+Q9VZM7	Drosophila melanogaster	Metazoa	631		0	False	1
+P49085	Zea mays	Plants	410		0	False	1
+Q96C03	Homo sapiens	Metazoa	454		0	True	1
+Q03414	Xenopus laevis	Metazoa	516		0	False	1
+Q8C7E9	Mus musculus	Metazoa	632		0	False	1
+Q9UUC6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	97		0	False	1
+Q9NY33	Homo sapiens	Metazoa	737		0	False	1
+Q8R1B5	Mus musculus	Metazoa	158		0	False	1
+Q9FJL3	Arabidopsis thaliana	Plants	578		0	False	1
+Q8IUH3	Homo sapiens	Metazoa	476		0	False	1
+P50443	Homo sapiens	Metazoa	739		0	False	1
+P63252	Homo sapiens	Metazoa	427		0	True	1
+P53163	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	194		0	False	1
+Q7S711	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	443		0	False	1
+Q9BRI3	Homo sapiens	Metazoa	372		0	False	1
+Q9NWZ8	Homo sapiens	Metazoa	242		0	False	1
+P32876	Bos taurus	Metazoa	136		0	True	1
+Q06991	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	263		0	True	1
+Q9P7T4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1019		0	False	1
+Q09330	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	199		0	False	1
+P35356	Procambarus clarkii	Metazoa	376		0	True	1
+Q3T9M1	Mus musculus	Metazoa	494		0	False	1
+Q9VC03	Drosophila melanogaster	Metazoa	389		0	False	1
+Q8N2C7	Homo sapiens	Metazoa	3258		0	False	1
+P17028	Homo sapiens	Metazoa	368		0	False	1
+Q96EY7	Homo sapiens	Metazoa	689		0	False	1
+Q38879	Arabidopsis thaliana	Plants	133		0	False	1
+P00352	Homo sapiens	Metazoa	501		0	False	1
+Q9Y271	Homo sapiens	Metazoa	337		0	True	1
+Q9JLT4	Mus musculus	Metazoa	524		0	False	1
+P28222	Homo sapiens	Metazoa	390		0	True	1
+Q9SEL5	Arabidopsis thaliana	Plants	222		0	False	1
+O74331	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	363		0	False	1
+P00157	Bos taurus	Metazoa	379		0	True	1
+Q7Z7H8	Homo sapiens	Metazoa	261		0	False	1
+P36037	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	715		0	False	1
+Q9PVF8	Danio rerio	Metazoa	907		0	False	1
+P9WEU3	Cryptococcus deuterogattii (strain R265)	Fungi	1529		0	False	1
+Q5Z9J0	Oryza sativa subsp. japonica	Plants	580		0	False	1
+Q9SIS3	Arabidopsis thaliana	Plants	608		0	False	1
+Q6K1E7	Mus musculus	Metazoa	370		0	False	1
+Q6UXY1	Homo sapiens	Metazoa	529		0	False	1
+Q5VTD9	Homo sapiens	Metazoa	330		0	False	1
+Q8N414	Homo sapiens	Metazoa	524		0	False	1
+Q9NRP7	Homo sapiens	Metazoa	1315		0	False	1
+P29385	Arabidopsis thaliana	Plants	246		0	False	1
+O76460	Drosophila melanogaster	Metazoa	784		0	False	1
+Q38882	Arabidopsis thaliana	Plants	810		0	False	1
+Q8NHG8	Homo sapiens	Metazoa	242		0	False	1
+Q8NHW3	Homo sapiens	Metazoa	353		0	False	1
+Q9VB08	Drosophila melanogaster	Metazoa	435		0	False	1
+O74429	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	920		0	False	1
+O94668	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	388		0	False	1
+O43315	Homo sapiens	Metazoa	295		0	True	1
+P49584	Cricetulus griseus	Metazoa	367		0	False	1
+P15343	Equus caballus	Metazoa	58		0	False	1
+Q9SJQ9	Arabidopsis thaliana	Plants	358		0	False	1
+O95391	Homo sapiens	Metazoa	586		0	False	1
+P10518	Mus musculus	Metazoa	330		0	False	1
+Q9VR19	Drosophila melanogaster	Metazoa	379		0	False	1
+Q9Y371	Homo sapiens	Metazoa	365		0	False	1
+Q7ZT47	Xenopus laevis	Metazoa	196		0	False	1
+Q15233	Homo sapiens	Metazoa	471		0	False	1
+Q9VXG1	Drosophila melanogaster	Metazoa	1959		0	False	1
+P97449	Mus musculus	Metazoa	966		0	True	1
+P53309	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	568		0	False	1
+Q9XF57	Arabidopsis thaliana	Plants	317		0	False	1
+J9VLJ9	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	154		0	False	1
+P38805	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	295		0	False	1
+Q9C0F3	Homo sapiens	Metazoa	470		0	False	1
+P27448	Homo sapiens	Metazoa	753		0	False	1
+P63220	Homo sapiens	Metazoa	83		0	False	1
+Q9W1V7	Drosophila melanogaster	Metazoa	452		0	False	1
+O00429	Homo sapiens	Metazoa	736		0	False	1
+P32246	Homo sapiens	Metazoa	355		0	True	1
+Q9FJW4	Arabidopsis thaliana	Plants	154		0	False	1
+O22267	Arabidopsis thaliana	Plants	1122		0	True	1
+P42935	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	788		0	False	1
+Q9UT19	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	764		0	False	1
+F4I2H7	Arabidopsis thaliana	Plants	790		0	False	1
+A0A076FFM5	Ocimum basilicum	Plants	523		0	False	1
+P04908	Homo sapiens	Metazoa	130		0	False	1
+Q9Z351	Mus musculus	Metazoa	759		0	False	1
+Q8LAJ7	Arabidopsis thaliana	Plants	292		0	False	1
+Q6K678	Oryza sativa subsp. japonica	Plants	210		0	False	1
+Q9BPZ7	Homo sapiens	Metazoa	522		0	False	1
+O74934	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	689		0	False	1
+Q9UQC2	Homo sapiens	Metazoa	676		0	False	1
+Q15057	Homo sapiens	Metazoa	778		0	False	1
+P40070	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	187		0	False	1
+Q69YU5	Homo sapiens	Metazoa	71		0	True	1
+Q38953	Arabidopsis thaliana	Plants	1168		0	False	1
+D5LXJ0	Lotus japonicus	Plants	691		0	False	1
+O24591	Zea mays	Plants	307		0	False	1
+Q03067	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	99		0	False	1
+O15511	Homo sapiens	Metazoa	151		0	False	1
+Q9HBM1	Homo sapiens	Metazoa	224		0	False	1
+Q92979	Homo sapiens	Metazoa	244		0	False	1
+Q0WPZ7	Arabidopsis thaliana	Plants	611		0	False	1
+Q9Y113	Drosophila melanogaster	Metazoa	594		0	False	1
+O00625	Homo sapiens	Metazoa	290		0	False	1
+A0A0D1DYJ6	Mycosarcoma maydis	Fungi	619		0	True	1
+P38647	Mus musculus	Metazoa	679		0	False	1
+Q9H400	Homo sapiens	Metazoa	295		0	True	1
+Q9H6Z9	Homo sapiens	Metazoa	239		0	False	1
+Q9M7J4	Nicotiana tabacum	Plants	722		0	False	1
+P34980	Rattus norvegicus	Metazoa	365		0	True	1
+Q5R3K3	Homo sapiens	Metazoa	315		0	True	1
+Q1MT80	Danio rerio	Metazoa	618		0	False	1
+Q09967	Caenorhabditis elegans	Metazoa	551		0	True	1
+Q6NLW5	Arabidopsis thaliana	Plants	300		0	False	1
+Q9P6N2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	229		0	False	1
+Q9BVN2	Homo sapiens	Metazoa	902		0	False	1
+Q921D9	Mus musculus	Metazoa	618		0	False	1
+P24929	Nicotiana tabacum	Plants	186		0	False	1
+P35477	Nicotiana tabacum	Plants	99		0	False	1
+P04386	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	881		0	False	1
+P92966	Arabidopsis thaliana	Plants	356		0	False	1
+O65683	Arabidopsis thaliana	Plants	159		0	False	1
+P51950	Marthasterias glacialis	Metazoa	324		0	False	1
+Q95XG8	Caenorhabditis elegans	Metazoa	560		0	True	1
+Q9Y399	Homo sapiens	Metazoa	296		0	False	1
+P36038	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	271		0	False	1
+P51172	Homo sapiens	Metazoa	802		0	False	1
+P40495	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	371		0	False	1
+O00442	Homo sapiens	Metazoa	366		0	False	1
+Q01574	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	713		0	False	1
+Q9JHS4	Mus musculus	Metazoa	634		0	False	1
+Q9BZV1	Homo sapiens	Metazoa	441		0	False	1
+Q03923	Homo sapiens	Metazoa	595		0	False	1
+O14638	Homo sapiens	Metazoa	875		0	True	1
+Q9NUQ9	Homo sapiens	Metazoa	324		0	False	1
+O35493	Mus musculus	Metazoa	481		0	False	1
+P25929	Homo sapiens	Metazoa	384		0	True	1
+P59287	Ricinus communis	Plants	601		0	False	1
+Q1MTS0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	597		0	False	1
+Q8LAZ7	Arabidopsis thaliana	Plants	357		0	False	1
+O80860	Arabidopsis thaliana	Plants	695		0	False	1
+P51163	Mus musculus	Metazoa	265		0	False	1
+A4F267	Rattus norvegicus	Metazoa	308		0	False	1
+Q9R053	Mus musculus	Metazoa	1765		0	False	1
+P30044	Homo sapiens	Metazoa	214		0	False	1
+O82486	Arabidopsis thaliana	Plants	685		0	False	1
+Q9H9L3	Homo sapiens	Metazoa	353		0	False	1
+Q07820	Homo sapiens	Metazoa	350		0	False	1
+Q00972	Rattus norvegicus	Metazoa	412		0	False	1
+Q9CAQ8	Arabidopsis thaliana	Plants	369		0	False	1
+Q1K6Q3	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	236		0	False	1
+P48644	Bos taurus	Metazoa	501		0	False	1
+Q96N11	Homo sapiens	Metazoa	449		0	False	1
+O43031	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	381		0	False	1
+Q8H1Y0	Arabidopsis thaliana	Plants	393		0	False	1
+P16048	Pisum sativum	Plants	165		0	False	1
+Q6L5B5	Oryza sativa subsp. japonica	Plants	248		0	False	1
+Q43869	Spinacia oleracea	Plants	472		0	False	1
+Q6WNK7	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	96		0	False	1
+O60427	Homo sapiens	Metazoa	444		0	False	1
+Q9BY84	Homo sapiens	Metazoa	665		0	False	1
+O54902	Rattus norvegicus	Metazoa	568		0	True	1
+Q12102	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	859		0	False	1
+F4HYF3	Arabidopsis thaliana	Plants	401		0	False	1
+Q9QXM1	Mus musculus	Metazoa	983		0	False	1
+Q5XIC0	Rattus norvegicus	Metazoa	391		0	False	1
+A0A509AN56	Plasmodium berghei (strain Anka)	Other	365		0	False	1
+Q03654	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	590		0	False	1
+P21796	Homo sapiens	Metazoa	283		0	True	1
+Q9BTL4	Homo sapiens	Metazoa	223		0	False	1
+Q3UIK4	Mus musculus	Metazoa	456		0	False	1
+P40961	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	287		0	False	1
+O13795	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	402		0	False	1
+Q9LSQ5	Arabidopsis thaliana	Plants	204		0	False	1
+Q9R1K2	Rattus norvegicus	Metazoa	2774		0	False	1
+O75691	Homo sapiens	Metazoa	2785		0	False	1
+P13185	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1064		0	False	1
+Q9VPT8	Drosophila melanogaster	Metazoa	296		0	False	1
+P49599	Arabidopsis thaliana	Plants	388		0	False	1
+P49653	Rattus norvegicus	Metazoa	472		0	True	1
+Q9P6I7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	367		0	False	1
+P30279	Homo sapiens	Metazoa	289		0	False	1
+Q62219	Mus musculus	Metazoa	461		0	False	1
+Q9NQ55	Homo sapiens	Metazoa	473		0	False	1
+A1Z8D0	Drosophila melanogaster	Metazoa	459		0	False	1
+Q22795	Caenorhabditis elegans	Metazoa	242		0	False	1
+P97303	Mus musculus	Metazoa	839		0	False	1
+Q80Z29	Rattus norvegicus	Metazoa	491		0	False	1
+Q9VYD1	Drosophila melanogaster	Metazoa	2313		0	False	1
+Q3ECR7	Arabidopsis thaliana	Plants	62		0	True	1
+P04920	Homo sapiens	Metazoa	1241		0	False	1
+Q9P7H8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1679		0	False	1
+P15919	Mus musculus	Metazoa	1040		0	False	1
+Q6Q783	Mus musculus	Metazoa	468		0	False	1
+Q01130	Homo sapiens	Metazoa	221		0	False	1
+B6HLU1	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	3746		0	False	1
+Q8WV93	Homo sapiens	Metazoa	481		0	False	1
+P20134	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	766		0	False	1
+Q9C5H9	Arabidopsis thaliana	Plants	678		0	False	1
+P15387	Rattus norvegicus	Metazoa	857		0	False	1
+Q7SB98	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	312		0	False	1
+Q00715	Rattus norvegicus	Metazoa	125		0	False	1
+Q94K49	Arabidopsis thaliana	Plants	396		0	False	1
+Q8WWH5	Homo sapiens	Metazoa	349		0	False	1
+Q9NPF4	Homo sapiens	Metazoa	335		0	False	1
+Q24142	Drosophila melanogaster	Metazoa	601		0	False	1
+Q9SJG4	Arabidopsis thaliana	Plants	257		0	False	1
+Q03455	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	724		0	True	1
+Q06611	Arabidopsis thaliana	Plants	286		0	True	1
+Q20471	Caenorhabditis elegans	Metazoa	497		0	False	1
+Q9SRN4	Arabidopsis thaliana	Plants	117		0	False	1
+Q9LRR7	Arabidopsis thaliana	Plants	599		0	False	1
+Q9D818	Mus musculus	Metazoa	391		0	False	1
+Q9ZVL6	Arabidopsis thaliana	Plants	285		0	False	1
+Q504Q3	Homo sapiens	Metazoa	1202		0	False	1
+Q5VVJ2	Homo sapiens	Metazoa	828		0	False	1
+Q8S948	Arabidopsis thaliana	Plants	406		0	False	1
+Q8BZ71	Mus musculus	Metazoa	360		0	False	1
+O75012	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	95		0	False	1
+P54198	Homo sapiens	Metazoa	1017		0	False	1
+P53254	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1237		0	False	1
+P00296	Solanum tuberosum	Plants	99		0	False	1
+O94643	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	441		0	False	1
+Q9LHJ9	Arabidopsis thaliana	Plants	385		0	False	1
+P0CG29	Homo sapiens	Metazoa	244		0	False	1
+Q09666	Homo sapiens	Metazoa	5890		0	False	1
+Q149M9	Homo sapiens	Metazoa	1564		0	False	1
+Q12800	Homo sapiens	Metazoa	502		0	False	1
+Q3E840	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	82		0	False	1
+Q9NVV9	Homo sapiens	Metazoa	213		0	False	1
+P11388	Homo sapiens	Metazoa	1531		0	False	1
+P40971	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	790		0	False	1
+Q9Y694	Homo sapiens	Metazoa	548		0	True	1
+Q9Y4Y9	Homo sapiens	Metazoa	91		0	False	1
+Q9BXN2	Homo sapiens	Metazoa	247		0	True	1
+Q6EKJ0	Homo sapiens	Metazoa	949		0	False	1
+Q8WWL7	Homo sapiens	Metazoa	1395		0	False	1
+P22557	Homo sapiens	Metazoa	587		0	False	1
+Q7XZF5	Arabidopsis thaliana	Plants	1841		0	False	1
+G5ECT8	Caenorhabditis elegans	Metazoa	209		0	False	1
+Q9FTY0	Oryza sativa subsp. japonica	Plants	320		0	False	1
+Q9ULJ3	Homo sapiens	Metazoa	1066		0	False	1
+Q61327	Mus musculus	Metazoa	619		0	True	1
+P43004	Homo sapiens	Metazoa	574		0	True	1
+Q9SAL0	Arabidopsis thaliana	Plants	401		0	False	1
+Q9Y243	Homo sapiens	Metazoa	479		0	False	1
+Q9CAD5	Arabidopsis thaliana	Plants	883		0	False	1
+Q8TDV5	Homo sapiens	Metazoa	335		0	True	1
+P33897	Homo sapiens	Metazoa	745		0	False	1
+O73622	Xenopus laevis	Metazoa	293		0	False	1
+Q96GC6	Homo sapiens	Metazoa	653		0	False	1
+Q9VUQ5	Drosophila melanogaster	Metazoa	1214		0	False	1
+Q9Y6T7	Homo sapiens	Metazoa	804		0	False	1
+Q9JKU3	Rattus norvegicus	Metazoa	1749		0	False	1
+P0CW70	Mus musculus	Metazoa	773		0	False	1
+Q9Y6N9	Homo sapiens	Metazoa	552		0	False	1
+P15144	Homo sapiens	Metazoa	967		0	True	1
+Q02770	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	301		0	False	1
+Q497V6	Mus musculus	Metazoa	772		0	False	1
+P21951	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	2222		0	False	1
+Q9NWR8	Homo sapiens	Metazoa	336		0	False	1
+P20435	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	155		0	False	1
+Q93YW0	Arabidopsis thaliana	Plants	684		0	False	1
+Q9C8M2	Arabidopsis thaliana	Plants	202		0	False	1
+O75143	Homo sapiens	Metazoa	517		0	False	1
+Q8VYJ2	Arabidopsis thaliana	Plants	356		0	False	1
+P53615	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	221		0	False	1
+Q9SMH4	Chlamydomonas reinhardtii	Plants	410		0	False	1
+P47019	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	175		0	False	1
+Q4QEZ7	Leishmania major	Other	175		0	False	1
+Q38819	Arabidopsis thaliana	Plants	450		0	False	1
+Q923Y8	Mus musculus	Metazoa	332		0	True	1
+Q99807	Homo sapiens	Metazoa	217		0	False	1
+P70060	Xenopus laevis	Metazoa	375		0	False	1
+O42861	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	922		0	False	1
+P36151	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	352		0	False	1
+Q9LJG6	Arabidopsis thaliana	Plants	193		0	False	1
+G5EF53	Caenorhabditis elegans	Metazoa	1474		0	False	1
+O02193	Drosophila melanogaster	Metazoa	827		0	False	1
+P06493	Homo sapiens	Metazoa	297		0	False	1
+P12684	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1045		0	True	1
+Q6IS41	Mus musculus	Metazoa	310		0	True	1
+Q9LUD9	Arabidopsis thaliana	Plants	360		0	False	1
+O43603	Homo sapiens	Metazoa	387		0	True	1
+P53834	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	153		0	False	1
+P53157	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	130		0	True	1
+Q7XM13	Oryza sativa subsp. japonica	Plants	289		0	False	1
+Q14657	Homo sapiens	Metazoa	143		0	False	1
+P03879	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	638		0	False	1
+Q3U4H6	Mus musculus	Metazoa	486		0	False	1
+Q96G30	Homo sapiens	Metazoa	205		0	True	1
+P37271	Arabidopsis thaliana	Plants	422		0	False	1
+Q96SB4	Homo sapiens	Metazoa	655		0	False	1
+O64682	Arabidopsis thaliana	Plants	438		0	False	1
+P12074	Homo sapiens	Metazoa	109		0	True	1
+Q9LW57	Arabidopsis thaliana	Plants	284		0	False	1
+Q4QAU9	Leishmania major	Other	549		0	False	1
+Q9VNA8	Drosophila melanogaster	Metazoa	568		0	False	1
+Q8VE70	Mus musculus	Metazoa	212		0	False	1
+Q8GXW1	Arabidopsis thaliana	Plants	547		0	False	1
+Q6C6R8	Yarrowia lipolytica (strain CLIB 122 / E 150)	Fungi	417		0	False	1
+Q9SQX9	Arabidopsis thaliana	Plants	447		0	False	1
+Q84LH8	Arabidopsis thaliana	Plants	444		0	False	1
+P39984	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	401		0	False	1
+P81900	Drosophila melanogaster	Metazoa	377		0	False	1
+P38088	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	690		0	False	1
+Q92934	Homo sapiens	Metazoa	168		0	False	1
+P51685	Homo sapiens	Metazoa	355		0	True	1
+Q8QZV7	Mus musculus	Metazoa	732		0	False	1
+P49841	Homo sapiens	Metazoa	420		0	False	1
+A2AS55	Mus musculus	Metazoa	361		0	False	1
+Q03323	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	175		0	False	1
+Q8TAD4	Homo sapiens	Metazoa	765		0	True	1
+Q9DG23	Gallus gallus	Metazoa	357		0	True	1
+P41828	Caenorhabditis elegans	Metazoa	588		0	False	1
+O02274	Caenorhabditis elegans	Metazoa	539		0	False	1
+P55041	Mus musculus	Metazoa	295		0	False	1
+Q9LD95	Arabidopsis thaliana	Plants	547		0	False	1
+O70127	Rattus norvegicus	Metazoa	1321		0	True	1
+Q12433	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	566		0	False	1
+O75874	Homo sapiens	Metazoa	414		0	False	1
+Q61037	Mus musculus	Metazoa	1814		0	False	1
+O75679	Homo sapiens	Metazoa	317		0	False	1
+Q9ZVN2	Arabidopsis thaliana	Plants	704		0	False	1
+Q53AQ4	Rattus norvegicus	Metazoa	245		0	True	1
+Q9FJG1	Arabidopsis thaliana	Plants	90		0	False	1
+P22509	Rattus norvegicus	Metazoa	327		0	False	1
+Q08473	Drosophila melanogaster	Metazoa	344		0	False	1
+Q9ZUR7	Arabidopsis thaliana	Plants	468		0	False	1
+Q90477	Danio rerio	Metazoa	275		0	False	1
+Q9WUU9	Mus musculus	Metazoa	1971		0	False	1
+P47108	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1174		0	False	1
+Q06680	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1035		0	False	1
+Q7TNS8	Mus musculus	Metazoa	369		0	False	1
+P32387	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	263		0	False	1
+Q8C2B3	Mus musculus	Metazoa	938		0	False	1
+P38064	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	232		0	False	1
+O35144	Mus musculus	Metazoa	541		0	False	1
+P36046	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	403		0	True	1
+Q6X893	Mus musculus	Metazoa	653		0	True	1
+Q9V727	Drosophila melanogaster	Metazoa	1669		0	False	1
+Q9FT52	Arabidopsis thaliana	Plants	168		0	False	1
+Q86TS9	Homo sapiens	Metazoa	123		0	False	1
+P53060	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	241		0	False	1
+Q8VED8	Mus musculus	Metazoa	361		0	False	1
+Q5VW36	Homo sapiens	Metazoa	1801		0	False	1
+Q6ZI01	Oryza sativa subsp. japonica	Plants	213		0	False	1
+P26369	Mus musculus	Metazoa	475		0	False	1
+Q9UIF7	Homo sapiens	Metazoa	546		0	False	1
+Q62205	Mus musculus	Metazoa	1984		0	False	1
+Q9S7J9	Arabidopsis thaliana	Plants	185		0	False	1
+P38770	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	471		0	False	1
+P33399	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	275		0	False	1
+Q9Y267	Homo sapiens	Metazoa	594		0	True	1
+Q9SCN8	Arabidopsis thaliana	Plants	815		0	False	1
+Q10SU5	Oryza sativa subsp. japonica	Plants	598		0	False	1
+Q6P3S1	Homo sapiens	Metazoa	775		0	False	1
+Q8RY59	Arabidopsis thaliana	Plants	589		0	False	1
+P29558	Homo sapiens	Metazoa	406		0	False	1
+Q8TDT2	Homo sapiens	Metazoa	470		0	True	1
+O75192	Homo sapiens	Metazoa	247		0	True	1
+Q14011	Homo sapiens	Metazoa	172		0	False	1
+Q2M3G0	Homo sapiens	Metazoa	1257		0	True	1
+P21952	Mus musculus	Metazoa	449		0	False	1
+Q5NBY9	Mus musculus	Metazoa	687		0	False	1
+O75626	Homo sapiens	Metazoa	825		0	False	1
+O14423	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	514		0	False	1
+P07199	Homo sapiens	Metazoa	599		0	False	1
+Q9UI33	Homo sapiens	Metazoa	1791		0	False	1
+O43008	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	300		0	False	1
+Q68D91	Homo sapiens	Metazoa	279		0	False	1
+O64852	Arabidopsis thaliana	Plants	416		0	False	1
+Q05016	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	267		0	False	1
+P50534	Drosophila melanogaster	Metazoa	773		0	False	1
+P00397	Mus musculus	Metazoa	514		0	True	1
+O04376	Arabidopsis thaliana	Plants	499		0	False	1
+Q9SMJ3	Capsicum annuum	Plants	588		0	False	1
+Q804S5	Danio rerio	Metazoa	1030		0	False	1
+Q14469	Homo sapiens	Metazoa	280		0	False	1
+Q6R0G4	Arabidopsis thaliana	Plants	293		0	False	1
+H9G301	Caenorhabditis elegans	Metazoa	202		0	False	1
+O00716	Homo sapiens	Metazoa	465		0	False	1
+Q04922	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	465		0	False	1
+Q9NR19	Homo sapiens	Metazoa	701		0	False	1
+Q9FFY9	Arabidopsis thaliana	Plants	640		0	False	1
+Q62318	Mus musculus	Metazoa	834		0	False	1
+D3ZGZ6	Rattus norvegicus	Metazoa	127		0	True	1
+P09025	Mus musculus	Metazoa	242		0	False	1
+P70696	Mus musculus	Metazoa	127		0	False	1
+Q7K5N4	Drosophila melanogaster	Metazoa	471		0	False	1
+P15806	Mus musculus	Metazoa	651		0	False	1
+Q91XB0	Mus musculus	Metazoa	314		0	False	1
+P36957	Homo sapiens	Metazoa	453		0	False	1
+P05626	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	244		0	False	1
+Q8BXP5	Mus musculus	Metazoa	385		0	False	1
+Q8L607	Arabidopsis thaliana	Plants	386		0	False	1
+Q96AH0	Homo sapiens	Metazoa	204		0	False	1
+Q9Y657	Homo sapiens	Metazoa	262		0	False	1
+Q8N8Q8	Homo sapiens	Metazoa	333		0	False	1
+P22009	Candida tropicalis	Fungi	127		0	False	1
+Q9UJA2	Homo sapiens	Metazoa	301		0	False	1
+Q95749	Arabidopsis thaliana	Plants	556		0	False	1
+O81208	Arabidopsis thaliana	Plants	110		0	True	1
+O70361	Mus musculus	Metazoa	1113		0	False	1
+Q13216	Homo sapiens	Metazoa	396		0	False	1
+Q9W539	Drosophila melanogaster	Metazoa	1518		0	False	1
+Q5XIJ5	Rattus norvegicus	Metazoa	310		0	False	1
+P02283	Drosophila melanogaster	Metazoa	123		0	False	1
+O70456	Mus musculus	Metazoa	248		0	False	1
+P08033	Rattus norvegicus	Metazoa	283		0	True	1
+Q06559	Drosophila melanogaster	Metazoa	246		0	False	1
+Q9FIK7	Arabidopsis thaliana	Plants	415		0	False	1
+Q7S518	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	165		0	False	1
+Q8IZU0	Homo sapiens	Metazoa	186		0	False	1
+F4IS56	Arabidopsis thaliana	Plants	479		0	False	1
+O95707	Homo sapiens	Metazoa	220		0	False	1
+Q96NC0	Homo sapiens	Metazoa	199		0	False	1
+Q9NPH5	Homo sapiens	Metazoa	578		0	True	1
+O00712	Homo sapiens	Metazoa	420		0	False	1
+Q9JJV7	Rattus norvegicus	Metazoa	107		0	True	1
+P53632	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	584		0	False	1
+Q42438	Arabidopsis thaliana	Plants	533		0	False	1
+Q8C6B9	Mus musculus	Metazoa	143		0	False	1
+P38731	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	627		0	True	1
+P09001	Homo sapiens	Metazoa	348		0	False	1
+P53946	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	755		0	False	1
+P49021	Drosophila melanogaster	Metazoa	1398		0	False	1
+O04922	Arabidopsis thaliana	Plants	169		0	False	1
+F4JCB2	Arabidopsis thaliana	Plants	601		0	False	1
+Q38786	Avena sativa	Plants	574		0	False	1
+D3GE74	Medicago truncatula	Plants	817		0	False	1
+Q8WZ55	Homo sapiens	Metazoa	320		0	True	1
+Q9UBC3	Homo sapiens	Metazoa	853		0	False	1
+Q8WV44	Homo sapiens	Metazoa	630		0	False	1
+P26150	Mus musculus	Metazoa	373		0	False	1
+O43290	Homo sapiens	Metazoa	800		0	False	1
+Q6U6H1	Halocynthia roretzi	Metazoa	259		0	False	1
+Q08DA1	Bos taurus	Metazoa	1021		0	True	1
+Q96PZ2	Homo sapiens	Metazoa	611		0	False	1
+Q13547	Homo sapiens	Metazoa	482		0	False	1
+P11473	Homo sapiens	Metazoa	427		0	False	1
+P35611	Homo sapiens	Metazoa	737		0	False	1
+P78562	Homo sapiens	Metazoa	749		0	True	1
+Q92830	Homo sapiens	Metazoa	837		0	False	1
+P00950	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	247		0	False	1
+Q6UXV4	Homo sapiens	Metazoa	268		0	False	1
+Q23590	Caenorhabditis elegans	Metazoa	1390		0	False	1
+P53996	Mus musculus	Metazoa	178		0	False	1
+P54797	Mus musculus	Metazoa	276		0	False	1
+Q2TAY7	Homo sapiens	Metazoa	513		0	False	1
+Q99933	Homo sapiens	Metazoa	345		0	False	1
+Q84TI7	Arabidopsis thaliana	Plants	506		0	True	1
+Q5SQP1	Mus musculus	Metazoa	306		0	False	1
+Q08857	Mus musculus	Metazoa	472		0	True	1
+O43508	Homo sapiens	Metazoa	249		0	True	1
+P28648	Rattus norvegicus	Metazoa	238		0	True	1
+O60675	Homo sapiens	Metazoa	156		0	False	1
+Q5H9S7	Homo sapiens	Metazoa	520		0	False	1
+P36383	Homo sapiens	Metazoa	396		0	True	1
+P92276	Chlamydomonas reinhardtii	Plants	62		0	True	1
+P84228	Mus musculus	Metazoa	136		0	False	1
+Q8WY54	Homo sapiens	Metazoa	755		0	False	1
+O08581	Mus musculus	Metazoa	336		0	True	1
+E9Q557	Mus musculus	Metazoa	2883		0	False	1
+P97411	Mus musculus	Metazoa	478		0	False	1
+Q8C5P7	Mus musculus	Metazoa	182		0	False	1
+P25103	Homo sapiens	Metazoa	407		0	True	1
+Q21929	Caenorhabditis elegans	Metazoa	251		0	False	1
+Q9CQG9	Mus musculus	Metazoa	134		0	True	1
+P20226	Homo sapiens	Metazoa	339		0	False	1
+Q06411	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	708		0	False	1
+Q9BXC0	Homo sapiens	Metazoa	346		0	True	1
+Q562E2	Mus musculus	Metazoa	927		0	False	1
+Q02796	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	332		0	False	1
+Q9LJ87	Arabidopsis thaliana	Plants	415		0	False	1
+P32795	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	747		0	False	1
+Q9WTU3	Mus musculus	Metazoa	1978		0	False	1
+P14735	Homo sapiens	Metazoa	1019		0	False	1
+P04406	Homo sapiens	Metazoa	335		0	False	1
+Q9M2D9	Arabidopsis thaliana	Plants	299		0	False	1
+Q9XHV0	Arabidopsis thaliana	Plants	320		0	False	1
+Q8LEE8	Arabidopsis thaliana	Plants	394		0	False	1
+Q9P7V3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	220		0	False	1
+Q07897	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	291		0	False	1
+Q9ULU4	Homo sapiens	Metazoa	1186		0	False	1
+P20154	Caenorhabditis elegans	Metazoa	405		0	False	1
+O60566	Homo sapiens	Metazoa	1050		0	False	1
+P53866	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	767		0	False	1
+P78955	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	287		0	False	1
+O89094	Mus musculus	Metazoa	257		0	False	1
+Q96H22	Homo sapiens	Metazoa	339		0	False	1
+Q9UTH0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1162		0	False	1
+Q9ST63	Solanum tuberosum	Plants	495		0	False	1
+Q00453	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	211		0	False	1
+P80269	Solanum tuberosum	Plants	229		0	False	1
+D3ZUQ0	Rattus norvegicus	Metazoa	406		0	False	1
+P14724	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	124		0	False	1
+P42951	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	607		0	False	1
+O74309	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	807		0	False	1
+P24919	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	273		0	False	1
+Q12445	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	299		0	True	1
+Q00613	Homo sapiens	Metazoa	529		0	False	1
+O60291	Homo sapiens	Metazoa	552		0	False	1
+H2LRU7	Oryzias latipes	Metazoa	901		0	False	1
+P25171	Drosophila melanogaster	Metazoa	547		0	False	1
+P07505	Spinacia oleracea	Plants	222		0	False	1
+Q8NFH4	Homo sapiens	Metazoa	326		0	False	1
+O95071	Homo sapiens	Metazoa	2799		0	False	1
+Q9NQ50	Homo sapiens	Metazoa	206		0	False	1
+Q8CHV6	Mus musculus	Metazoa	443		0	False	1
+P30155	Nicotiana tabacum	Plants	179		0	False	1
+O60869	Homo sapiens	Metazoa	148		0	False	1
+Q12418	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	502		0	False	1
+Q06681	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1438		0	False	1
+Q86UW9	Homo sapiens	Metazoa	622		0	False	1
+Q7X6P3	Arabidopsis thaliana	Plants	608		0	False	1
+Q75GR5	Oryza sativa subsp. japonica	Plants	281		0	False	1
+P51003	Homo sapiens	Metazoa	745		0	False	1
+P97819	Mus musculus	Metazoa	807		0	False	1
+E9QAU8	Mus musculus	Metazoa	347		0	False	1
+Q9SZ15	Arabidopsis thaliana	Plants	421		0	False	1
+P38792	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	359		0	False	1
+Q4VC44	Homo sapiens	Metazoa	716		0	False	1
+P09974	Nicotiana tabacum	Plants	62		0	True	1
+P70335	Mus musculus	Metazoa	1354		0	False	1
+Q84MB6	Arabidopsis thaliana	Plants	332		0	False	1
+Q3T040	Bos taurus	Metazoa	242		0	False	1
+P23527	Homo sapiens	Metazoa	126		0	False	1
+Q8CBD1	Mus musculus	Metazoa	1161		0	False	1
+Q8LEK4	Arabidopsis thaliana	Plants	221		0	False	1
+Q9Y6P5	Homo sapiens	Metazoa	492		0	False	1
+P07371	Pisum sativum	Plants	269		0	False	1
+G5EBR8	Caenorhabditis elegans	Metazoa	247		0	False	1
+Q9NYB9	Homo sapiens	Metazoa	513		0	False	1
+P10499	Rattus norvegicus	Metazoa	495		0	False	1
+Q9HC21	Homo sapiens	Metazoa	320		0	True	1
+P69447	Spinacia oleracea	Plants	81		0	True	1
+A0A509AHB6	Plasmodium berghei (strain Anka)	Other	523		0	False	1
+Q7Z6M4	Homo sapiens	Metazoa	381		0	False	1
+P48595	Homo sapiens	Metazoa	397		0	False	1
+P69140	Parechinus angulosus	Metazoa	126		0	False	1
+P20772	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	788		0	False	1
+P48485	Arabidopsis thaliana	Plants	312		0	False	1
+Q8IY42	Homo sapiens	Metazoa	314		0	False	1
+O43396	Homo sapiens	Metazoa	289		0	False	1
+P34707	Caenorhabditis elegans	Metazoa	623		0	False	1
+P29469	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	868		0	False	1
+B6HLU0	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	331		0	False	1
+Q39238	Arabidopsis thaliana	Plants	688		0	False	1
+Q8TE85	Homo sapiens	Metazoa	626		0	False	1
+Q9JIF3	Mus musculus	Metazoa	477		0	True	1
+Q99729	Homo sapiens	Metazoa	332		0	False	1
+Q9C5Q8	Arabidopsis thaliana	Plants	942		0	False	1
+P61830	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	136		0	False	1
+O82663	Arabidopsis thaliana	Plants	634		0	False	1
+O43065	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1953		0	False	1
+Q94C69	Arabidopsis thaliana	Plants	301		0	False	1
+B9DFX7	Arabidopsis thaliana	Plants	883		0	False	1
+Q06451	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	622		0	False	1
+P0C0E4	Homo sapiens	Metazoa	278		0	False	1
+Q8VDD9	Mus musculus	Metazoa	1821		0	False	1
+P00586	Bos taurus	Metazoa	297		0	False	1
+Q10198	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	624		0	False	1
+P41777	Rattus norvegicus	Metazoa	704		0	False	1
+P82664	Homo sapiens	Metazoa	201		0	False	1
+Q9M903	Arabidopsis thaliana	Plants	479		0	False	1
+Q02346	Rattus norvegicus	Metazoa	318		0	False	1
+P03899	Mus musculus	Metazoa	115		0	True	1
+Q6Q4H1	Hydra vulgaris	Metazoa	385		0	False	1
+P43404	Mus musculus	Metazoa	618		0	False	1
+Q6UXB4	Homo sapiens	Metazoa	293		0	True	1
+P41541	Bos taurus	Metazoa	961		0	False	1
+Q96PN7	Homo sapiens	Metazoa	1200		0	False	1
+O00327	Homo sapiens	Metazoa	626		0	False	1
+Q9ULW0	Homo sapiens	Metazoa	747		0	False	1
+Q9QX98	Mus musculus	Metazoa	324		0	False	1
+Q03954	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	165		0	False	1
+O00743	Homo sapiens	Metazoa	305		0	False	1
+P00110	Bumilleriopsis filiformis	Other	86		0	False	1
+Q9C005	Homo sapiens	Metazoa	99		0	False	1
+P80235	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	687		0	False	1
+Q9D563	Mus musculus	Metazoa	222		0	True	1
+Q12923	Homo sapiens	Metazoa	2485		0	False	1
+P40574	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	245		0	False	1
+P54886	Homo sapiens	Metazoa	795		0	False	1
+P07236	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	462		0	False	1
+O75592	Homo sapiens	Metazoa	4678		0	False	1
+P50540	Mus musculus	Metazoa	228		0	False	1
+Q9HB71	Homo sapiens	Metazoa	228		0	False	1
+G5ECD9	Caenorhabditis elegans	Metazoa	321		0	True	1
+S0DHV6	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	Fungi	530		0	False	1
+Q9UBU9	Homo sapiens	Metazoa	619		0	False	1
+Q01826	Homo sapiens	Metazoa	763		0	False	1
+Q9BE64	Macaca fascicularis	Metazoa	695		0	False	1
+Q06488	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	889		0	False	1
+D4A693	Rattus norvegicus	Metazoa	457		0	False	1
+Q9ZTX8	Arabidopsis thaliana	Plants	935		0	False	1
+P28321	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	313		0	False	1
+Q8IXM3	Homo sapiens	Metazoa	137		0	False	1
+O43390	Homo sapiens	Metazoa	633		0	False	1
+Q3MHY7	Bos taurus	Metazoa	262		0	False	1
+P36532	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	105		0	False	1
+P13350	Xenopus laevis	Metazoa	397		0	False	1
+P00015	Mus musculus	Metazoa	105		0	False	1
+Q96HI0	Homo sapiens	Metazoa	755		0	False	1
+Q9Y5L4	Homo sapiens	Metazoa	95		0	False	1
+Q86WR6	Homo sapiens	Metazoa	236		0	False	1
+O35286	Mus musculus	Metazoa	795		0	False	1
+O43164	Homo sapiens	Metazoa	708		0	False	1
+P56745	Rattus norvegicus	Metazoa	211		0	True	1
+Q9C641	Arabidopsis thaliana	Plants	754		0	False	1
+Q99PV0	Mus musculus	Metazoa	2335		0	False	1
+Q8LC68	Arabidopsis thaliana	Plants	255		0	False	1
+P58557	Homo sapiens	Metazoa	167		0	False	1
+Q8GYC7	Arabidopsis thaliana	Plants	313		0	False	1
+P26754	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	273		0	False	1
+P07948	Homo sapiens	Metazoa	512		0	False	1
+Q06967	Oryza sativa subsp. japonica	Plants	260		0	False	1
+D9PTN5	Caenorhabditis elegans	Metazoa	1009		0	False	1
+Q8TF76	Homo sapiens	Metazoa	798		0	False	1
+Q9CWH6	Mus musculus	Metazoa	250		0	False	1
+Q94CV1	Oryza sativa subsp. japonica	Plants	228		0	False	1
+P81122	Mus musculus	Metazoa	1321		0	False	1
+Q8VZR0	Arabidopsis thaliana	Plants	367		0	False	1
+Q8CI15	Mus musculus	Metazoa	382		0	False	1
+Q8GV05	Arabidopsis thaliana	Plants	106		0	False	1
+Q9UT46	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	508		0	False	1
+P32908	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1225		0	False	1
+Q8BNX7	Mus musculus	Metazoa	165		0	False	1
+P07384	Homo sapiens	Metazoa	714		0	False	1
+Q9UKT4	Homo sapiens	Metazoa	447		0	False	1
+P00410	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	251		0	True	1
+Q9LNE8	Arabidopsis thaliana	Plants	200		0	False	1
+P00044	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	109		0	False	1
+P59941	Mus musculus	Metazoa	334		0	False	1
+Q9FMN2	Arabidopsis thaliana	Plants	930		0	False	1
+B6HQ74	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	390		0	False	1
+O35250	Mus musculus	Metazoa	697		0	False	1
+Q8GT66	Pisum sativum	Plants	436		0	False	1
+O88484	Rattus norvegicus	Metazoa	530		0	False	1
+O80983	Arabidopsis thaliana	Plants	717		0	False	1
+P11746	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	286		0	False	1
+Q8L7B5	Arabidopsis thaliana	Plants	585		0	False	1
+P31274	Homo sapiens	Metazoa	260		0	False	1
+P42073	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	533		0	False	1
+Q10290	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	303		0	False	1
+Q9LX90	Arabidopsis thaliana	Plants	217		0	False	1
+Q9GZR7	Homo sapiens	Metazoa	859		0	False	1
+Q9P7S3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	425		0	False	1
+Q9Y6E0	Homo sapiens	Metazoa	443		0	False	1
+Q6PJP8	Homo sapiens	Metazoa	1040		0	False	1
+Q8K459	Mus musculus	Metazoa	51		0	False	1
+P04803	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	379		0	False	1
+Q9MV14	Citrus sinensis	Plants	329		0	False	1
+Q9WV27	Mus musculus	Metazoa	1032		0	False	1
+Q6ZMZ3	Homo sapiens	Metazoa	975		0	False	1
+P43449	Gallus gallus	Metazoa	395		0	False	1
+O94911	Homo sapiens	Metazoa	1621		0	True	1
+P19446	Citrullus lanatus	Plants	356		0	False	1
+Q70EL2	Homo sapiens	Metazoa	814		0	False	1
+O88952	Mus musculus	Metazoa	197		0	False	1
+Q5YDB6	Arabidopsis thaliana	Plants	967		0	False	1
+Q5M834	Rattus norvegicus	Metazoa	352		0	False	1
+Q55BN9	Dictyostelium discoideum	Other	136		0	False	1
+P87238	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	215		0	False	1
+Q16594	Homo sapiens	Metazoa	264		0	False	1
+P06537	Mus musculus	Metazoa	792		0	False	1
+Q9WTZ9	Mus musculus	Metazoa	124		0	False	1
+Q80T79	Mus musculus	Metazoa	3707		0	True	1
+Q99216	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	274		0	False	1
+Q9LUI3	Arabidopsis thaliana	Plants	695		0	False	1
+Q13686	Homo sapiens	Metazoa	389		0	False	1
+Q3ULF4	Mus musculus	Metazoa	781		0	False	1
+P33400	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	625		0	False	1
+Q9VFS5	Drosophila melanogaster	Metazoa	980		0	False	1
+P43309	Malus domestica	Plants	593		0	False	1
+P49704	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	494		0	False	1
+P55199	Homo sapiens	Metazoa	621		0	False	1
+Q9BSK4	Homo sapiens	Metazoa	669		0	False	1
+Q9UBH6	Homo sapiens	Metazoa	696		0	False	1
+Q9P0U1	Homo sapiens	Metazoa	55		0	True	1
+P39717	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	880		0	False	1
+P53241	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	593		0	False	1
+O22241	Arabidopsis thaliana	Plants	424		0	False	1
+P10644	Homo sapiens	Metazoa	381		0	False	1
+P69069	Oncorhynchus mykiss	Metazoa	124		0	False	1
+P20050	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	605		0	False	1
+Q9LY28	Arabidopsis thaliana	Plants	479		0	False	1
+P49804	Rattus norvegicus	Metazoa	180		0	False	1
+Q9US07	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	662		0	False	1
+Q42342	Arabidopsis thaliana	Plants	134		0	False	1
+P40037	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	129		0	False	1
+P40491	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	155		0	False	1
+O74560	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	636		0	False	1
+O49627	Arabidopsis thaliana	Plants	167		0	False	1
+P35922	Mus musculus	Metazoa	614		0	False	1
+Q8WZM4	Candida tropicalis	Fungi	386		0	False	1
+Q8NAG6	Homo sapiens	Metazoa	615		0	False	1
+A1Z6E0	Drosophila melanogaster	Metazoa	279		0	False	1
+P53281	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	241		0	False	1
+O43248	Homo sapiens	Metazoa	304		0	False	1
+P63241	Homo sapiens	Metazoa	154		0	False	1
+Q84ZW8	Zea mays	Plants	590		0	False	1
+Q9LI74	Arabidopsis thaliana	Plants	1004		0	False	1
+P53150	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	421		0	False	1
+Q12363	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	437		0	False	1
+Q01497	Pichia angusta	Fungi	457		0	True	1
+F4K6X0	Arabidopsis thaliana	Plants	121		0	False	1
+Q9QYJ6	Rattus norvegicus	Metazoa	794		0	False	1
+Q15699	Homo sapiens	Metazoa	326		0	False	1
+P32558	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1035		0	False	1
+C8YNG6	Petunia hybrida	Plants	462		0	False	1
+P35548	Homo sapiens	Metazoa	267		0	False	1
+Q9Y2K1	Homo sapiens	Metazoa	713		0	False	1
+Q9UBX0	Homo sapiens	Metazoa	185		0	False	1
+Q9H2U1	Homo sapiens	Metazoa	1008		0	False	1
+Q9QY15	Mus musculus	Metazoa	484		0	False	1
+Q8VY15	Arabidopsis thaliana	Plants	899		0	False	1
+Q9NYQ2	Mus musculus	Metazoa	353		0	False	1
+Q8R507	Mus musculus	Metazoa	461		0	True	1
+Q94BQ3	Arabidopsis thaliana	Plants	757		0	False	1
+Q9FPS9	Arabidopsis thaliana	Plants	924		0	False	1
+Q9M280	Arabidopsis thaliana	Plants	116		0	False	1
+Q8BLQ0	Mus musculus	Metazoa	456		0	False	1
+Q8ND90	Homo sapiens	Metazoa	353		0	False	1
+Q9LVI4	Arabidopsis thaliana	Plants	352		0	False	1
+O94289	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	718		0	False	1
+Q94B78	Arabidopsis thaliana	Plants	1037		0	False	1
+Q92833	Homo sapiens	Metazoa	1246		0	False	1
+Q9C4Z7	Arabidopsis thaliana	Plants	229		0	False	1
+P87227	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	672		0	False	1
+Q8K203	Mus musculus	Metazoa	606		0	False	1
+Q13404	Homo sapiens	Metazoa	147		0	False	1
+Q99N13	Mus musculus	Metazoa	588		0	False	1
+Q9FYB5	Arabidopsis thaliana	Plants	161		0	False	1
+Q8K1S6	Mus musculus	Metazoa	718		0	False	1
+C0HKE1	Mus musculus	Metazoa	130		0	False	1
+Q9YGY3	Xenopus laevis	Metazoa	330		0	False	1
+O60293	Homo sapiens	Metazoa	1989		0	False	1
+O81126	Arabidopsis thaliana	Plants	200		0	False	1
+P40342	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	146		0	False	1
+P22469	Drosophila melanogaster	Metazoa	90		0	False	1
+O46098	Drosophila melanogaster	Metazoa	92		0	False	1
+Q92373	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	279		0	False	1
+Q8SUF9	Encephalitozoon cuniculi (strain GB-M1)	Fungi	553		0	True	1
+P17608	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	201		0	False	1
+Q13620	Homo sapiens	Metazoa	913		0	False	1
+Q9M9F0	Arabidopsis thaliana	Plants	311		0	False	1
+Q07478	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	446		0	False	1
+P23235	Spinacia oleracea	Plants	130		0	False	1
+P83373	Fragaria ananassa	Plants	339		0	False	1
+P60002	Homo sapiens	Metazoa	83		0	False	1
+A0A509AE54	Plasmodium berghei (strain Anka)	Other	506		0	True	1
+B6H9U8	Penicillium rubens (strain ATCC 28089 / DSM 1075 / NRRL 1951 / Wisconsin 54-1255)	Fungi	427		0	False	1
+Q43125	Arabidopsis thaliana	Plants	681		0	False	1
+P38852	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	340		0	False	1
+P78347	Homo sapiens	Metazoa	998		0	False	1
+Q6Z401	Oryza sativa subsp. japonica	Plants	530		0	True	1
+P40535	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	587		0	False	1
+Q9NXR8	Homo sapiens	Metazoa	418		0	False	1
+Q8T6B9	Drosophila melanogaster	Metazoa	637		0	False	1
+O14649	Homo sapiens	Metazoa	394		0	True	1
+O88704	Mus musculus	Metazoa	910		0	False	1
+P31944	Homo sapiens	Metazoa	242		0	False	1
+Q8TBE7	Homo sapiens	Metazoa	412		0	False	1
+P85037	Homo sapiens	Metazoa	733		0	False	1
+B9QMJ0	Toxoplasma gondii (strain ATCC 50861 / VEG)	Other	1338		0	False	1
+Q3U0V2	Mus musculus	Metazoa	310		0	False	1
+Q7XJM2	Arabidopsis thaliana	Plants	618		0	False	1
+G4NBR8	Pyricularia oryzae (strain 70-15 / ATCC MYA-4617 / FGSC 8958)	Fungi	548		0	False	1
+Q96BT3	Homo sapiens	Metazoa	561		0	False	1
+Q96LB0	Homo sapiens	Metazoa	322		0	True	1
+P38042	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	758		0	False	1
+P79083	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328		0	False	1
+F1MA98	Rattus norvegicus	Metazoa	2360		0	False	1
+Q96PH1	Homo sapiens	Metazoa	765		0	False	1
+P14740	Rattus norvegicus	Metazoa	767		0	True	1
+P58501	Mus musculus	Metazoa	919		0	False	1
+Q8H0T5	Arabidopsis thaliana	Plants	262		0	False	1
+P32191	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	649		0	False	1
+Q8IG69	Caenorhabditis elegans	Metazoa	100		0	False	1
+P25028	Drosophila melanogaster	Metazoa	696		0	False	1
+P97675	Rattus norvegicus	Metazoa	875		0	True	1
+O15375	Homo sapiens	Metazoa	505		0	True	1
+Q811D2	Mus musculus	Metazoa	1581		0	False	1
+Q8WY64	Homo sapiens	Metazoa	445		0	False	1
+Q9Y345	Homo sapiens	Metazoa	797		0	False	1
+Q9LHP2	Arabidopsis thaliana	Plants	262		0	False	1
+Q8WWM9	Homo sapiens	Metazoa	190		0	False	1
+P16389	Homo sapiens	Metazoa	499		0	False	1
+Q9R007	Mus musculus	Metazoa	190		0	True	1
+Q99LZ3	Mus musculus	Metazoa	223		0	False	1
+Q8TDS4	Homo sapiens	Metazoa	363		0	True	1
+Q3UMW7	Mus musculus	Metazoa	384		0	False	1
+Q95ZL9	Caenorhabditis elegans	Metazoa	152		0	False	1
+Q99N69	Mus musculus	Metazoa	386		0	False	1
+Q9P127	Homo sapiens	Metazoa	313		0	False	1
+Q8N5Y2	Homo sapiens	Metazoa	521		0	False	1
+Q9VYS5	Drosophila melanogaster	Metazoa	334		0	False	1
+Q8N1M1	Homo sapiens	Metazoa	668		0	True	1
+P13861	Homo sapiens	Metazoa	404		0	False	1
+Q84TI6	Arabidopsis thaliana	Plants	470		0	False	1
+Q9W3T5	Drosophila melanogaster	Metazoa	79		0	True	1
+Q84Q77	Oryza sativa subsp. japonica	Plants	161		0	False	1
+P09874	Homo sapiens	Metazoa	1014		0	False	1
+O70511	Rattus norvegicus	Metazoa	2622		0	False	1
+O88974	Mus musculus	Metazoa	1307		0	False	1
+Q8NFJ5	Homo sapiens	Metazoa	357		0	True	1
+P26196	Homo sapiens	Metazoa	483		0	False	1
+Q60676	Mus musculus	Metazoa	499		0	False	1
+Q9JK45	Mus musculus	Metazoa	933		0	False	1
+Q9Y375	Homo sapiens	Metazoa	327		0	False	1
+P53266	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	389		0	True	1
+O94708	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	394		0	False	1
+Q9NXR7	Homo sapiens	Metazoa	383		0	False	1
+O43586	Homo sapiens	Metazoa	416		0	False	1
+Q90ZB6	Xenopus laevis	Metazoa	551		0	False	1
+P0DO01	Oryza sativa subsp. japonica	Plants	447		0	False	1
+O13792	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	434		0	False	1
+Q99829	Homo sapiens	Metazoa	537		0	False	1
+P40484	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	314		0	False	1
+O95926	Homo sapiens	Metazoa	243		0	False	1
+Q02013	Mus musculus	Metazoa	269		0	True	1
+Q8VYI0	Arabidopsis thaliana	Plants	98		0	False	1
+P53836	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1060		0	False	1
+Q9QZU4	Mus musculus	Metazoa	167		0	False	1
+B3DH96	Danio rerio	Metazoa	325		0	True	1
+P68100	Eschrichtius robustus	Metazoa	105		0	False	1
+Q283Q6	Xenopus laevis	Metazoa	784		0	False	1
+Q15583	Homo sapiens	Metazoa	401		0	False	1
+B9DGD6	Arabidopsis thaliana	Plants	743		0	False	1
+O88508	Mus musculus	Metazoa	908		0	False	1
+Q39548	Cucurbita maxima	Plants	789		0	False	1
+Q8K120	Mus musculus	Metazoa	901		0	False	1
+O62618	Drosophila melanogaster	Metazoa	366		0	False	1
+O88867	Rattus norvegicus	Metazoa	478		0	False	1
+P38830	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	627		0	False	1
+F4KHI3	Arabidopsis thaliana	Plants	1168		0	False	1
+A0A1P8B0B7	Arabidopsis thaliana	Plants	597		0	False	1
+Q08303	Solanum lycopersicum	Plants	630		0	False	1
+Q5SWU9	Mus musculus	Metazoa	2345		0	False	1
+P39683	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	429		0	False	1
+K4CF70	Solanum lycopersicum	Plants	476		0	False	1
+Q9UL42	Homo sapiens	Metazoa	364		0	False	1
+Q7KHG2	Drosophila melanogaster	Metazoa	1486		0	False	1
+Q9SHJ5	Arabidopsis thaliana	Plants	585		0	False	1
+Q652K1	Oryza sativa subsp. japonica	Plants	274		0	False	1
+Q7KTX8	Drosophila melanogaster	Metazoa	2618		0	False	1
+P78563	Homo sapiens	Metazoa	741		0	False	1
+Q8VYM2	Arabidopsis thaliana	Plants	524		0	True	1
+Q39214	Arabidopsis thaliana	Plants	926		0	False	1
+Q15208	Homo sapiens	Metazoa	465		0	False	1
+Q9NTI2	Homo sapiens	Metazoa	1188		0	False	1
+Q5I2A0	Mus musculus	Metazoa	440		0	False	1
+Q9SRY4	Arabidopsis thaliana	Plants	453		0	False	1
+Q15424	Homo sapiens	Metazoa	915		0	False	1
+Q9QXZ9	Mus musculus	Metazoa	521		0	True	1
+P47083	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	593		0	False	1
+G5EC23	Caenorhabditis elegans	Metazoa	782		0	False	1
+Q96TA2	Homo sapiens	Metazoa	773		0	False	1
+Q9S709	Arabidopsis thaliana	Plants	296		0	False	1
+O05000	Arabidopsis thaliana	Plants	499		0	True	1
+O15524	Homo sapiens	Metazoa	211		0	False	1
+Q12904	Homo sapiens	Metazoa	312		0	False	1
+Q9XWR6	Caenorhabditis elegans	Metazoa	248		0	False	1
+Q02336	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	434		0	False	1
+P53287	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	111		0	False	1
+P25976	Mus musculus	Metazoa	765		0	False	1
+Q94BR4	Arabidopsis thaliana	Plants	523		0	False	1
+Q69YI7	Homo sapiens	Metazoa	327		0	False	1
+P17442	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1178		0	False	1
+Q6XXM1	Gallus gallus	Metazoa	131		0	False	1
+Q03018	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1630		0	False	1
+P06841	Scyliorhinus canicula	Metazoa	45		0	False	1
+Q15642	Homo sapiens	Metazoa	601		0	False	1
+Q27607	Drosophila melanogaster	Metazoa	1145		0	False	1
+C4QWS8	Komagataella phaffii (strain GS115 / ATCC 20864)	Fungi	363		0	False	1
+Q6NKS4	Arabidopsis thaliana	Plants	258		0	False	1
+Q2TA68	Rattus norvegicus	Metazoa	960		0	False	1
+Q63488	Rattus norvegicus	Metazoa	656		0	True	1
+Q04727	Homo sapiens	Metazoa	773		0	False	1
+O94763	Homo sapiens	Metazoa	535		0	False	1
+P0C169	Rattus norvegicus	Metazoa	130		0	False	1
+Q7YQK4	Oryctolagus cuniculus	Metazoa	503		0	True	1
+P38323	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	520		0	False	1
+Q91Y44	Mus musculus	Metazoa	956		0	False	1
+P49335	Homo sapiens	Metazoa	361		0	False	1
+O65502	Arabidopsis thaliana	Plants	395		0	False	1
+Q9BSD3	Homo sapiens	Metazoa	238		0	False	1
+Q03833	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	894		0	False	1
+Q96RS6	Homo sapiens	Metazoa	583		0	False	1
+P00127	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	147		0	False	1
+Q8IN94	Drosophila melanogaster	Metazoa	2716		0	False	1
+A0A2I0BVG8	Plasmodium falciparum (isolate NF54)	Other	524		0	False	1
+Q96BD6	Homo sapiens	Metazoa	273		0	False	1
+P14242	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	873		0	False	1
+P02268	Sepia officinalis	Metazoa	125		0	False	1
+P47171	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1648		0	False	1
+O13758	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	361		0	False	1
+Q96RS0	Homo sapiens	Metazoa	853		0	False	1
+Q9Y5X3	Homo sapiens	Metazoa	404		0	False	1
+O61660	Caenorhabditis elegans	Metazoa	759		0	False	1
+P32380	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	944		0	False	1
+P70181	Mus musculus	Metazoa	539		0	False	1
+P12329	Zea mays	Plants	262		0	False	1
+O94830	Homo sapiens	Metazoa	711		0	False	1
+A0A509AGE2	Plasmodium berghei (strain Anka)	Other	431		0	False	1
+P21784	Mus musculus	Metazoa	527		0	False	1
+Q96AG4	Homo sapiens	Metazoa	307		0	False	1
+Q9BXM0	Homo sapiens	Metazoa	1461		0	False	1
+P54003	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	302		0	True	1
+Q6NQK2	Arabidopsis thaliana	Plants	449		0	False	1
+Q9R226	Mus musculus	Metazoa	346		0	False	1
+P79071	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	195		0	False	1
+Q04437	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	629		0	False	1
+P21399	Homo sapiens	Metazoa	889		0	False	1
+P0DPG4	Trypanosoma brucei brucei	Other	188		0	False	1
+Q96NR3	Homo sapiens	Metazoa	888		0	True	1
+Q8GXN9	Arabidopsis thaliana	Plants	930		0	False	1
+Q08816	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	343		0	False	1
+Q05140	Rattus norvegicus	Metazoa	915		0	False	1
+O80796	Arabidopsis thaliana	Plants	330		0	False	1
+Q12788	Homo sapiens	Metazoa	808		0	False	1
+P38872	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	237		0	False	1
+P97489	Mus musculus	Metazoa	404		0	False	1
+Q9BV20	Homo sapiens	Metazoa	369		0	False	1
+Q96BY2	Homo sapiens	Metazoa	351		0	False	1
+Q8BGS1	Mus musculus	Metazoa	731		0	False	1
+Q9FJ00	Arabidopsis thaliana	Plants	307		0	False	1
+Q9Z1A5	Rattus norvegicus	Metazoa	534		0	False	1
+P14908	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	341		0	False	1
+Q9M2R0	Arabidopsis thaliana	Plants	773		0	False	1
+Q9VKB9	Drosophila melanogaster	Metazoa	1341		0	False	1
+Q12339	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	254		0	False	1
+P36543	Homo sapiens	Metazoa	226		0	False	1
+Q12334	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	223		0	False	1
+Q8K1P8	Rattus norvegicus	Metazoa	545		0	False	1
+Q8BM75	Mus musculus	Metazoa	1188		0	False	1
+Q6UPE1	Rattus norvegicus	Metazoa	616		0	False	1
+Q9H227	Homo sapiens	Metazoa	469		0	False	1
+P98083	Mus musculus	Metazoa	579		0	False	1
+Q5ZEP9	Caenorhabditis elegans	Metazoa	281		0	False	1
+Q9Y5U2	Homo sapiens	Metazoa	329		0	False	1
+P03921	Mus musculus	Metazoa	607		0	True	1
+P26309	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	610		0	False	1
+P97492	Mus musculus	Metazoa	547		0	False	1
+P14598	Homo sapiens	Metazoa	390		0	False	1
+Q9CZ57	Mus musculus	Metazoa	381		0	False	1
+P04792	Homo sapiens	Metazoa	205		0	False	1
+O42975	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	972		0	False	1
+P06703	Homo sapiens	Metazoa	90		0	False	1
+G5EBK1	Caenorhabditis elegans	Metazoa	783		0	True	1
+Q99708	Homo sapiens	Metazoa	897		0	False	1
+Q925D4	Rattus norvegicus	Metazoa	263		0	True	1
+A4D1E9	Homo sapiens	Metazoa	387		0	False	1
+P41151	Arabidopsis thaliana	Plants	495		0	False	1
+O75127	Homo sapiens	Metazoa	700		0	False	1
+Q7ZYP6	Xenopus laevis	Metazoa	626		0	False	1
+P32103	Euplotes eurystomus	Other	135		0	False	1
+Q8LPG9	Arabidopsis thaliana	Plants	668		0	False	1
+Q12476	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	344		0	False	1
+Q9JK81	Mus musculus	Metazoa	380		0	False	1
+Q9I7K6	Drosophila melanogaster	Metazoa	492		0	False	1
+Q9HBA0	Homo sapiens	Metazoa	871		0	False	1
+Q5MJ70	Homo sapiens	Metazoa	313		0	False	1
+Q06554	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1556		0	False	1
+P27889	Mus musculus	Metazoa	558		0	False	1
+Q61233	Mus musculus	Metazoa	627		0	False	1
+P10636	Homo sapiens	Metazoa	758		0	False	1
+P32485	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	435		0	False	1
+Q9H1D9	Homo sapiens	Metazoa	316		0	False	1
+B3DMA2	Rattus norvegicus	Metazoa	779		0	False	1
+Q10571	Homo sapiens	Metazoa	1320		0	False	1
+Q6X632	Mus musculus	Metazoa	540		0	True	1
+Q02457	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	562		0	False	1
+Q9SJN0	Arabidopsis thaliana	Plants	442		0	False	1
+O04209	Arabidopsis thaliana	Plants	258		0	False	1
+Q9ZR72	Arabidopsis thaliana	Plants	1286		0	True	1
+P02289	Strongylocentrotus purpuratus	Metazoa	124		0	False	1
+Q39194	Arabidopsis thaliana	Plants	133		0	False	1
+P21571	Rattus norvegicus	Metazoa	108		0	False	1
+Q8N726	Homo sapiens	Metazoa	132		0	False	1
+O75928	Homo sapiens	Metazoa	621		0	False	1
+P41133	Mus musculus	Metazoa	119		0	False	1
+P38857	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	129		0	True	1
+P40473	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	351		0	False	1
+Q06493	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	454		0	False	1
+Q641Y2	Rattus norvegicus	Metazoa	463		0	False	1
+P53168	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	247		0	False	1
+P0DXI6	Petunia hybrida	Plants	274		0	False	1
+O48963	Arabidopsis thaliana	Plants	996		0	False	1
+P70353	Mus musculus	Metazoa	335		0	False	1
+P00052	Vigna radiata var. radiata	Plants	111		0	False	1
+Q84MB5	Arabidopsis thaliana	Plants	280		0	True	1
+Q96PU8	Homo sapiens	Metazoa	341		0	False	1
+Q8N3C0	Homo sapiens	Metazoa	2202		0	False	1
+Q7KQJ9	Plasmodium falciparum (isolate 3D7)	Other	264		0	False	1
+P49686	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	430		0	False	1
+Q15391	Homo sapiens	Metazoa	338		0	True	1
+Q8GTQ9	Solanum lycopersicum	Plants	332		0	False	1
+A0A0R4IMY7	Danio rerio	Metazoa	1470		0	False	1
+Q9BRS8	Homo sapiens	Metazoa	491		0	False	1
+P48029	Homo sapiens	Metazoa	635		0	True	1
+A1L020	Homo sapiens	Metazoa	520		0	False	1
+P13297	Mus musculus	Metazoa	303		0	False	1
+Q9UT55	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	438		0	False	1
+P70182	Mus musculus	Metazoa	546		0	False	1
+Q96RD1	Homo sapiens	Metazoa	312		0	True	1
+O60053	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	440		0	False	1
+P61970	Homo sapiens	Metazoa	127		0	False	1
+Q42536	Arabidopsis thaliana	Plants	405		0	False	1
+P30052	Drosophila melanogaster	Metazoa	440		0	False	1
+O95140	Homo sapiens	Metazoa	757		0	False	1
+Q53H12	Homo sapiens	Metazoa	422		0	False	1
+P49723	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	345		0	False	1
+F1MH24	Bos taurus	Metazoa	957		0	False	1
+P02262	Rattus norvegicus	Metazoa	130		0	False	1
+Q5PRF9	Homo sapiens	Metazoa	694		0	False	1
+P50875	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	604		0	False	1
+Q2TBK2	Bos taurus	Metazoa	268		0	False	1
+O49668	Arabidopsis thaliana	Plants	214		0	False	1
+P52948	Homo sapiens	Metazoa	1817		0	False	1
+Q70GP4	Dictyostelium discoideum	Other	1148		0	False	1
+P06900	Xenopus laevis	Metazoa	126		0	False	1
+Q94AH1	Arabidopsis thaliana	Plants	300		0	True	1
+O15090	Homo sapiens	Metazoa	1300		0	False	1
+Q6UWS5	Homo sapiens	Metazoa	81		0	False	1
+Q12493	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	238		0	False	1
+O95718	Homo sapiens	Metazoa	433		0	False	1
+Q64471	Mus musculus	Metazoa	240		0	False	1
+A0A0B4ZTQ2	Humulus lupulus	Plants	408		0	False	1
+Q10272	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	446		0	False	1
+Q9JL55	Rattus norvegicus	Metazoa	331		0	True	1
+Q6PAC3	Mus musculus	Metazoa	445		0	False	1
+Q7M750	Mus musculus	Metazoa	143		0	True	1
+P43253	Rattus norvegicus	Metazoa	416		0	True	1
+P80304	Sepia officinalis	Metazoa	51		0	False	1
+Q02038	Sus scrofa	Metazoa	704		0	False	1
+P30938	Rattus norvegicus	Metazoa	363		0	True	1
+P40165	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	246		0	False	1
+P54105	Homo sapiens	Metazoa	237		0	False	1
+Q9JLM4	Mus musculus	Metazoa	1370		0	False	1
+Q09904	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1159		0	False	1
+P25106	Homo sapiens	Metazoa	362		0	True	1
+P11229	Homo sapiens	Metazoa	460		0	True	1
+Q67FY2	Mus musculus	Metazoa	1494		0	False	1
+Q9R194	Mus musculus	Metazoa	592		0	False	1
+Q8IUY3	Homo sapiens	Metazoa	354		0	False	1
+Q9UNN5	Homo sapiens	Metazoa	650		0	False	1
+Q14974	Homo sapiens	Metazoa	876		0	False	1
+Q700D2	Arabidopsis thaliana	Plants	503		0	False	1
+P08154	Rattus norvegicus	Metazoa	508		0	False	1
+Q8SXD4	Drosophila melanogaster	Metazoa	1122		0	False	1
+Q8VZK0	Arabidopsis thaliana	Plants	267		0	False	1
+Q04110	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	302		0	False	1
+P21981	Mus musculus	Metazoa	686		0	False	1
+Q9S745	Arabidopsis thaliana	Plants	541		0	False	1
+Q9LJZ5	Arabidopsis thaliana	Plants	181		0	False	1
+Q3UK78	Mus musculus	Metazoa	256		0	False	1
+Q9SRS5	Arabidopsis thaliana	Plants	217		0	False	1
+Q9H6D3	Homo sapiens	Metazoa	395		0	True	1
+Q39057	Arabidopsis thaliana	Plants	373		0	False	1
+O15304	Homo sapiens	Metazoa	175		0	False	1
+Q9ER99	Mus musculus	Metazoa	582		0	False	1
+Q99MG9	Rattus norvegicus	Metazoa	250		0	False	1
+Q8S8M9	Arabidopsis thaliana	Plants	256		0	False	1
+Q15697	Homo sapiens	Metazoa	407		0	False	1
+P11420	Drosophila melanogaster	Metazoa	710		0	False	1
+Q96JK9	Homo sapiens	Metazoa	1138		0	False	1
+Q9NYQ3	Homo sapiens	Metazoa	351		0	False	1
+P41350	Rattus norvegicus	Metazoa	178		0	False	1
+O70608	Rattus norvegicus	Metazoa	1505		0	False	1
+P56222	Rattus norvegicus	Metazoa	445		0	False	1
+Q01469	Homo sapiens	Metazoa	135		0	False	1
+B6UV92	Oryza sativa subsp. japonica	Plants	444		0	False	1
+Q9Y2R5	Homo sapiens	Metazoa	130		0	False	1
+P12682	Sus scrofa	Metazoa	215		0	False	1
+Q3E7A9	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	73		0	False	1
+Q9SGU3	Arabidopsis thaliana	Plants	296		0	False	1
+Q9SEE9	Arabidopsis thaliana	Plants	414		0	False	1
+J9VP29	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	331		0	False	1
+Q09406	Caenorhabditis elegans	Metazoa	534		0	False	1
+P40364	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	252		0	False	1
+Q9SZA4	Arabidopsis thaliana	Plants	457		0	False	1
+O95858	Homo sapiens	Metazoa	294		0	True	1
+P38086	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	958		0	False	1
+Q05193	Homo sapiens	Metazoa	864		0	False	1
+Q9LVV5	Arabidopsis thaliana	Plants	223		0	False	1
+Q14693	Homo sapiens	Metazoa	890		0	False	1
+Q7Y0F6	Oryza sativa subsp. japonica	Plants	247		0	False	1
+Q08GK9	Mullus surmuletus	Metazoa	178		0	False	1
+Q86YJ7	Homo sapiens	Metazoa	626		0	False	1
+Q969G3	Homo sapiens	Metazoa	411		0	False	1
+P28297	Arabidopsis thaliana	Plants	576		0	False	1
+Q9LG05	Arabidopsis thaliana	Plants	485		0	False	1
+Q62981	Rattus norvegicus	Metazoa	407		0	False	1
+Q9ZTK5	Catharanthus roseus	Plants	439		0	False	1
+Q8TCC7	Homo sapiens	Metazoa	542		0	True	1
+P97302	Mus musculus	Metazoa	739		0	False	1
+Q6ZYL4	Homo sapiens	Metazoa	71		0	False	1
+P26651	Homo sapiens	Metazoa	326		0	False	1
+A1Z9G2	Drosophila melanogaster	Metazoa	883		0	False	1
+Q9QXA5	Mus musculus	Metazoa	137		0	False	1
+Q9NQW8	Homo sapiens	Metazoa	809		0	False	1
+Q86Y07	Homo sapiens	Metazoa	508		0	False	1
+O65312	Arabidopsis thaliana	Plants	689		0	False	1
+Q3UHK6	Mus musculus	Metazoa	2771		0	False	1
+Q9LRH6	Arabidopsis thaliana	Plants	309		0	False	1
+P36048	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1008		0	False	1
+B7SXM5	Danio rerio	Metazoa	180		0	False	1
+Q00416	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	2231		0	False	1
+P59998	Homo sapiens	Metazoa	168		0	False	1
+O43592	Homo sapiens	Metazoa	962		0	False	1
+P92204	Drosophila melanogaster	Metazoa	280		0	False	1
+Q9C8Z9	Arabidopsis thaliana	Plants	221		0	False	1
+P43569	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	289		0	False	1
+P81718	Rattus norvegicus	Metazoa	613		0	False	1
+Q92989	Homo sapiens	Metazoa	425		0	False	1
+P68429	Medicago sativa	Plants	136		0	False	1
+Q9FHW2	Arabidopsis thaliana	Plants	171		0	False	1
+P79391	Bos taurus	Metazoa	270		0	True	1
+Q9VWF2	Drosophila melanogaster	Metazoa	2006		0	False	1
+Q8NB16	Homo sapiens	Metazoa	471		0	False	1
+P41597	Homo sapiens	Metazoa	374		0	True	1
+P39518	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	744		0	False	1
+P38262	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	535		0	False	1
+A8CEI3	Leucaena leucocephala	Plants	443		0	False	1
+Q805F9	Gallus gallus	Metazoa	1140		0	False	1
+P40050	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	688		0	False	1
+Q8VIJ5	Rattus norvegicus	Metazoa	916		0	False	1
+E0CX11	Homo sapiens	Metazoa	47		0	True	1
+P97500	Mus musculus	Metazoa	1187		0	False	1
+Q6U7Q0	Homo sapiens	Metazoa	402		0	False	1
+P40033	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	138		0	False	1
+Q9ZPF5	Arabidopsis thaliana	Plants	344		0	False	1
+P56405	Rattus norvegicus	Metazoa	263		0	True	1
+Q9HB07	Homo sapiens	Metazoa	376		0	False	1
+Q9Y3S1	Homo sapiens	Metazoa	2297		0	False	1
+Q12857	Homo sapiens	Metazoa	509		0	False	1
+Q9R154	Rattus norvegicus	Metazoa	780		0	True	1
+Q9HCE9	Homo sapiens	Metazoa	1232		0	False	1
+K7W9N9	Solanum lycopersicum	Plants	285		0	False	1
+Q07395	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	620		0	False	1
+Q9D915	Mus musculus	Metazoa	106		0	False	1
+O35473	Mus musculus	Metazoa	141		0	False	1
+O42860	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	320		0	False	1
+Q86V81	Homo sapiens	Metazoa	257		0	False	1
+Q6DD04	Xenopus laevis	Metazoa	898		0	False	1
+G2HK15	Caenorhabditis elegans	Metazoa	367		0	False	1
+Q8K3W2	Mus musculus	Metazoa	274		0	False	1
+Q9HBG4	Homo sapiens	Metazoa	840		0	False	1
+P38863	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	823		0	False	1
+Q10CE4	Oryza sativa subsp. japonica	Plants	369		0	False	1
+Q9FNC7	Arabidopsis thaliana	Plants	717		0	False	1
+P32567	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	862		0	False	1
+D0E0C2	Periplaneta americana	Metazoa	1553		0	False	1
+Q9USJ8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	218		0	False	1
+Q3U8K7	Mus musculus	Metazoa	883		0	False	1
+Q9SKB6	Arabidopsis thaliana	Plants	350		0	False	1
+Q8L850	Arabidopsis thaliana	Plants	815		0	False	1
+Q8N9R8	Homo sapiens	Metazoa	606		0	False	1
+C8VP82	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	Fungi	339		0	False	1
+P70669	Mus musculus	Metazoa	749		0	True	1
+Q5PP37	Arabidopsis thaliana	Plants	473		0	False	1
+O43808	Homo sapiens	Metazoa	307		0	True	1
+Q14565	Homo sapiens	Metazoa	340		0	False	1
+Q9JM05	Mus musculus	Metazoa	507		0	False	1
+O55171	Rattus norvegicus	Metazoa	453		0	False	1
+Q76JU9	Mus musculus	Metazoa	300		0	True	1
+Q49AM1	Homo sapiens	Metazoa	385		0	False	1
+P07293	Oryctolagus cuniculus	Metazoa	1873		0	True	1
+Q9C909	Arabidopsis thaliana	Plants	289		0	False	1
+Q38893	Arabidopsis thaliana	Plants	558		0	False	1
+O14174	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	473		0	False	1
+Q8R400	Mus musculus	Metazoa	80		0	True	1
+P30543	Rattus norvegicus	Metazoa	410		0	True	1
+P84872	Atropa belladonna	Plants	97		0	False	1
+Q3KPK4	Xenopus laevis	Metazoa	280		0	False	1
+A2XFC1	Oryza sativa subsp. indica	Plants	442		0	False	1
+P24941	Homo sapiens	Metazoa	298		0	False	1
+Q8N5I2	Homo sapiens	Metazoa	433		0	False	1
+K4D3V7	Solanum lycopersicum	Plants	475		0	False	1
+P29972	Homo sapiens	Metazoa	269		0	True	1
+E9Q4Z2	Mus musculus	Metazoa	2448		0	False	1
+Q9BPY3	Homo sapiens	Metazoa	351		0	False	1
+P50565	Chlamydomonas reinhardtii	Plants	153		0	False	1
+P23225	Zea mays	Plants	1616		0	False	1
+P23230	Chlamydomonas reinhardtii	Plants	160		0	True	1
+P40626	Tetrahymena thermophila	Other	143		0	False	1
+Q9Z1N1	Rattus norvegicus	Metazoa	339		0	False	1
+Q9SQ69	Papaver somniferum	Plants	321		0	False	1
+O04200	Arabidopsis thaliana	Plants	331		0	True	1
+Q9FIC3	Arabidopsis thaliana	Plants	93		0	False	1
+Q9JMG6	Rattus norvegicus	Metazoa	259		0	False	1
+Q8N668	Homo sapiens	Metazoa	190		0	False	1
+Q94AX4	Arabidopsis thaliana	Plants	567		0	False	1
+Q96BU1	Homo sapiens	Metazoa	408		0	False	1
+Q9FGW9	Arabidopsis thaliana	Plants	1061		0	False	1
+Q8LBH4	Arabidopsis thaliana	Plants	256		0	False	1
+Q86T24	Homo sapiens	Metazoa	672		0	False	1
+P10242	Homo sapiens	Metazoa	640		0	False	1
+P41002	Homo sapiens	Metazoa	786		0	False	1
+Q9SCL7	Arabidopsis thaliana	Plants	347		0	False	1
+Q8IVS2	Homo sapiens	Metazoa	390		0	False	1
+Q86XI2	Homo sapiens	Metazoa	1143		0	False	1
+P24613	Spinacia oleracea	Plants	256		0	False	1
+Q9CWW7	Mus musculus	Metazoa	660		0	False	1
+P22142	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	478		0	False	1
+Q9ESC8	Mus musculus	Metazoa	1160		0	False	1
+Q9BYE7	Homo sapiens	Metazoa	350		0	False	1
+P19541	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	446		0	False	1
+P09912	Homo sapiens	Metazoa	130		0	True	1
+Q9H089	Homo sapiens	Metazoa	658		0	False	1
+P29036	Zea mays	Plants	254		0	False	1
+Q06416	Homo sapiens	Metazoa	359		0	False	1
+O00182	Homo sapiens	Metazoa	355		0	False	1
+P05375	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	206		0	True	1
+Q91VL8	Mus musculus	Metazoa	393		0	False	1
+Q64434	Mus musculus	Metazoa	451		0	False	1
+Q08963	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	238		0	False	1
+Q9M2B4	Arabidopsis thaliana	Plants	250		0	False	1
+Q8N895	Homo sapiens	Metazoa	744		0	False	1
+Q96RR1	Homo sapiens	Metazoa	684		0	False	1
+P09588	Caenorhabditis elegans	Metazoa	127		0	False	1
+Q9Y2R4	Homo sapiens	Metazoa	599		0	False	1
+F4IAG2	Arabidopsis thaliana	Plants	1042		0	False	1
+Q10432	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	735		0	False	1
+Q9NQA5	Homo sapiens	Metazoa	729		0	False	1
+Q43727	Arabidopsis thaliana	Plants	576		0	False	1
+P51970	Homo sapiens	Metazoa	172		0	False	1
+Q92759	Homo sapiens	Metazoa	462		0	False	1
+Q9H649	Homo sapiens	Metazoa	340		0	False	1
+Q8LGZ9	Oryza sativa subsp. japonica	Plants	341		0	False	1
+P06576	Homo sapiens	Metazoa	529		0	False	1
+Q6T4R5	Homo sapiens	Metazoa	1651		0	False	1
+Q12159	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	226		0	False	1
+P52842	Macaca fascicularis	Metazoa	285		0	False	1
+Q8C8S3	Mus musculus	Metazoa	249		0	True	1
+A8K830	Homo sapiens	Metazoa	251		0	False	1
+O20029	Chlamydomonas reinhardtii	Plants	191		0	False	1
+P56574	Rattus norvegicus	Metazoa	452		0	False	1
+Q9R190	Mus musculus	Metazoa	668		0	False	1
+P23409	Homo sapiens	Metazoa	242		0	False	1
+Q92769	Homo sapiens	Metazoa	488		0	False	1
+Q9BVW5	Homo sapiens	Metazoa	301		0	False	1
+P46972	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	177		0	False	1
+P0C5X8	Rattus norvegicus	Metazoa	450		0	True	1
+Q9HB65	Homo sapiens	Metazoa	397		0	False	1
+Q92619	Homo sapiens	Metazoa	1136		0	False	1
+Q9WU79	Mus musculus	Metazoa	599		0	False	1
+O76906	Drosophila melanogaster	Metazoa	982		0	False	1
+Q9JL61	Mus musculus	Metazoa	658		0	False	1
+Q924H7	Mus musculus	Metazoa	646		0	False	1
+Q9C500	Arabidopsis thaliana	Plants	180		0	False	1
+Q8GWA2	Arabidopsis thaliana	Plants	273		0	False	1
+Q96E14	Homo sapiens	Metazoa	147		0	False	1
+P41138	Rattus norvegicus	Metazoa	119		0	False	1
+P54646	Homo sapiens	Metazoa	552		0	False	1
+Q8K4R8	Rattus norvegicus	Metazoa	601		0	True	1
+P54258	Rattus norvegicus	Metazoa	1183		0	False	1
+P82929	Bos taurus	Metazoa	218		0	False	1
+Q3E772	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	92		0	False	1
+Q75Q41	Rattus norvegicus	Metazoa	142		0	True	1
+Q148W0	Mus musculus	Metazoa	1251		0	False	1
+P53142	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	486		0	True	1
+Q9FJI5	Arabidopsis thaliana	Plants	515		0	False	1
+Q9H773	Homo sapiens	Metazoa	170		0	False	1
+P43354	Homo sapiens	Metazoa	598		0	False	1
+Q9P015	Homo sapiens	Metazoa	296		0	False	1
+Q5BJF2	Homo sapiens	Metazoa	176		0	True	1
+P82252	Rattus norvegicus	Metazoa	487		0	True	1
+O88845	Mus musculus	Metazoa	662		0	False	1
+A1Z8P9	Drosophila melanogaster	Metazoa	2346		0	False	1
+Q9JL60	Mus musculus	Metazoa	562		0	False	1
+Q03327	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	502		0	False	1
+Q42843	Hordeum vulgare	Plants	527		0	False	1
+Q10665	Caenorhabditis elegans	Metazoa	754		0	False	1
+P04147	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	577		0	False	1
+Q9M158	Arabidopsis thaliana	Plants	466		0	False	1
+Q9LQC0	Arabidopsis thaliana	Plants	283		0	False	1
+Q9VLP7	Drosophila melanogaster	Metazoa	397		0	False	1
+Q3UR85	Mus musculus	Metazoa	1138		0	False	1
+Q06132	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	899		0	False	1
+B9FDE0	Oryza sativa subsp. japonica	Plants	494		0	False	1
+F4I1T7	Arabidopsis thaliana	Plants	1819		0	False	1
+I1SSI6	Petunia hybrida	Plants	723		0	False	1
+Q921W0	Mus musculus	Metazoa	196		0	False	1
+Q14527	Homo sapiens	Metazoa	1009		0	False	1
+Q6ZRS2	Homo sapiens	Metazoa	3230		0	False	1
+G5EFQ5	Caenorhabditis elegans	Metazoa	301		0	False	1
+P53911	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	425		0	False	1
+P22572	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	453		0	False	1
+Q99MD9	Mus musculus	Metazoa	773		0	False	1
+Q96BS2	Homo sapiens	Metazoa	214		0	False	1
+O08697	Rattus norvegicus	Metazoa	184		0	False	1
+Q04073	Strongylocentrotus purpuratus	Metazoa	459		0	False	1
+Q14457	Homo sapiens	Metazoa	450		0	False	1
+P19476	Entamoeba histolytica (strain ATCC 30459 / HM-1:IMSS / ABRM)	Other	233		0	False	1
+P39946	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	494		0	False	1
+O61707	Caenorhabditis elegans	Metazoa	523		0	False	1
+P09144	Chlamydomonas reinhardtii	Plants	735		0	True	1
+Q8TEB9	Homo sapiens	Metazoa	315		0	True	1
+S8EXU2	Toxoplasma gondii (strain ATCC 50611 / Me49)	Other	1130		0	False	1
+Q9SI54	Arabidopsis thaliana	Plants	99		0	False	1
+Q8VY21	Arabidopsis thaliana	Plants	406		0	False	1
+O43318	Homo sapiens	Metazoa	606		0	False	1
+Q9UMN6	Homo sapiens	Metazoa	2715		0	False	1
+Q5TAX3	Homo sapiens	Metazoa	1644		0	False	1
+P32774	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	122		0	False	1
+Q60759	Mus musculus	Metazoa	438		0	False	1
+Q06787	Homo sapiens	Metazoa	632		0	False	1
+P36394	Rattus norvegicus	Metazoa	169		0	False	1
+Q01081	Homo sapiens	Metazoa	240		0	False	1
+P53220	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	239		0	True	1
+Q61069	Mus musculus	Metazoa	310		0	False	1
+Q9SM44	Spinacia oleracea	Plants	522		0	False	1
+P29144	Homo sapiens	Metazoa	1249		0	False	1
+O04862	Pisum sativum	Plants	515		0	False	1
+O95377	Homo sapiens	Metazoa	273		0	True	1
+Q9FJF4	Arabidopsis thaliana	Plants	306		0	False	1
+P47175	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	358		0	False	1
+Q92575	Homo sapiens	Metazoa	508		0	False	1
+Q96I76	Homo sapiens	Metazoa	525		0	False	1
+Q7Z624	Homo sapiens	Metazoa	323		0	False	1
+B2GV06	Rattus norvegicus	Metazoa	520		0	False	1
+G5E829	Mus musculus	Metazoa	1220		0	False	1
+A1A4Y4	Homo sapiens	Metazoa	181		0	False	1
+P46962	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	323		0	False	1
+O88269	Rattus norvegicus	Metazoa	1502		0	True	1
+Q7YS70	Bos taurus	Metazoa	373		0	False	1
+O61722	Drosophila melanogaster	Metazoa	176		0	False	1
+P53942	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	307		0	False	1
+P45844	Homo sapiens	Metazoa	678		0	False	1
+P32962	Arabidopsis thaliana	Plants	339		0	False	1
+Q9LT69	Arabidopsis thaliana	Plants	588		0	False	1
+Q9LW85	Arabidopsis thaliana	Plants	726		0	False	1
+P29474	Homo sapiens	Metazoa	1203		0	False	1
+P00228	Triticum aestivum	Plants	143		0	False	1
+P05131	Bos taurus	Metazoa	351		0	False	1
+Q13416	Homo sapiens	Metazoa	577		0	False	1
+P24752	Homo sapiens	Metazoa	427		0	False	1
+Q02046	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	320		0	False	1
+P93002	Arabidopsis thaliana	Plants	593		0	False	1
+P32860	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	256		0	False	1
+B0I1T2	Homo sapiens	Metazoa	1018		0	False	1
+Q8IU60	Homo sapiens	Metazoa	420		0	False	1
+O74946	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	574		0	False	1
+Q07532	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	353		0	False	1
+P54987	Mus musculus	Metazoa	488		0	False	1
+P43616	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	481		0	False	1
+Q86UQ0	Homo sapiens	Metazoa	364		0	False	1
+Q27403	Drosophila melanogaster	Metazoa	504		0	False	1
+P16036	Rattus norvegicus	Metazoa	356		0	True	1
+Q6UX01	Homo sapiens	Metazoa	489		0	True	1
+Q9H7D7	Homo sapiens	Metazoa	661		0	False	1
+Q9NUQ2	Homo sapiens	Metazoa	364		0	True	1
+Q28175	Bos taurus	Metazoa	533		0	False	1
+P0C7P3	Homo sapiens	Metazoa	912		0	False	1
+Q09437	Caenorhabditis elegans	Metazoa	719		0	False	1
+Q14149	Homo sapiens	Metazoa	939		0	False	1
+Q5U623	Homo sapiens	Metazoa	682		0	False	1
+Q9ULD4	Homo sapiens	Metazoa	1205		0	False	1
+Q9NSN8	Homo sapiens	Metazoa	517		0	False	1
+Q96UP3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1400		0	False	1
+O95639	Homo sapiens	Metazoa	269		0	False	1
+Q9H0R1	Homo sapiens	Metazoa	490		0	False	1
+F4IDQ6	Arabidopsis thaliana	Plants	1576		0	False	1
+Q940X9	Arabidopsis thaliana	Plants	826		0	False	1
+O70404	Mus musculus	Metazoa	101		0	True	1
+Q10F03	Oryza sativa subsp. japonica	Plants	529		0	False	1
+A8IEF3	Chlamydomonas reinhardtii	Plants	345		0	False	1
+P13498	Homo sapiens	Metazoa	195		0	True	1
+Q70Z53	Homo sapiens	Metazoa	315		0	False	1
+Q9Y2D1	Homo sapiens	Metazoa	282		0	False	1
+O94478	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	420		0	False	1
+Q96AE7	Homo sapiens	Metazoa	1141		0	False	1
+Q9SIP1	Arabidopsis thaliana	Plants	263		0	False	1
+Q84MZ4	Arabidopsis thaliana	Plants	412		0	False	1
+O96622	Dictyostelium discoideum	Other	369		0	False	1
+Q0DI31	Oryza sativa subsp. japonica	Plants	112		0	False	1
+O95990	Homo sapiens	Metazoa	144		0	False	1
+Q54TN2	Dictyostelium discoideum	Other	580		0	False	1
+Q925H0	Mus musculus	Metazoa	512		0	True	1
+E7FFT2	Danio rerio	Metazoa	916		0	False	1
+C4QM85	Schistosoma mansoni	Metazoa	419		0	True	1
+Q8TB68	Homo sapiens	Metazoa	274		0	True	1
+Q6PML9	Homo sapiens	Metazoa	568		0	False	1
+Q92615	Homo sapiens	Metazoa	738		0	False	1
+Q9LUI2	Arabidopsis thaliana	Plants	1728		0	False	1
+P05030	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	918		0	False	1
+O23530	Arabidopsis thaliana	Plants	1437		0	False	1
+A0A077K8G3	Citrus limon	Plants	407		0	False	1
+P00109	Alaria esculenta	Other	86		0	False	1
+Q15758	Homo sapiens	Metazoa	541		0	True	1
+P84022	Homo sapiens	Metazoa	425		0	False	1
+O75912	Homo sapiens	Metazoa	1057		0	False	1
+Q9NXV6	Homo sapiens	Metazoa	580		0	False	1
+P35729	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1037		0	False	1
+P40360	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	574		0	False	1
+Q653T6	Oryza sativa subsp. japonica	Plants	430		0	False	1
+P46974	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1380		0	False	1
+Q9UJ68	Homo sapiens	Metazoa	235		0	False	1
+P22415	Homo sapiens	Metazoa	310		0	False	1
+Q9H2W6	Homo sapiens	Metazoa	279		0	False	1
+Q08647	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	676		0	False	1
+Q9NEZ5	Caenorhabditis elegans	Metazoa	350		0	False	1
+Q23544	Caenorhabditis elegans	Metazoa	508		0	True	1
+Q86W26	Homo sapiens	Metazoa	655		0	False	1
+Q9FWA3	Arabidopsis thaliana	Plants	486		0	False	1
+Q9UUI2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	165		0	False	1
+Q09825	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	514		0	False	1
+Q7L5Y9	Homo sapiens	Metazoa	396		0	False	1
+Q9Y342	Homo sapiens	Metazoa	182		0	True	1
+Q8S950	Nicotiana tabacum	Plants	959		0	False	1
+Q9H0F7	Homo sapiens	Metazoa	186		0	False	1
+Q9Z0U1	Mus musculus	Metazoa	1167		0	False	1
+F4JTE7	Arabidopsis thaliana	Plants	298		0	False	1
+C6KT66	Plasmodium falciparum (isolate 3D7)	Other	527		0	False	1
+O75387	Homo sapiens	Metazoa	559		0	True	1
+Q04613	Arabidopsis thaliana	Plants	192		0	True	1
+Q9ZQI2	Arabidopsis thaliana	Plants	221		0	True	1
+Q9C6P3	Arabidopsis thaliana	Plants	521		0	False	1
+O14236	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	537		0	False	1
+Q02161	Homo sapiens	Metazoa	417		0	True	1
+Q68DX3	Homo sapiens	Metazoa	1309		0	False	1
+Q9BY66	Homo sapiens	Metazoa	1539		0	False	1
+Q9FMJ0	Arabidopsis thaliana	Plants	1121		0	False	1
+Q8VXQ2	Craterostigma plantagineum	Plants	479		0	False	1
+Q9H871	Homo sapiens	Metazoa	391		0	False	1
+A0A0U4CDK4	Salvia miltiorrhiza	Plants	806		0	False	1
+Q8W034	Arabidopsis thaliana	Plants	411		0	False	1
+P23497	Homo sapiens	Metazoa	879		0	False	1
+Q84N49	Zea mays	Plants	674		0	False	1
+Q9Z2S7	Mus musculus	Metazoa	137		0	False	1
+Q12277	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	265		0	False	1
+O43504	Homo sapiens	Metazoa	91		0	False	1
+O61307	Drosophila melanogaster	Metazoa	2731		0	False	1
+Q8TF62	Homo sapiens	Metazoa	1192		0	True	1
+Q12959	Homo sapiens	Metazoa	904		0	False	1
+Q9BRT3	Homo sapiens	Metazoa	115		0	False	1
+Q9FI56	Arabidopsis thaliana	Plants	929		0	False	1
+Q12045	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	647		0	False	1
+Q08047	Zea mays	Plants	799		0	False	1
+Q14934	Homo sapiens	Metazoa	902		0	False	1
+O13985	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	512		0	False	1
+O75152	Homo sapiens	Metazoa	810		0	False	1
+Q8GWP5	Arabidopsis thaliana	Plants	426		0	False	1
+Q9FLS8	Arabidopsis thaliana	Plants	478		0	False	1
+Q9UHQ1	Homo sapiens	Metazoa	456		0	False	1
+P98078	Mus musculus	Metazoa	766		0	False	1
+Q9VJQ5	Drosophila melanogaster	Metazoa	183		0	False	1
+O24592	Zea mays	Plants	604		0	False	1
+Q61286	Mus musculus	Metazoa	706		0	False	1
+F4JTP5	Arabidopsis thaliana	Plants	575		0	False	1
+Q9UBT6	Homo sapiens	Metazoa	870		0	False	1
+Q9SRW7	Arabidopsis thaliana	Plants	208		0	False	1
+Q8L4M1	Arabidopsis thaliana	Plants	367		0	False	1
+Q9BX84	Homo sapiens	Metazoa	2022		0	False	1
+P35582	Mus musculus	Metazoa	468		0	False	1
+Q9D2A5	Mus musculus	Metazoa	370		0	False	1
+Q9LJD7	Arabidopsis thaliana	Plants	182		0	False	1
+Q9C0C6	Homo sapiens	Metazoa	399		0	False	1
+Q64475	Mus musculus	Metazoa	126		0	False	1
+O95273	Homo sapiens	Metazoa	360		0	False	1
+Q13105	Homo sapiens	Metazoa	803		0	False	1
+Q8IZU1	Homo sapiens	Metazoa	332		0	False	1
+Q9LIS2	Arabidopsis thaliana	Plants	136		0	False	1
+B7ZR65	Xenopus laevis	Metazoa	477		0	False	1
+Q3V0B4	Mus musculus	Metazoa	1847		0	False	1
+O94740	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	466		0	False	1
+Q9SIB9	Arabidopsis thaliana	Plants	990		0	False	1
+A0A509AER3	Plasmodium berghei (strain Anka)	Other	247		0	False	1
+Q08116	Homo sapiens	Metazoa	209		0	False	1
+Q9D494	Mus musculus	Metazoa	218		0	False	1
+Q24025	Drosophila melanogaster	Metazoa	1038		0	True	1
+P93015	Arabidopsis thaliana	Plants	131		0	False	1
+Q6NV75	Homo sapiens	Metazoa	609		0	True	1
+Q08683	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	685		0	False	1
+P38120	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	278		0	False	1
+Q06629	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	674		0	False	1
+O94892	Homo sapiens	Metazoa	652		0	False	1
+Q8W1E3	Arabidopsis thaliana	Plants	298		0	False	1
+Q9H8E8	Homo sapiens	Metazoa	782		0	False	1
+Q6EI12	Zea mays	Plants	402		0	False	1
+P14149	Chlamydomonas reinhardtii	Plants	133		0	False	1
+Q8L735	Arabidopsis thaliana	Plants	882		0	False	1
+P55861	Xenopus laevis	Metazoa	886		0	False	1
+Q8C6P8	Mus musculus	Metazoa	421		0	False	1
+Q86VP3	Homo sapiens	Metazoa	889		0	False	1
+Q15916	Homo sapiens	Metazoa	424		0	False	1
+O35295	Mus musculus	Metazoa	324		0	False	1
+W6HUT3	Hedychium coronarium	Plants	593		0	False	1
+P04181	Homo sapiens	Metazoa	439		0	False	1
+P49748	Homo sapiens	Metazoa	655		0	False	1
+P51816	Homo sapiens	Metazoa	1311		0	False	1
+O95255	Homo sapiens	Metazoa	1503		0	True	1
+P49585	Homo sapiens	Metazoa	367		0	False	1
+Q9FVE6	Arabidopsis thaliana	Plants	245		0	False	1
+Q02241	Homo sapiens	Metazoa	960		0	False	1
+Q9VYX1	Drosophila melanogaster	Metazoa	101		0	False	1
+O88951	Mus musculus	Metazoa	207		0	False	1
+Q9CQV7	Mus musculus	Metazoa	116		0	True	1
+Q9BSI4	Homo sapiens	Metazoa	451		0	False	1
+P62908	Mus musculus	Metazoa	243		0	False	1
+O74434	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	626		0	False	1
+Q8N9N5	Homo sapiens	Metazoa	519		0	False	1
+Q01981	Emericella nidulans (strain FGSC A4 / ATCC 38163 / CBS 112.46 / NRRL 194 / M139)	Fungi	416		0	False	1
+Q8I8V0	Drosophila melanogaster	Metazoa	555		0	False	1
+Q8CGP2	Mus musculus	Metazoa	126		0	False	1
+P53303	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	486		0	False	1
+P53883	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	403		0	False	1
+Q8MUM2	Toxoplasma gondii	Other	568		0	True	1
+O95644	Homo sapiens	Metazoa	943		0	False	1
+P36213	Hordeum vulgare	Plants	205		0	False	1
+Q5HYJ3	Homo sapiens	Metazoa	339		0	False	1
+Q96CB9	Homo sapiens	Metazoa	384		0	False	1
+P62249	Homo sapiens	Metazoa	146		0	False	1
+P38302	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	140		0	False	1
+A0A3L6DPG1	Zea mays	Plants	361		0	False	1
+Q96LI6	Homo sapiens	Metazoa	401		0	False	1
+Q9H2S6	Homo sapiens	Metazoa	317		0	True	1
+Q9FPR3	Arabidopsis thaliana	Plants	933		0	False	1
+Q0QWG9	Mus musculus	Metazoa	1203		0	False	1
+P47050	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	842		0	False	1
+Q03834	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1242		0	False	1
+B9DHT4	Arabidopsis thaliana	Plants	710		0	False	1
+Q3UZD5	Mus musculus	Metazoa	596		0	False	1
+Q17TI5	Arabidopsis thaliana	Plants	344		0	False	1
+Q96AV8	Homo sapiens	Metazoa	911		0	False	1
+Q99PF5	Rattus norvegicus	Metazoa	721		0	False	1
+P25963	Homo sapiens	Metazoa	317		0	False	1
+Q9H078	Homo sapiens	Metazoa	707		0	False	1
+O94397	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	344		0	False	1
+Q8R5I7	Rattus norvegicus	Metazoa	938		0	False	1
+Q8IRW8	Drosophila melanogaster	Metazoa	2431		0	False	1
+Q5VNK1	Oryza sativa subsp. japonica	Plants	333		0	False	1
+O04331	Arabidopsis thaliana	Plants	277		0	True	1
+Q69Z66	Mus musculus	Metazoa	819		0	False	1
+P92506	Ascaris suum	Metazoa	188		0	True	1
+Q8VBX6	Mus musculus	Metazoa	2055		0	False	1
+Q3SXY8	Homo sapiens	Metazoa	428		0	False	1
+P00236	Equisetum telmateia	Plants	93		0	False	1
+Q8WV37	Homo sapiens	Metazoa	535		0	False	1
+Q9H310	Homo sapiens	Metazoa	458		0	True	1
+Q9STY0	Arabidopsis thaliana	Plants	227		0	True	1
+P23292	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	546		0	False	1
+Q63HN8	Homo sapiens	Metazoa	5207		0	False	1
+Q257B3	Trypanosoma brucei brucei	Other	345		0	False	1
+P0C565	Tanacetum cinerariifolium	Plants	393		0	False	1
+Q8J1Z1	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	88		0	False	1
+O43615	Homo sapiens	Metazoa	452		0	False	1
+Q9SV68	Arabidopsis thaliana	Plants	329		0	False	1
+P22068	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	525		0	False	1
+P48183	Zea mays	Plants	353		0	True	1
+P25090	Homo sapiens	Metazoa	351		0	True	1
+Q8VHW2	Mus musculus	Metazoa	423		0	True	1
+P30987	Mus musculus	Metazoa	341		0	True	1
+Q9Y2Z9	Homo sapiens	Metazoa	468		0	False	1
+P23348	Rattus norvegicus	Metazoa	1227		0	False	1
+Q8IPX7	Drosophila melanogaster	Metazoa	232		0	False	1
+Q9FIP9	Arabidopsis thaliana	Plants	592		0	False	1
+Q60862	Mus musculus	Metazoa	576		0	False	1
+Q9FWR4	Arabidopsis thaliana	Plants	213		0	False	1
+Q86VE9	Homo sapiens	Metazoa	423		0	True	1
+B2C6R6	Arabidopsis thaliana	Plants	681		0	False	1
+Q9M2Z2	Arabidopsis thaliana	Plants	317		0	False	1
+Q9LF98	Arabidopsis thaliana	Plants	358		0	False	1
+Q4V8H8	Rattus norvegicus	Metazoa	543		0	False	1
+Q60793	Mus musculus	Metazoa	483		0	False	1
+O43679	Homo sapiens	Metazoa	373		0	False	1
+P21461	Drosophila melanogaster	Metazoa	314		0	False	1
+P06734	Homo sapiens	Metazoa	321		0	True	1
+O13612	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	415		0	False	1
+Q32NN2	Xenopus laevis	Metazoa	341		0	False	1
+Q8ST83	Drosophila melanogaster	Metazoa	520		0	False	1
+Q9NWU2	Homo sapiens	Metazoa	228		0	False	1
+G5ECN5	Caenorhabditis elegans	Metazoa	388		0	False	1
+A0A0B5L781	Penicillium brevicompactum	Fungi	398		0	False	1
+Q69SV0	Oryza sativa subsp. japonica	Plants	478		0	False	1
+O82504	Arabidopsis thaliana	Plants	1133		0	False	1
+P27638	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	372		0	False	1
+P38227	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	689		0	False	1
+P29617	Drosophila melanogaster	Metazoa	1703		0	False	1
+Q9UH17	Homo sapiens	Metazoa	382		0	False	1
+O54972	Mus musculus	Metazoa	620		0	False	1
+Q8C1Q6	Mus musculus	Metazoa	80		0	True	1
+O43739	Homo sapiens	Metazoa	400		0	False	1
+B0KZ40	Zea mays	Plants	426		0	False	1
+Q9SRP6	Arabidopsis thaliana	Plants	194		0	False	1
+P00175	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	591		0	False	1
+Q9CXG9	Mus musculus	Metazoa	578		0	False	1
+Q7Z419	Homo sapiens	Metazoa	303		0	False	1
+Q9LRY0	Arabidopsis thaliana	Plants	189		0	False	1
+Q91VR5	Mus musculus	Metazoa	740		0	False	1
+Q9Y483	Homo sapiens	Metazoa	593		0	False	1
+Q02629	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	959		0	False	1
+Q08645	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	548		0	False	1
+P10176	Homo sapiens	Metazoa	69		0	True	1
+P40858	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	161		0	False	1
+Q945P0	Nicotiana tabacum	Plants	209		0	False	1
+F4I443	Arabidopsis thaliana	Plants	714		0	False	1
+Q8WVF1	Homo sapiens	Metazoa	389		0	False	1
+P27472	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	705		0	False	1
+Q96D98	Homo sapiens	Metazoa	161		0	False	1
+P12831	Sarcophaga peregrina	Metazoa	108		0	False	1
+Q9BV47	Homo sapiens	Metazoa	211		0	False	1
+O75386	Homo sapiens	Metazoa	442		0	False	1
+P11308	Homo sapiens	Metazoa	479		0	False	1
+P09021	Mus musculus	Metazoa	270		0	False	1
+P31853	Spinacia oleracea	Plants	222		0	True	1
+P23638	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	258		0	False	1
+Q9S775	Arabidopsis thaliana	Plants	1384		0	False	1
+O75204	Homo sapiens	Metazoa	238		0	False	1
+Q9XSM3	Oryctolagus cuniculus	Metazoa	730		0	False	1
+Q02556	Homo sapiens	Metazoa	426		0	False	1
+Q8R1F1	Mus musculus	Metazoa	749		0	False	1
+Q8IZ08	Homo sapiens	Metazoa	494		0	True	1
+Q96PM9	Homo sapiens	Metazoa	386		0	False	1
+O15318	Homo sapiens	Metazoa	223		0	False	1
+Q9W3E1	Drosophila melanogaster	Metazoa	1022		0	False	1
+Q9H1K1	Homo sapiens	Metazoa	167		0	False	1
+Q8IEK7	Plasmodium falciparum (isolate 3D7)	Other	87		0	False	1
+Q6R053	Arabidopsis thaliana	Plants	323		0	False	1
+Q6ZN17	Homo sapiens	Metazoa	250		0	False	1
+P53312	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	427		0	False	1
+Q9NXX6	Homo sapiens	Metazoa	385		0	False	1
+Q8JFY9	Xenopus laevis	Metazoa	292		0	False	1
+P22204	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	572		0	False	1
+P34021	Drosophila melanogaster	Metazoa	878		0	False	1
+Q0WLC6	Arabidopsis thaliana	Plants	1089		0	False	1
+F4JHH5	Arabidopsis thaliana	Plants	787		0	False	1
+Q12368	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	194		0	False	1
+Q8K1Z0	Mus musculus	Metazoa	313		0	False	1
+Q4QQW4	Rattus norvegicus	Metazoa	482		0	False	1
+Q9NR22	Homo sapiens	Metazoa	394		0	False	1
+Q8BGC3	Mus musculus	Metazoa	486		0	True	1
+O00270	Homo sapiens	Metazoa	319		0	True	1
+Q7SGU0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	376		0	False	1
+I1M2G5	Glycine max	Plants	534		0	False	1
+Q9SE83	Arabidopsis thaliana	Plants	914		0	False	1
+Q01517	Pisum sativum	Plants	349		0	False	1
+Q5S007	Homo sapiens	Metazoa	2527		0	False	1
+Q5ICL9	Arabidopsis thaliana	Plants	574		0	False	1
+P30414	Homo sapiens	Metazoa	1462		0	False	1
+P35293	Mus musculus	Metazoa	206		0	False	1
+K7WIZ6	Zea mays	Plants	623		0	False	1
+Q84V03	Arabidopsis thaliana	Plants	778		0	False	1
+Q4WF55	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	462		0	False	1
+Q03218	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	510		0	False	1
+Q9Z0R0	Mus musculus	Metazoa	754		0	False	1
+Q9CAH0	Arabidopsis thaliana	Plants	188		0	False	1
+P35408	Homo sapiens	Metazoa	488		0	True	1
+P00225	Leucaena leucocephala	Plants	96		0	False	1
+Q9NVP1	Homo sapiens	Metazoa	670		0	False	1
+Q3U9N9	Mus musculus	Metazoa	512		0	True	1
+Q09490	Caenorhabditis elegans	Metazoa	123		0	False	1
+F4JVH1	Arabidopsis thaliana	Plants	907		0	False	1
+Q9Y5A7	Homo sapiens	Metazoa	615		0	False	1
+Q99958	Homo sapiens	Metazoa	501		0	False	1
+Q9Y675	Homo sapiens	Metazoa	71		0	False	1
+Q90Z80	Xenopus laevis	Metazoa	392		0	False	1
+Q8VY52	Arabidopsis thaliana	Plants	232		0	False	1
+Q96I23	Homo sapiens	Metazoa	114		0	False	1
+Q9XH37	Oryza sativa subsp. indica	Plants	277		0	False	1
+Q8BIF2	Mus musculus	Metazoa	374		0	False	1
+Q7Z2D5	Homo sapiens	Metazoa	763		0	True	1
+Q12143	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	216		0	False	1
+Q9BX66	Homo sapiens	Metazoa	1292		0	False	1
+Q9NSP4	Homo sapiens	Metazoa	180		0	False	1
+A0A120KVR8	Trypanosoma brucei brucei	Other	1728		0	False	1
+Q12139	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1133		0	False	1
+O35381	Mus musculus	Metazoa	247		0	False	1
+Q8WTV0	Homo sapiens	Metazoa	552		0	True	1
+Q9Y5Q8	Homo sapiens	Metazoa	519		0	False	1
+Q38830	Arabidopsis thaliana	Plants	239		0	False	1
+Q6UB28	Homo sapiens	Metazoa	335		0	False	1
+Q9QUZ8	Rattus norvegicus	Metazoa	562		0	False	1
+P0DPK0	Xenopus laevis	Metazoa	237		0	False	1
+Q13247	Homo sapiens	Metazoa	344		0	False	1
+P36629	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	517		0	False	1
+P39952	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	402		0	False	1
+Q9VL76	Drosophila melanogaster	Metazoa	613		0	False	1
+P31170	Arabidopsis thaliana	Plants	227		0	False	1
+Q39016	Arabidopsis thaliana	Plants	495		0	False	1
+A0A075TRB3	Penicillium expansum	Fungi	259		0	False	1
+Q9LJN8	Arabidopsis thaliana	Plants	340		0	False	1
+O00472	Homo sapiens	Metazoa	640		0	False	1
+Q9XFD1	Arabidopsis thaliana	Plants	257		0	False	1
+Q9STW6	Arabidopsis thaliana	Plants	718		0	False	1
+Q00900	Rattus norvegicus	Metazoa	2437		0	False	1
+O15056	Homo sapiens	Metazoa	1496		0	False	1
+P39687	Homo sapiens	Metazoa	249		0	False	1
+Q76NM7	Plasmodium falciparum (isolate 3D7)	Other	207		0	False	1
+D0EL35	Arabidopsis thaliana	Plants	1272		0	False	1
+O13848	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	284		0	False	1
+O95453	Homo sapiens	Metazoa	639		0	False	1
+P05314	Spinacia oleracea	Plants	594		0	False	1
+Q9UHJ3	Homo sapiens	Metazoa	866		0	False	1
+Q504P2	Mus musculus	Metazoa	267		0	True	1
+Q9WUB6	Mus musculus	Metazoa	687		0	True	1
+P28004	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	379		0	False	1
+Q9M276	Arabidopsis thaliana	Plants	235		0	False	1
+P92208	Drosophila melanogaster	Metazoa	372		0	False	1
+Q08968	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	688		0	False	1
+Q9WU72	Mus musculus	Metazoa	309		0	True	1
+Q27890	Leishmania mexicana	Other	361		0	False	1
+O94238	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	134		0	False	1
+Q8CI11	Mus musculus	Metazoa	538		0	False	1
+A0A509AFM3	Plasmodium berghei (strain Anka)	Other	304		0	True	1
+Q96SY0	Homo sapiens	Metazoa	518		0	False	1
+O94880	Homo sapiens	Metazoa	948		0	False	1
+P12383	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1068		0	False	1
+Q9FX53	Arabidopsis thaliana	Plants	406		0	False	1
+P00876	Nicotiana tabacum	Plants	477		0	False	1
+Q5I0E9	Rattus norvegicus	Metazoa	566		0	True	1
+P57728	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	148		0	False	1
+P53283	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	614		0	False	1
+P10156	Tetrahymena thermophila (strain SB210)	Other	164		0	False	1
+Q5U4E0	Mus musculus	Metazoa	247		0	True	1
+Q8L5Z4	Arabidopsis thaliana	Plants	584		0	False	1
+O42936	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	470		0	False	1
+P35639	Mus musculus	Metazoa	168		0	False	1
+Q6MG82	Rattus norvegicus	Metazoa	306		0	False	1
+P82130	Spinacia oleracea	Plants	183		0	False	1
+O04196	Arabidopsis thaliana	Plants	783		0	False	1
+Q9TK52	Phaeodactylum tricornutum (strain CCAP 1055/1)	Other	490		0	False	1
+O60238	Homo sapiens	Metazoa	219		0	False	1
+Q9MAH3	Arabidopsis thaliana	Plants	438		0	False	1
+Q9NR30	Homo sapiens	Metazoa	783		0	False	1
+Q5DTL9	Mus musculus	Metazoa	1118		0	False	1
+Q9SLK6	Arabidopsis thaliana	Plants	1240		0	True	1
+P20592	Homo sapiens	Metazoa	715		0	False	1
+P26043	Mus musculus	Metazoa	583		0	False	1
+P90994	Caenorhabditis elegans	Metazoa	187		0	False	1
+Q7TT18	Mus musculus	Metazoa	1306		0	False	1
+P52188	Rattus norvegicus	Metazoa	427		0	True	1
+B4XT64	Oryza sativa subsp. japonica	Plants	582		0	False	1
+Q5XG73	Mus musculus	Metazoa	508		0	False	1
+Q10302	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	646		0	False	1
+Q9Z213	Rattus norvegicus	Metazoa	738		0	False	1
+P40991	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	618		0	False	1
+P56560	Bos taurus	Metazoa	520		0	False	1
+Q4V8P4	Rattus norvegicus	Metazoa	168		0	False	1
+Q13608	Homo sapiens	Metazoa	980		0	False	1
+Q96288	Arabidopsis thaliana	Plants	248		0	False	1
+P62081	Homo sapiens	Metazoa	194		0	False	1
+Q8LGU6	Arabidopsis thaliana	Plants	744		0	False	1
+Q14432	Homo sapiens	Metazoa	1141		0	True	1
+P20052	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	293		0	False	1
+Q9V4Z9	Drosophila melanogaster	Metazoa	858		0	False	1
+Q9NRR4	Homo sapiens	Metazoa	1374		0	False	1
+P38144	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1129		0	False	1
+Q93227	Caenorhabditis elegans	Metazoa	431		0	False	1
+Q9ESK9	Mus musculus	Metazoa	1588		0	False	1
+Q058N4	Arabidopsis thaliana	Plants	459		0	False	1
+Q9FQ08	Arabidopsis thaliana	Plants	621		0	False	1
+Q6A068	Mus musculus	Metazoa	802		0	False	1
+P27521	Arabidopsis thaliana	Plants	251		0	False	1
+O35740	Mus musculus	Metazoa	269		0	False	1
+P06526	Bos taurus	Metazoa	509		0	False	1
+P25626	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	169		0	False	1
+Q5FW52	Mus musculus	Metazoa	967		0	False	1
+O89039	Rattus norvegicus	Metazoa	362		0	True	1
+P36068	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	246		0	False	1
+P32340	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	513		0	False	1
+Q60932	Mus musculus	Metazoa	296		0	True	1
+Q2RBP2	Oryza sativa subsp. japonica	Plants	1131		0	False	1
+Q9STS7	Arabidopsis thaliana	Plants	353		0	False	1
+Q9LPW3	Arabidopsis thaliana	Plants	450		0	False	1
+Q9FPW4	Arabidopsis thaliana	Plants	614		0	False	1
+Q921A2	Rattus norvegicus	Metazoa	637		0	True	1
+Q8K3D3	Mus musculus	Metazoa	89		0	False	1
+Q95RJ9	Drosophila melanogaster	Metazoa	700		0	False	1
+Q9JL16	Mus musculus	Metazoa	300		0	False	1
+P00019	Struthio camelus	Metazoa	105		0	False	1
+P97386	Mus musculus	Metazoa	1015		0	False	1
+Q5MIZ7	Homo sapiens	Metazoa	849		0	False	1
+Q9UJM8	Homo sapiens	Metazoa	370		0	False	1
+P28000	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	142		0	False	1
+Q13330	Homo sapiens	Metazoa	715		0	False	1
+Q3URD3	Mus musculus	Metazoa	845		0	True	1
+P52553	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	114		0	False	1
+Q6ZQX7	Homo sapiens	Metazoa	453		0	False	1
+F4IDC2	Arabidopsis thaliana	Plants	1043		0	False	1
+Q923B3	Mus musculus	Metazoa	828		0	False	1
+Q9Y4R8	Homo sapiens	Metazoa	837		0	False	1
+Q9URY2	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	474		0	False	1
+Q12136	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	610		0	False	1
+O43929	Homo sapiens	Metazoa	436		0	False	1
+P0CT61	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	139		0	False	1
+O74962	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	403		0	False	1
+P53040	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	516		0	False	1
+Q9ET80	Mus musculus	Metazoa	660		0	False	1
+C9JRZ8	Homo sapiens	Metazoa	316		0	False	1
+Q9JL21	Mus musculus	Metazoa	362		0	True	1
+Q9USW5	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	262		0	False	1
+P16371	Drosophila melanogaster	Metazoa	730		0	False	1
+Q12972	Homo sapiens	Metazoa	351		0	False	1
+Q8IXQ6	Homo sapiens	Metazoa	854		0	False	1
+P17427	Mus musculus	Metazoa	938		0	False	1
+Q76NM6	Plasmodium falciparum (isolate 3D7)	Other	611		0	False	1
+P99998	Pan troglodytes	Metazoa	105		0	False	1
+Q64273	Rattus norvegicus	Metazoa	427		0	True	1
+Q96G21	Homo sapiens	Metazoa	291		0	False	1
+Q3UMC0	Mus musculus	Metazoa	893		0	False	1
+Q9FUQ7	Arabidopsis thaliana	Plants	214		0	False	1
+O88466	Mus musculus	Metazoa	1888		0	False	1
+Q7S1R6	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	267		0	False	1
+Q9YH58	Gallus gallus	Metazoa	541		0	False	1
+Q9BRJ2	Homo sapiens	Metazoa	306		0	False	1
+P97433	Mus musculus	Metazoa	1700		0	False	1
+Q14674	Homo sapiens	Metazoa	2120		0	False	1
+Q84P21	Arabidopsis thaliana	Plants	546		0	False	1
+Q5XI78	Rattus norvegicus	Metazoa	1023		0	False	1
+Q9UHF7	Homo sapiens	Metazoa	1281		0	False	1
+Q03373	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	323		0	False	1
+P49842	Homo sapiens	Metazoa	254		0	False	1
+P87060	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	775		0	False	1
+Q9SIV5	Arabidopsis thaliana	Plants	1773		0	False	1
+P57740	Homo sapiens	Metazoa	925		0	False	1
+Q9NR77	Homo sapiens	Metazoa	195		0	True	1
+P53817	Rattus norvegicus	Metazoa	160		0	False	1
+P18754	Homo sapiens	Metazoa	421		0	False	1
+Q94F00	Arabidopsis thaliana	Plants	371		0	False	1
+Q54HC6	Dictyostelium discoideum	Other	1460		0	False	1
+Q8IWY9	Homo sapiens	Metazoa	1227		0	False	1
+Q99627	Homo sapiens	Metazoa	209		0	False	1
+O14310	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	933		0	False	1
+P29496	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	775		0	False	1
+Q9YHY6	Xenopus laevis	Metazoa	1364		0	False	1
+P58735	Mus musculus	Metazoa	704		0	True	1
+Q9CQZ5	Mus musculus	Metazoa	131		0	False	1
+Q8VDU0	Mus musculus	Metazoa	679		0	False	1
+P00025	Katsuwonus pelamis	Metazoa	104		0	False	1
+P27925	Bos taurus	Metazoa	325		0	False	1
+P32494	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	702		0	False	1
+Q9FMX3	Arabidopsis thaliana	Plants	514		0	True	1
+Q8BRE0	Mus musculus	Metazoa	195		0	False	1
+G5EFI7	Caenorhabditis elegans	Metazoa	931		0	False	1
+Q9D687	Mus musculus	Metazoa	634		0	True	1
+P42844	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	174		0	False	1
+Q8H107	Arabidopsis thaliana	Plants	464		0	False	1
+O14832	Homo sapiens	Metazoa	338		0	False	1
+Q8MXU4	Caenorhabditis elegans	Metazoa	107		0	False	1
+Q69ZK0	Mus musculus	Metazoa	1650		0	False	1
+Q655V5	Oryza sativa subsp. japonica	Plants	250		0	False	1
+P35691	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	167		0	False	1
+P06541	Chlamydomonas reinhardtii	Plants	481		0	False	1
+Q0D4J7	Oryza sativa subsp. japonica	Plants	339		0	False	1
+Q3MK94	Arabidopsis thaliana	Plants	428		0	False	1
+P21240	Arabidopsis thaliana	Plants	600		0	False	1
+P55229	Arabidopsis thaliana	Plants	522		0	False	1
+Q3U9G9	Mus musculus	Metazoa	626		0	False	1
+Q91VX9	Mus musculus	Metazoa	697		0	True	1
+Q9XVI2	Caenorhabditis elegans	Metazoa	811		0	False	1
+Q8CGU4	Rattus norvegicus	Metazoa	1186		0	False	1
+P43586	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	204		0	False	1
+Q04726	Homo sapiens	Metazoa	772		0	False	1
+Q02794	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	444		0	False	1
+Q03254	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	732		0	False	1
+P11325	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	894		0	False	1
+Q6ZBH6	Oryza sativa subsp. japonica	Plants	373		0	False	1
+Q96ER9	Homo sapiens	Metazoa	411		0	False	1
+P48430	Gallus gallus	Metazoa	315		0	False	1
+P46367	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	519		0	False	1
+Q9JM59	Rattus norvegicus	Metazoa	270		0	False	1
+Q944Q0	Arabidopsis thaliana	Plants	563		0	False	1
+P05423	Homo sapiens	Metazoa	398		0	False	1
+Q8TD86	Homo sapiens	Metazoa	181		0	False	1
+Q9CWR7	Mus musculus	Metazoa	339		0	True	1
+P00441	Homo sapiens	Metazoa	154		0	False	1
+P53125	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1264		0	False	1
+Q9U2M1	Caenorhabditis elegans	Metazoa	1499		0	False	1
+Q06324	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	491		0	False	1
+P10114	Homo sapiens	Metazoa	183		0	False	1
+Q7KN62	Drosophila melanogaster	Metazoa	801		0	False	1
+Q5ND04	Mus musculus	Metazoa	624		0	False	1
+Q8VC56	Mus musculus	Metazoa	488		0	False	1
+P22353	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	238		0	False	1
+Q5AMH6	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	821		0	False	1
+Q9WTU6	Mus musculus	Metazoa	423		0	False	1
+C0HKE8	Mus musculus	Metazoa	130		0	False	1
+P21788	Hemicentrotus pulcherrimus	Metazoa	150		0	False	1
+P63280	Mus musculus	Metazoa	158		0	False	1
+Q9DBP0	Mus musculus	Metazoa	697		0	False	1
+P32839	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	456		0	True	1
+Q02067	Mus musculus	Metazoa	231		0	False	1
+P00049	Ustilago sphaerogena	Fungi	107		0	False	1
+Q9JHS2	Rattus norvegicus	Metazoa	662		0	False	1
+Q8HTL5	Chlamydomonas reinhardtii	Plants	175		0	True	1
+P93431	Oryza sativa subsp. japonica	Plants	466		0	False	1
+Q9Y253	Homo sapiens	Metazoa	713		0	False	1
+Q7TNK1	Mus musculus	Metazoa	735		0	False	1
+P82912	Homo sapiens	Metazoa	194		0	False	1
+O88454	Mus musculus	Metazoa	398		0	True	1
+P28178	Dictyostelium discoideum	Other	479		0	False	1
+Q96KM6	Homo sapiens	Metazoa	892		0	False	1
+Q6VN20	Homo sapiens	Metazoa	620		0	False	1
+Q9W3C1	Drosophila melanogaster	Metazoa	1008		0	False	1
+P03929	Bos taurus	Metazoa	66		0	True	1
+Q23670	Caenorhabditis elegans	Metazoa	1520		0	False	1
+Q9H633	Homo sapiens	Metazoa	154		0	False	1
+Q9UUF3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	287		0	False	1
+Q9FLL1	Arabidopsis thaliana	Plants	602		0	False	1
+P40156	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	214		0	False	1
+D3ZAW2	Rattus norvegicus	Metazoa	406		0	True	1
+A0A0P0XB70	Oryza sativa subsp. japonica	Plants	158		0	False	1
+Q02548	Homo sapiens	Metazoa	391		0	False	1
+Q7SGH0	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	98		0	False	1
+P47809	Mus musculus	Metazoa	397		0	False	1
+Q9NP64	Homo sapiens	Metazoa	241		0	False	1
+Q9H6E5	Homo sapiens	Metazoa	874		0	False	1
+Q8S9K3	Arabidopsis thaliana	Plants	758		0	False	1
+Q10474	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	258		0	False	1
+Q9NP71	Homo sapiens	Metazoa	852		0	False	1
+Q53TQ3	Homo sapiens	Metazoa	1027		0	False	1
+Q5BPF3	Arabidopsis thaliana	Plants	262		0	False	1
+P31007	Drosophila melanogaster	Metazoa	970		0	False	1
+Q13084	Homo sapiens	Metazoa	256		0	False	1
+Q9JHU3	Mus musculus	Metazoa	346		0	False	1
+E7F568	Danio rerio	Metazoa	1343		0	False	1
+Q8BHS6	Mus musculus	Metazoa	379		0	True	1
+Q9ZNQ8	Arabidopsis thaliana	Plants	633		0	False	1
+P13433	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1351		0	False	1
+Q9SH69	Arabidopsis thaliana	Plants	487		0	False	1
+Q9XIB5	Arabidopsis thaliana	Plants	226		0	False	1
+O94290	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	217		0	False	1
+Q9D1P2	Mus musculus	Metazoa	458		0	False	1
+P14635	Homo sapiens	Metazoa	433		0	False	1
+Q9M9T4	Arabidopsis thaliana	Plants	442		0	False	1
+P49866	Drosophila melanogaster	Metazoa	704		0	False	1
+Q9NZD1	Homo sapiens	Metazoa	345		0	True	1
+Q9LYK7	Arabidopsis thaliana	Plants	590		0	False	1
+Q80TH2	Mus musculus	Metazoa	1402		0	False	1
+Q9FFG0	Arabidopsis thaliana	Plants	248		0	False	1
+Q9BWU0	Homo sapiens	Metazoa	742		0	False	1
+P0C2C0	Rattus norvegicus	Metazoa	206		0	False	1
+Q13133	Homo sapiens	Metazoa	447		0	False	1
+P53838	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	576		0	True	1
+P52756	Homo sapiens	Metazoa	815		0	False	1
+Q9Y446	Homo sapiens	Metazoa	797		0	False	1
+O74859	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	232		0	False	1
+Q8N7J2	Homo sapiens	Metazoa	671		0	False	1
+P82191	Spinacia oleracea	Plants	305		0	False	1
+P40381	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328		0	False	1
+Q4WW97	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	292		0	False	1
+Q9FIU5	Arabidopsis thaliana	Plants	440		0	True	1
+P38801	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	184		0	False	1
+P46089	Homo sapiens	Metazoa	330		0	True	1
+P53218	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	158		0	False	1
+Q2HJ10	Mus musculus	Metazoa	371		0	True	1
+Q9GTP4	Crithidia fasciculata	Other	502		0	True	1
+P06809	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	186		0	False	1
+Q9HB75	Homo sapiens	Metazoa	910		0	False	1
+P52434	Homo sapiens	Metazoa	150		0	False	1
+Q9D030	Mus musculus	Metazoa	160		0	False	1
+Q17850	Caenorhabditis elegans	Metazoa	572		0	False	1
+Q9UIJ5	Homo sapiens	Metazoa	367		0	True	1
+Q9P2R7	Homo sapiens	Metazoa	463		0	False	1
+Q07053	Crithidia fasciculata	Other	128		0	False	1
+Q8R4Z9	Rattus norvegicus	Metazoa	741		0	False	1
+Q9R061	Mus musculus	Metazoa	275		0	False	1
+Q9NYJ8	Homo sapiens	Metazoa	693		0	False	1
+Q96HY7	Homo sapiens	Metazoa	919		0	False	1
+Q9LZW2	Arabidopsis thaliana	Plants	270		0	False	1
+O74910	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	638		0	False	1
+Q03250	Arabidopsis thaliana	Plants	176		0	False	1
+Q6PCZ4	Mus musculus	Metazoa	918		0	False	1
+Q8WXE1	Homo sapiens	Metazoa	791		0	False	1
+O14285	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	164		0	False	1
+Q96RE9	Homo sapiens	Metazoa	604		0	False	1
+Q3ZBI7	Bos taurus	Metazoa	58		0	True	1
+P48237	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	864		0	False	1
+O00763	Homo sapiens	Metazoa	2458		0	False	1
+O00214	Homo sapiens	Metazoa	317		0	False	1
+Q9WTV7	Mus musculus	Metazoa	600		0	False	1
+Q8R2Y0	Mus musculus	Metazoa	336		0	True	1
+P14063	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	131		0	False	1
+Q96RI1	Homo sapiens	Metazoa	486		0	False	1
+P23196	Bos taurus	Metazoa	318		0	False	1
+Q9NRR5	Homo sapiens	Metazoa	601		0	False	1
+Q9USU8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	551		0	False	1
+P70425	Mus musculus	Metazoa	217		0	False	1
+Q17569	Caenorhabditis elegans	Metazoa	389		0	False	1
+Q9SGE2	Arabidopsis thaliana	Plants	111		0	False	1
+Q9BXP2	Homo sapiens	Metazoa	914		0	True	1
+Q9DBU6	Mus musculus	Metazoa	334		0	False	1
+Q9XGP7	Oryza sativa subsp. japonica	Plants	252		0	False	1
+Q06494	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	345		0	False	1
+Q9LU89	Arabidopsis thaliana	Plants	510		0	False	1
+P48329	Cyanophora paradoxa	Other	180		0	False	1
+Q28851	Bos taurus	Metazoa	88		0	True	1
+P11471	Chlamydomonas reinhardtii	Plants	245		0	False	1
+Q9CQT6	Mus musculus	Metazoa	229		0	False	1
+Q03667	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	156		0	False	1
+E9PTA2	Rattus norvegicus	Metazoa	1507		0	False	1
+O08608	Mus musculus	Metazoa	189		0	False	1
+P25233	Mus musculus	Metazoa	325		0	False	1
+O14114	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1190		0	False	1
+P56402	Mus musculus	Metazoa	271		0	True	1
+P25856	Arabidopsis thaliana	Plants	396		0	False	1
+Q9LMT7	Arabidopsis thaliana	Plants	478		0	False	1
+E5L8F7	Lotus japonicus	Plants	358		0	False	1
+Q99504	Homo sapiens	Metazoa	573		0	False	1
+Q9NPL8	Homo sapiens	Metazoa	285		0	True	1
+Q9H8M7	Homo sapiens	Metazoa	445		0	False	1
+Q12126	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	335		0	False	1
+Q8K1M6	Mus musculus	Metazoa	736		0	False	1
+Q9FDW8	Arabidopsis thaliana	Plants	135		0	False	1
+Q8K4V4	Rattus norvegicus	Metazoa	539		0	False	1
+Q03048	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	143		0	False	1
+P19787	Penicillium chrysogenum	Fungi	3746		0	False	1
+P25644	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	796		0	False	1
+P25688	Mus musculus	Metazoa	303		0	False	1
+Q12181	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	623		0	False	1
+Q9P7N0	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	392		0	False	1
+P38071	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	380		0	False	1
+O15350	Homo sapiens	Metazoa	636		0	False	1
+Q9VJY8	Drosophila melanogaster	Metazoa	285		0	False	1
+Q9W0S9	Drosophila melanogaster	Metazoa	1773		0	False	1
+Q9C8K2	Arabidopsis thaliana	Plants	687		0	False	1
+P43244	Rattus norvegicus	Metazoa	845		0	False	1
+Q5XIH7	Rattus norvegicus	Metazoa	299		0	False	1
+Q8N7H5	Homo sapiens	Metazoa	531		0	False	1
+P46013	Homo sapiens	Metazoa	3256		0	False	1
+O42978	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	80		0	False	1
+P49905	Drosophila melanogaster	Metazoa	196		0	False	1
+Q672J9	Mus musculus	Metazoa	568		0	True	1
+P09368	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	476		0	False	1
+Q9Y5N1	Homo sapiens	Metazoa	445		0	True	1
+A0A0B4J1F4	Mus musculus	Metazoa	415		0	False	1
+O65370	Arabidopsis thaliana	Plants	138		0	False	1
+Q9LZF8	Arabidopsis thaliana	Plants	420		0	False	1
+Q16348	Homo sapiens	Metazoa	729		0	True	1
+Q7PLS8	Drosophila melanogaster	Metazoa	1068		0	False	1
+P30405	Homo sapiens	Metazoa	207		0	False	1
+Q06091	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	175		0	False	1
+O59793	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	384		0	False	1
+Q3UV55	Mus musculus	Metazoa	615		0	False	1
+O04259	Arabidopsis thaliana	Plants	214		0	False	1
+Q9Z205	Mus musculus	Metazoa	269		0	False	1
+Q8BJA3	Mus musculus	Metazoa	419		0	False	1
+Q8RXD9	Arabidopsis thaliana	Plants	955		0	False	1
+F1LM93	Rattus norvegicus	Metazoa	541		0	False	1
+Q99207	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	810		0	False	1
+P32656	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	232		0	False	1
+Q80YF9	Mus musculus	Metazoa	1305		0	False	1
+Q99527	Homo sapiens	Metazoa	375		0	True	1
+Q9BUV0	Homo sapiens	Metazoa	290		0	False	1
+A6NK89	Homo sapiens	Metazoa	507		0	False	1
+Q0DIQ5	Oryza sativa subsp. japonica	Plants	1510		0	False	1
+P53297	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	722		0	False	1
+P25873	Arabidopsis thaliana	Plants	277		0	False	1
+P40384	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	345		0	False	1
+Q84TH9	Arabidopsis thaliana	Plants	959		0	False	1
+P19880	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	650		0	False	1
+P97287	Mus musculus	Metazoa	331		0	False	1
+Q6P8W9	Mus musculus	Metazoa	181		0	False	1
+Q5AJ71	Candida albicans (strain SC5314 / ATCC MYA-2876)	Fungi	281		0	False	1
+Q96JH7	Homo sapiens	Metazoa	1222		0	False	1
+Q6P2D8	Homo sapiens	Metazoa	792		0	False	1
+Q9P7S7	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	508		0	False	1
+Q3T0J3	Bos taurus	Metazoa	251		0	False	1
+P50148	Homo sapiens	Metazoa	359		0	False	1
+Q9SQI2	Arabidopsis thaliana	Plants	1173		0	False	1
+Q09725	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1587		0	False	1
+Q8IBN8	Plasmodium falciparum (isolate 3D7)	Other	899		0	False	1
+E9RBG1	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	1497		0	False	1
+P32910	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	317		0	False	1
+Q8L8B8	Arabidopsis thaliana	Plants	215		0	False	1
+P62306	Homo sapiens	Metazoa	86		0	False	1
+P35568	Homo sapiens	Metazoa	1242		0	False	1
+P52656	Drosophila melanogaster	Metazoa	106		0	False	1
+P47039	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	444		0	False	1
+P38637	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	319		0	False	1
+P62993	Homo sapiens	Metazoa	217		0	False	1
+P13788	Spinacia oleracea	Plants	201		0	False	1
+P52285	Dictyostelium discoideum	Other	162		0	False	1
+Q9HD42	Homo sapiens	Metazoa	196		0	False	1
+Q96P16	Homo sapiens	Metazoa	312		0	False	1
+P00973	Homo sapiens	Metazoa	400		0	False	1
+O43272	Homo sapiens	Metazoa	600		0	False	1
+Q80ZI1	Mus musculus	Metazoa	223		0	False	1
+P32442	Mus musculus	Metazoa	253		0	False	1
+P30291	Homo sapiens	Metazoa	646		0	False	1
+P25846	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	959		0	False	1
+Q14451	Homo sapiens	Metazoa	532		0	False	1
+Q9SN86	Arabidopsis thaliana	Plants	403		0	False	1
+P91943	Drosophila melanogaster	Metazoa	751		0	False	1
+O65499	Arabidopsis thaliana	Plants	284		0	False	1
+Q9VB46	Drosophila melanogaster	Metazoa	579		0	True	1
+Q86UG4	Homo sapiens	Metazoa	719		0	False	1
+Q923J1	Mus musculus	Metazoa	1863		0	False	1
+Q9C8W9	Arabidopsis thaliana	Plants	324		0	False	1
+Q965H3	Caenorhabditis elegans	Metazoa	735		0	False	1
+P82669	Bos taurus	Metazoa	173		0	False	1
+Q9SQ68	Papaver somniferum	Plants	321		0	False	1
+A9JRD8	Danio rerio	Metazoa	540		0	False	1
+O55057	Mus musculus	Metazoa	150		0	False	1
+Q96S94	Homo sapiens	Metazoa	520		0	False	1
+Q9P0M9	Homo sapiens	Metazoa	148		0	False	1
+Q9ZST9	Pisum sativum	Plants	252		0	False	1
+Q9ZVJ3	Arabidopsis thaliana	Plants	550		0	False	1
+Q8N3F8	Homo sapiens	Metazoa	863		0	False	1
+P70563	Rattus norvegicus	Metazoa	313		0	False	1
+P35734	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	292		0	False	1
+P52569	Homo sapiens	Metazoa	658		0	True	1
+Q9H4I9	Homo sapiens	Metazoa	107		0	True	1
+O43482	Homo sapiens	Metazoa	229		0	False	1
+O43353	Homo sapiens	Metazoa	540		0	False	1
+Q8C9X6	Mus musculus	Metazoa	813		0	False	1
+Q8TDN6	Homo sapiens	Metazoa	353		0	False	1
+P00889	Sus scrofa	Metazoa	464		0	False	1
+Q9Y6B6	Homo sapiens	Metazoa	198		0	False	1
+Q9S758	Arabidopsis thaliana	Plants	181		0	False	1
+O54851	Mus musculus	Metazoa	321		0	True	1
+P41181	Homo sapiens	Metazoa	271		0	True	1
+Q38799	Arabidopsis thaliana	Plants	363		0	False	1
+Q8VYZ5	Arabidopsis thaliana	Plants	900		0	False	1
+O35284	Mus musculus	Metazoa	125		0	False	1
+A8MTT3	Homo sapiens	Metazoa	80		0	True	1
+P15565	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	570		0	False	1
+P19075	Homo sapiens	Metazoa	237		0	True	1
+P21452	Homo sapiens	Metazoa	398		0	True	1
+P42056	Solanum tuberosum	Plants	276		0	False	1
+Q12094	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	313		0	False	1
+Q8CGY6	Mus musculus	Metazoa	931		0	False	1
+Q9UUI3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	585		0	False	1
+Q9ESQ4	Rattus norvegicus	Metazoa	395		0	True	1
+Q07684	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	458		0	False	1
+Q99797	Homo sapiens	Metazoa	713		0	False	1
+Q8BZ97	Mus musculus	Metazoa	688		0	False	1
+Q2TBI6	Bos taurus	Metazoa	188		0	False	1
+C7A2A0	Antirrhinum majus	Plants	534		0	False	1
+Q7TQ40	Mus musculus	Metazoa	622		0	False	1
+Q9FVQ1	Arabidopsis thaliana	Plants	557		0	False	1
+Q8TAM2	Homo sapiens	Metazoa	541		0	False	1
+Q14004	Homo sapiens	Metazoa	1512		0	False	1
+Q08J23	Homo sapiens	Metazoa	767		0	False	1
+O75132	Homo sapiens	Metazoa	1171		0	False	1
+Q8LDV3	Arabidopsis thaliana	Plants	185		0	False	1
+Q9ULJ6	Homo sapiens	Metazoa	1067		0	False	1
+Q9Y5N6	Homo sapiens	Metazoa	252		0	False	1
+Q969V1	Homo sapiens	Metazoa	340		0	True	1
+Q86YV9	Homo sapiens	Metazoa	775		0	False	1
+Q96BY6	Homo sapiens	Metazoa	2186		0	False	1
+Q9FZ89	Arabidopsis thaliana	Plants	123		0	False	1
+Q9Y6G1	Homo sapiens	Metazoa	99		0	True	1
+Q9ZRW8	Arabidopsis thaliana	Plants	219		0	False	1
+Q8BWM0	Mus musculus	Metazoa	384		0	True	1
+Q8LA53	Arabidopsis thaliana	Plants	272		0	False	1
+O22043	Arabidopsis thaliana	Plants	336		0	False	1
+Q6DV79	Gallus gallus	Metazoa	771		0	False	1
+Q8IUQ4	Homo sapiens	Metazoa	282		0	False	1
+Q9QXW9	Mus musculus	Metazoa	531		0	True	1
+P33778	Homo sapiens	Metazoa	126		0	False	1
+Q80WK2	Mus musculus	Metazoa	128		0	True	1
+Q60817	Mus musculus	Metazoa	215		0	False	1
+P0DP91	Homo sapiens	Metazoa	1061		0	False	1
+P50391	Homo sapiens	Metazoa	375		0	True	1
+P62263	Homo sapiens	Metazoa	151		0	False	1
+P36408	Dictyostelium discoideum	Other	347		0	False	1
+P49761	Homo sapiens	Metazoa	490		0	False	1
+P11608	Rattus norvegicus	Metazoa	67		0	True	1
+Q12180	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1030		0	False	1
+Q9UT72	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	205		0	False	1
+P35368	Homo sapiens	Metazoa	520		0	True	1
+Q54SM3	Dictyostelium discoideum	Other	179		0	False	1
+Q5EGY4	Rattus norvegicus	Metazoa	198		0	False	1
+P31949	Homo sapiens	Metazoa	105		0	False	1
+Q8WYH8	Homo sapiens	Metazoa	240		0	False	1
+Q9SZ63	Arabidopsis thaliana	Plants	309		0	False	1
+P40023	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	145		0	False	1
+Q9NS75	Homo sapiens	Metazoa	346		0	True	1
+P51521	Drosophila melanogaster	Metazoa	1351		0	False	1
+D3ZGX1	Rattus norvegicus	Metazoa	1517		0	False	1
+Q12988	Homo sapiens	Metazoa	150		0	False	1
+O23945	Fragaria vesca	Plants	556		0	False	1
+P40941	Arabidopsis thaliana	Plants	385		0	True	1
+Q9BYE2	Homo sapiens	Metazoa	586		0	False	1
+P18296	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1828		0	False	1
+Q8TF63	Homo sapiens	Metazoa	244		0	False	1
+Q04401	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	133		0	False	1
+Q9H5J8	Homo sapiens	Metazoa	278		0	False	1
+Q01851	Homo sapiens	Metazoa	419		0	False	1
+Q9FZ96	Arabidopsis thaliana	Plants	356		0	True	1
+Q5SWY8	Mus musculus	Metazoa	596		0	True	1
+O43294	Homo sapiens	Metazoa	461		0	False	1
+Q3USZ2	Mus musculus	Metazoa	394		0	False	1
+P70255	Mus musculus	Metazoa	439		0	False	1
+P17152	Homo sapiens	Metazoa	192		0	True	1
+Q2TBS2	Bos taurus	Metazoa	209		0	False	1
+Q6PI78	Homo sapiens	Metazoa	240		0	False	1
+P34218	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	831		0	False	1
+Q6P4H8	Homo sapiens	Metazoa	233		0	True	1
+P12154	Chlamydomonas reinhardtii	Plants	751		0	True	1
+Q01062	Rattus norvegicus	Metazoa	928		0	False	1
+Q5XIM7	Rattus norvegicus	Metazoa	626		0	False	1
+P36632	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	614		0	False	1
+Q9R1C0	Mus musculus	Metazoa	341		0	False	1
+Q9R224	Mus musculus	Metazoa	128		0	False	1
+P15385	Rattus norvegicus	Metazoa	655		0	False	1
+Q93096	Homo sapiens	Metazoa	173		0	False	1
+Q92621	Homo sapiens	Metazoa	2012		0	False	1
+Q9FMY5	Arabidopsis thaliana	Plants	283		0	False	1
+Q7XTE8	Oryza sativa subsp. japonica	Plants	262		0	False	1
+Q12046	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	339		0	False	1
+Q14CX5	Homo sapiens	Metazoa	517		0	True	1
+Q7XJT7	Arabidopsis thaliana	Plants	465		0	False	1
+Q92478	Homo sapiens	Metazoa	149		0	True	1
+Q12158	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	566		0	False	1
+Q04891	Mus musculus	Metazoa	613		0	False	1
+Q04491	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	297		0	False	1
+P14292	Candida boidinii	Fungi	167		0	False	1
+Q9C000	Homo sapiens	Metazoa	1473		0	False	1
+P25693	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	308		0	False	1
+P49140	Gallus gallus	Metazoa	750		0	False	1
+P63272	Homo sapiens	Metazoa	117		0	False	1
+Q68CJ6	Homo sapiens	Metazoa	796		0	False	1
+Q96J66	Homo sapiens	Metazoa	1382		0	False	1
+P78362	Homo sapiens	Metazoa	688		0	False	1
+P38879	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	174		0	False	1
+Q12020	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	392		0	False	1
+O82239	Arabidopsis thaliana	Plants	358		0	False	1
+P22293	Drosophila melanogaster	Metazoa	1325		0	False	1
+Q96T66	Homo sapiens	Metazoa	252		0	False	1
+Q8VZI9	Arabidopsis thaliana	Plants	249		0	False	1
+Q02825	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	467		0	False	1
+Q9Y4G8	Homo sapiens	Metazoa	1499		0	False	1
+Q9BTC8	Homo sapiens	Metazoa	594		0	False	1
+Q14191	Homo sapiens	Metazoa	1432		0	False	1
+Q99J39	Mus musculus	Metazoa	492		0	False	1
+Q09924	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	467		0	False	1
+Q86VP1	Homo sapiens	Metazoa	789		0	False	1
+Q14207	Homo sapiens	Metazoa	1427		0	False	1
+Q8NFM4	Homo sapiens	Metazoa	1077		0	True	1
+P16554	Drosophila melanogaster	Metazoa	556		0	False	1
+P62308	Homo sapiens	Metazoa	76		0	False	1
+A7E3N7	Rattus norvegicus	Metazoa	446		0	False	1
+P51873	Amphidinium carterae	Other	369		0	False	1
+P53671	Homo sapiens	Metazoa	638		0	False	1
+Q6Q547	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	58		0	False	1
+Q689G9	Oryza sativa subsp. japonica	Plants	518		0	False	1
+O74988	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	186		0	False	1
+Q9S7R7	Arabidopsis thaliana	Plants	460		0	False	1
+P27815	Homo sapiens	Metazoa	886		0	False	1
+Q96T37	Homo sapiens	Metazoa	977		0	False	1
+Q96QU8	Homo sapiens	Metazoa	1125		0	False	1
+Q5FWF4	Homo sapiens	Metazoa	1079		0	False	1
+Q8NHU0	Homo sapiens	Metazoa	189		0	False	1
+Q13227	Homo sapiens	Metazoa	327		0	False	1
+P10676	Drosophila melanogaster	Metazoa	1501		0	False	1
+Q9NX18	Homo sapiens	Metazoa	166		0	False	1
+Q9C7F5	Arabidopsis thaliana	Plants	126		0	False	1
+P49367	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	693		0	False	1
+O15151	Homo sapiens	Metazoa	490		0	False	1
+Q9R237	Rattus norvegicus	Metazoa	708		0	False	1
+Q8R139	Mus musculus	Metazoa	528		0	True	1
+P58137	Mus musculus	Metazoa	320		0	False	1
+P04778	Arabidopsis thaliana	Plants	267		0	False	1
+Q9NYV4	Homo sapiens	Metazoa	1490		0	False	1
+Q84ST4	Oryza sativa subsp. japonica	Plants	343		0	False	1
+Q9LK40	Arabidopsis thaliana	Plants	1172		0	False	1
+P17710	Mus musculus	Metazoa	974		0	False	1
+Q93YW7	Arabidopsis thaliana	Plants	341		0	False	1
+Q1K699	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	303		0	False	1
+Q99590	Homo sapiens	Metazoa	1463		0	False	1
+P26715	Homo sapiens	Metazoa	233		0	True	1
+P53251	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	210		0	False	1
+Q6ZN04	Homo sapiens	Metazoa	569		0	False	1
+Q9JKF1	Mus musculus	Metazoa	1657		0	False	1
+E9QDC5	Danio rerio	Metazoa	294		0	True	1
+P0C5D6	Oryza sativa subsp. japonica	Plants	334		0	False	1
+Q9Z260	Mus musculus	Metazoa	225		0	True	1
+Q9FXT6	Arabidopsis thaliana	Plants	507		0	False	1
+A0A0G2KTI4	Danio rerio	Metazoa	1136		0	False	1
+Q9BUT9	Homo sapiens	Metazoa	160		0	False	1
+P83870	Mus musculus	Metazoa	110		0	False	1
+Q8NER1	Homo sapiens	Metazoa	839		0	False	1
+P34556	Caenorhabditis elegans	Metazoa	332		0	False	1
+P10255	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	223		0	False	1
+Q9HDB9	Homo sapiens	Metazoa	667		0	False	1
+E9Q5G7	Mus musculus	Metazoa	496		0	False	1
+Q99856	Homo sapiens	Metazoa	593		0	False	1
+Q3EBC8	Arabidopsis thaliana	Plants	1388		0	False	1
+Q9UBF9	Homo sapiens	Metazoa	498		0	False	1
+P03896	Drosophila melanogaster	Metazoa	341		0	True	1
+Q8IXF0	Homo sapiens	Metazoa	933		0	False	1
+P0C2B6	Bos taurus	Metazoa	128		0	False	1
+Q01159	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	459		0	False	1
+Q5XF07	Arabidopsis thaliana	Plants	364		0	False	1
+Q10296	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	138		0	False	1
+Q6DJT9	Homo sapiens	Metazoa	500		0	False	1
+Q8NCN4	Homo sapiens	Metazoa	708		0	False	1
+Q43117	Ricinus communis	Plants	583		0	False	1
+B2RS91	Mus musculus	Metazoa	656		0	False	1
+Q9BWL3	Homo sapiens	Metazoa	253		0	True	1
+O43189	Homo sapiens	Metazoa	567		0	False	1
+Q9H2K2	Homo sapiens	Metazoa	1166		0	False	1
+Q9WTW1	Rattus norvegicus	Metazoa	1043		0	False	1
+P63167	Homo sapiens	Metazoa	89		0	False	1
+P81062	Rattus norvegicus	Metazoa	302		0	False	1
+P62685	Homo sapiens	Metazoa	647		0	False	1
+Q7TMD5	Rattus norvegicus	Metazoa	736		0	False	1
+O13610	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	192		0	False	1
+Q03365	Sus scrofa	Metazoa	559		0	False	1
+Q9ASZ1	Arabidopsis thaliana	Plants	302		0	False	1
+Q9UJS0	Homo sapiens	Metazoa	675		0	False	1
+A0A161CFW5	Trypanosoma brucei brucei	Other	305		0	False	1
+Q64536	Rattus norvegicus	Metazoa	407		0	False	1
+Q2QLV9	Oryza sativa subsp. japonica	Plants	398		0	False	1
+Q8S9G8	Arabidopsis thaliana	Plants	801		0	False	1
+Q03188	Homo sapiens	Metazoa	943		0	False	1
+Q5ZLR5	Gallus gallus	Metazoa	272		0	False	1
+P28877	Candida albicans	Fungi	895		0	False	1
+P09089	Drosophila melanogaster	Metazoa	353		0	False	1
+P56277	Homo sapiens	Metazoa	68		0	False	1
+D3ZNT6	Rattus norvegicus	Metazoa	361		0	False	1
+P01119	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	309		0	False	1
+Q8BH52	Mus musculus	Metazoa	521		0	False	1
+P57088	Homo sapiens	Metazoa	247		0	True	1
+Q9M0X9	Arabidopsis thaliana	Plants	544		0	False	1
+O14842	Homo sapiens	Metazoa	300		0	True	1
+P00289	Spinacia oleracea	Plants	168		0	False	1
+Q95QD7	Caenorhabditis elegans	Metazoa	435		0	False	1
+P43332	Drosophila melanogaster	Metazoa	216		0	False	1
+Q9CQ54	Mus musculus	Metazoa	120		0	True	1
+P03878	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	556		0	False	1
+Q7Z4V5	Homo sapiens	Metazoa	671		0	False	1
+Q80Z39	Rattus norvegicus	Metazoa	360		0	True	1
+Q5JTH9	Homo sapiens	Metazoa	1297		0	False	1
+O13722	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	450		0	False	1
+Q0D9C7	Oryza sativa subsp. japonica	Plants	419		0	False	1
+Q7Z3Z4	Homo sapiens	Metazoa	852		0	False	1
+Q84JE8	Arabidopsis thaliana	Plants	694		0	False	1
+P12344	Bos taurus	Metazoa	430		0	False	1
+O14095	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	279		0	False	1
+Q9Y5T4	Homo sapiens	Metazoa	150		0	True	1
+P63318	Mus musculus	Metazoa	697		0	False	1
+Q9Z286	Rattus norvegicus	Metazoa	1608		0	False	1
+Q9NTG7	Homo sapiens	Metazoa	399		0	False	1
+Q9WUD2	Rattus norvegicus	Metazoa	761		0	False	1
+Q8R1B8	Mus musculus	Metazoa	470		0	False	1
+P61759	Mus musculus	Metazoa	196		0	False	1
+Q0JHU5	Oryza sativa subsp. japonica	Plants	159		0	False	1
+P53720	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	384		0	False	1
+Q60749	Mus musculus	Metazoa	443		0	False	1
+P38140	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	529		0	False	1
+Q67ZB6	Arabidopsis thaliana	Plants	462		0	False	1
+Q9BSF8	Homo sapiens	Metazoa	475		0	False	1
+A0A1S4FPC9	Aedes aegypti	Metazoa	3364		0	False	1
+Q14686	Homo sapiens	Metazoa	2063		0	False	1
+Q6WVG3	Mus musculus	Metazoa	327		0	False	1
+Q9UTR9	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	368		0	False	1
+P61266	Homo sapiens	Metazoa	288		0	False	1
+Q9FNJ9	Arabidopsis thaliana	Plants	482		0	False	1
+Q99990	Homo sapiens	Metazoa	258		0	False	1
+P0CC03	Mus musculus	Metazoa	303		0	False	1
+Q9WV69	Mus musculus	Metazoa	405		0	False	1
+O74845	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	564		0	False	1
+Q7SGE5	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	217		0	False	1
+Q9V4P1	Drosophila melanogaster	Metazoa	1239		0	False	1
+H0YL14	Homo sapiens	Metazoa	139		0	True	1
+P12333	Spinacia oleracea	Plants	267		0	False	1
+Q50L36	Populus alba	Plants	595		0	False	1
+Q3MIE4	Rattus norvegicus	Metazoa	404		0	False	1
+O43058	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	663		0	False	1
+Q7SD06	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	469		0	False	1
+Q05934	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	901		0	False	1
+Q96B26	Homo sapiens	Metazoa	276		0	False	1
+Q8VCX5	Mus musculus	Metazoa	477		0	False	1
+P06509	Spinacia oleracea	Plants	272		0	False	1
+O43324	Homo sapiens	Metazoa	174		0	False	1
+Q9N2I8	Bos taurus	Metazoa	511		0	False	1
+P62316	Homo sapiens	Metazoa	118		0	False	1
+Q9WVC3	Mus musculus	Metazoa	162		0	False	1
+Q9NZ71	Homo sapiens	Metazoa	1219		0	False	1
+Q7ZTP2	Xenopus laevis	Metazoa	394		0	False	1
+P42866	Mus musculus	Metazoa	398		0	True	1
+P62304	Homo sapiens	Metazoa	92		0	False	1
+O60755	Homo sapiens	Metazoa	368		0	True	1
+Q9FNY0	Arabidopsis thaliana	Plants	485		0	False	1
+Q13164	Homo sapiens	Metazoa	816		0	False	1
+Q9LQI7	Arabidopsis thaliana	Plants	227		0	False	1
+Q9UJX3	Homo sapiens	Metazoa	565		0	False	1
+Q10587	Homo sapiens	Metazoa	303		0	False	1
+Q5VUA4	Homo sapiens	Metazoa	2279		0	False	1
+O59836	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	545		0	False	1
+Q12204	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	715		0	False	1
+P54074	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	624		0	True	1
+Q7Z7C8	Homo sapiens	Metazoa	310		0	False	1
+Q9USZ6	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	241		0	False	1
+O43772	Homo sapiens	Metazoa	301		0	True	1
+Q6IVV8	Danio rerio	Metazoa	904		0	False	1
+Q9FJN9	Arabidopsis thaliana	Plants	220		0	False	1
+Q15796	Homo sapiens	Metazoa	467		0	False	1
+Q08421	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	412		0	False	1
+Q7RX40	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	158		0	False	1
+P43286	Arabidopsis thaliana	Plants	287		0	True	1
+Q5T9A4	Homo sapiens	Metazoa	648		0	False	1
+P28147	Arabidopsis thaliana	Plants	200		0	False	1
+J9VF33	Cryptococcus neoformans var. grubii serotype A (strain H99 / ATCC 208821 / CBS 10515 / FGSC 9487)	Fungi	1408		0	False	1
+Q18616	Caenorhabditis elegans	Metazoa	537		0	False	1
+Q04863	Mus musculus	Metazoa	558		0	False	1
+Q42512	Arabidopsis thaliana	Plants	139		0	False	1
+Q69ZQ1	Mus musculus	Metazoa	716		0	True	1
+O13684	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	261		0	False	1
+Q5NCS9	Mus musculus	Metazoa	454		0	True	1
+Q04231	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	177		0	False	1
+P08529	Zea mays	Plants	123		0	False	1
+Q8R1S9	Mus musculus	Metazoa	547		0	False	1
+P10771	Caenorhabditis elegans	Metazoa	208		0	False	1
+Q08752	Homo sapiens	Metazoa	370		0	False	1
+Q9FNI1	Arabidopsis thaliana	Plants	122		0	False	1
+P43252	Mus musculus	Metazoa	415		0	True	1
+Q9LPV5	Arabidopsis thaliana	Plants	502		0	True	1
+P38816	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	342		0	False	1
+Q8BMD2	Mus musculus	Metazoa	852		0	False	1
+P70210	Mus musculus	Metazoa	439		0	False	1
+Q9D385	Mus musculus	Metazoa	163		0	False	1
+P37234	Xenopus laevis	Metazoa	477		0	False	1
+Q91Y77	Rattus norvegicus	Metazoa	514		0	True	1
+Q0JA81	Oryza sativa subsp. japonica	Plants	819		0	False	1
+Q8WVM0	Homo sapiens	Metazoa	346		0	False	1
+Q6PI79	Xenopus laevis	Metazoa	136		0	False	1
+P93025	Arabidopsis thaliana	Plants	915		0	False	1
+Q9Y692	Homo sapiens	Metazoa	573		0	False	1
+Q22812	Caenorhabditis elegans	Metazoa	399		0	False	1
+P06267	Marchantia polymorpha	Plants	289		0	False	1
+Q86SG2	Homo sapiens	Metazoa	305		0	False	1
+Q10146	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	777		0	False	1
+Q28756	Ovis aries	Metazoa	391		0	True	1
+Q9M065	Arabidopsis thaliana	Plants	412		0	False	1
+P41241	Mus musculus	Metazoa	450		0	False	1
+P38925	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	575		0	True	1
+Q3KRE0	Rattus norvegicus	Metazoa	591		0	False	1
+Q23175	Caenorhabditis elegans	Metazoa	439		0	False	1
+Q9USX4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	108		0	False	1
+Q9LNW3	Arabidopsis thaliana	Plants	442		0	False	1
+P42124	Drosophila melanogaster	Metazoa	760		0	False	1
+Q8TBZ6	Homo sapiens	Metazoa	339		0	False	1
+F1PTE3	Canis lupus familiaris	Metazoa	203		0	False	1
+P09024	Mus musculus	Metazoa	217		0	False	1
+Q8GZB6	Arabidopsis thaliana	Plants	624		0	False	1
+Q8K211	Mus musculus	Metazoa	196		0	True	1
+O13988	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	555		0	False	1
+Q8NBV4	Homo sapiens	Metazoa	271		0	False	1
+P02831	Mus musculus	Metazoa	443		0	False	1
+Q96QV6	Homo sapiens	Metazoa	131		0	False	1
+O55035	Rattus norvegicus	Metazoa	752		0	False	1
+Q96E35	Homo sapiens	Metazoa	227		0	False	1
+P0C0W9	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	174		0	False	1
+Q6VAK4	Oryza sativa subsp. japonica	Plants	149		0	False	1
+P30657	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	266		0	False	1
+S0DQI7	Gibberella fujikuroi (strain CBS 195.34 / IMI 58289 / NRRL A-6831)	Fungi	316		0	False	1
+Q9DC04	Mus musculus	Metazoa	966		0	False	1
+Q62768	Rattus norvegicus	Metazoa	1735		0	False	1
+Q9VJN5	Drosophila melanogaster	Metazoa	470		0	False	1
+Q9Z130	Mus musculus	Metazoa	301		0	False	1
+Q9USY8	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	166		0	False	1
+P63000	Homo sapiens	Metazoa	192		0	False	1
+Q16539	Homo sapiens	Metazoa	360		0	False	1
+O49929	Pisum sativum	Plants	213		0	True	1
+O14227	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	1215		0	False	1
+Q62296	Mus musculus	Metazoa	427		0	False	1
+Q9LHE5	Arabidopsis thaliana	Plants	309		0	False	1
+Q8C4V4	Mus musculus	Metazoa	428		0	False	1
+Q9HCI7	Homo sapiens	Metazoa	577		0	False	1
+Q02892	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	647		0	False	1
+P34077	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	839		0	False	1
+Q9UHB7	Homo sapiens	Metazoa	1163		0	False	1
+Q6QN14	Homo sapiens	Metazoa	398		0	False	1
+P47076	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	161		0	False	1
+Q07837	Homo sapiens	Metazoa	685		0	True	1
+O35943	Mus musculus	Metazoa	207		0	False	1
+Q0VD32	Bos taurus	Metazoa	120		0	False	1
+Q9ZVC2	Arabidopsis thaliana	Plants	491		0	False	1
+Q00788	Rattus norvegicus	Metazoa	371		0	True	1
+P08510	Drosophila melanogaster	Metazoa	655		0	False	1
+Q8I615	Plasmodium falciparum (isolate 3D7)	Other	1189		0	False	1
+Q03750	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	510		0	False	1
+Q9LG26	Arabidopsis thaliana	Plants	689		0	False	1
+Q9BZL6	Homo sapiens	Metazoa	878		0	False	1
+Q2PS26	Arabidopsis thaliana	Plants	584		0	False	1
+Q19555	Caenorhabditis elegans	Metazoa	1096		0	False	1
+Q9Y388	Homo sapiens	Metazoa	322		0	False	1
+Q8TCY5	Homo sapiens	Metazoa	172		0	True	1
+Q9Y221	Homo sapiens	Metazoa	180		0	False	1
+P90551	Leishmania mexicana	Other	366		0	False	1
+P42230	Mus musculus	Metazoa	793		0	False	1
+P22813	Drosophila melanogaster	Metazoa	691		0	False	1
+P29692	Homo sapiens	Metazoa	281		0	False	1
+P35632	Arabidopsis thaliana	Plants	232		0	False	1
+Q8N5P1	Homo sapiens	Metazoa	291		0	False	1
+O76324	Drosophila melanogaster	Metazoa	440		0	False	1
+P62483	Rattus norvegicus	Metazoa	367		0	False	1
+P16455	Homo sapiens	Metazoa	207		0	False	1
+P34568	Caenorhabditis elegans	Metazoa	451		0	False	1
+P30550	Homo sapiens	Metazoa	384		0	True	1
+Q9NRI5	Homo sapiens	Metazoa	854		0	False	1
+Q9HBU9	Homo sapiens	Metazoa	364		0	True	1
+Q9VAB8	Drosophila melanogaster	Metazoa	457		0	False	1
+Q53KW9	Oryza sativa subsp. japonica	Plants	803		0	False	1
+Q02637	Drosophila melanogaster	Metazoa	449		0	False	1
+Q99K23	Mus musculus	Metazoa	461		0	False	1
+Q9WTN3	Mus musculus	Metazoa	1134		0	False	1
+Q9SMS0	Arabidopsis thaliana	Plants	249		0	False	1
+Q06103	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	429		0	False	1
+Q5SRY7	Mus musculus	Metazoa	542		0	False	1
+P97865	Mus musculus	Metazoa	318		0	False	1
+Q6RI88	Rattus norvegicus	Metazoa	1112		0	False	1
+Q8H124	Arabidopsis thaliana	Plants	280		0	False	1
+O23160	Arabidopsis thaliana	Plants	320		0	False	1
+P08458	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	490		0	False	1
+Q94K75	Arabidopsis thaliana	Plants	401		0	False	1
+P42892	Homo sapiens	Metazoa	770		0	True	1
+Q9JIX5	Rattus norvegicus	Metazoa	2581		0	False	1
+Q9Y2Q3	Homo sapiens	Metazoa	226		0	False	1
+Q9QZB0	Mus musculus	Metazoa	210		0	False	1
+P40382	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	444		0	False	1
+Q9LTT3	Arabidopsis thaliana	Plants	319		0	False	1
+Q8TCU6	Homo sapiens	Metazoa	1659		0	False	1
+Q20024	Caenorhabditis elegans	Metazoa	306		0	False	1
+Q9SSE9	Arabidopsis thaliana	Plants	1027		0	False	1
+Q8L4Y5	Arabidopsis thaliana	Plants	363		0	False	1
+O74387	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	287		0	False	1
+P49407	Homo sapiens	Metazoa	418		0	False	1
+O77334	Plasmodium falciparum (isolate 3D7)	Other	575		0	False	1
+Q06835	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	107		0	False	1
+A2YMU2	Oryza sativa subsp. indica	Plants	266		0	False	1
+Q9M297	Arabidopsis thaliana	Plants	1256		0	False	1
+Q18694	Caenorhabditis elegans	Metazoa	333		0	False	1
+Q384Y0	Trypanosoma brucei brucei (strain 927/4 GUTat10.1)	Other	1048		0	False	1
+P80428	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	489		0	False	1
+Q9ULV5	Homo sapiens	Metazoa	492		0	False	1
+P32189	Homo sapiens	Metazoa	559		0	False	1
+Q9Y7U4	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	328		0	False	1
+Q8GT74	Arabidopsis thaliana	Plants	241		0	True	1
+P00299	Populus nigra	Plants	168		0	False	1
+O00330	Homo sapiens	Metazoa	501		0	False	1
+Q9BQ87	Homo sapiens	Metazoa	522		0	False	1
+P40026	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	464		0	False	1
+Q9TW65	Caenorhabditis elegans	Metazoa	3674		0	False	1
+A8MT69	Homo sapiens	Metazoa	81		0	False	1
+Q18593	Caenorhabditis elegans	Metazoa	329		0	True	1
+P35169	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	2470		0	False	1
+O80883	Arabidopsis thaliana	Plants	490		0	False	1
+P54132	Homo sapiens	Metazoa	1417		0	False	1
+M0R3Q7	Rattus norvegicus	Metazoa	905		0	False	1
+P12657	Mus musculus	Metazoa	460		0	True	1
+Q93015	Homo sapiens	Metazoa	286		0	False	1
+P26568	Arabidopsis thaliana	Plants	274		0	False	1
+O75689	Homo sapiens	Metazoa	374		0	False	1
+Q9WU40	Mus musculus	Metazoa	921		0	False	1
+Q9C950	Arabidopsis thaliana	Plants	643		0	False	1
+P21127	Homo sapiens	Metazoa	795		0	False	1
+Q9SIN9	Arabidopsis thaliana	Plants	484		0	False	1
+Q9Y5Y0	Homo sapiens	Metazoa	555		0	False	1
+Q9SKI4	Arabidopsis thaliana	Plants	640		0	False	1
+P23242	Mus musculus	Metazoa	382		0	True	1
+Q8TC26	Homo sapiens	Metazoa	289		0	True	1
+Q9SRH5	Arabidopsis thaliana	Plants	276		0	False	1
+Q99733	Homo sapiens	Metazoa	375		0	False	1
+Q15059	Homo sapiens	Metazoa	726		0	False	1
+Q8VYI3	Arabidopsis thaliana	Plants	309		0	False	1
+Q9VGE2	Drosophila melanogaster	Metazoa	384		0	False	1
+O15743	Dictyostelium discoideum	Other	975		0	False	1
+Q19872	Caenorhabditis elegans	Metazoa	268		0	False	1
+O14907	Homo sapiens	Metazoa	124		0	False	1
+O04308	Arabidopsis thaliana	Plants	499		0	False	1
+Q1K6U7	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	225		0	False	1
+P97460	Mus musculus	Metazoa	816		0	False	1
+P53193	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	184		0	False	1
+Q9UPN6	Homo sapiens	Metazoa	1271		0	False	1
+Q9AT00	Arabidopsis thaliana	Plants	345		0	False	1
+Q12499	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	511		0	False	1
+P08525	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	94		0	True	1
+Q9URV3	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	296		0	False	1
+Q8WVY7	Homo sapiens	Metazoa	318		0	False	1
+P43619	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	295		0	False	1
+Q7XA83	Arabidopsis thaliana	Plants	423		0	False	1
+P08580	Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987)	Fungi	107		0	False	1
+P70365	Mus musculus	Metazoa	1447		0	False	1
+Q61602	Mus musculus	Metazoa	1583		0	False	1
+F4JV80	Arabidopsis thaliana	Plants	155		0	False	1
+P35189	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	244		0	False	1
+Q9H825	Homo sapiens	Metazoa	291		0	False	1
+O14368	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	143		0	False	1
+Q6PJG6	Homo sapiens	Metazoa	821		0	False	1
+P15690	Bos taurus	Metazoa	727		0	False	1
+P53538	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	206		0	False	1
+P18263	Chlamydomonas reinhardtii	Plants	46		0	True	1
+Q92564	Homo sapiens	Metazoa	292		0	False	1
+Q03503	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	176		0	False	1
+Q04660	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	807		0	False	1
+P00227	Brassica napus	Plants	96		0	False	1
+P53903	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	129		0	True	1
+O88457	Rattus norvegicus	Metazoa	1765		0	False	1
+Q9W2R3	Drosophila melanogaster	Metazoa	792		0	False	1
+Q9XQR3	Pisum sativum	Plants	73		0	True	1
+Q78EG7	Rattus norvegicus	Metazoa	173		0	False	1
+P47085	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	338		0	False	1
+Q10223	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	431		0	False	1
+A0A0R0H9T5	Glycine max	Plants	172		0	False	1
+Q93VB2	Arabidopsis thaliana	Plants	425		0	False	1
+P27864	Drosophila melanogaster	Metazoa	679		0	False	1
+G5EC89	Caenorhabditis elegans	Metazoa	237		0	False	1
+O02696	Sus scrofa	Metazoa	877		0	False	1
+Q02360	Drosophila melanogaster	Metazoa	365		0	False	1
+F1P065	Gallus gallus	Metazoa	1046		0	False	1
+O70274	Mus musculus	Metazoa	167		0	False	1
+Q9H7D0	Homo sapiens	Metazoa	1870		0	False	1
+P83391	Cladophora glomerata	Plants	91		0	False	1
+P07854	Spinacia oleracea	Plants	138		0	False	1
+P28236	Mus musculus	Metazoa	440		0	True	1
+Q9BZE4	Homo sapiens	Metazoa	634		0	False	1
+P21374	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	235		0	False	1
+Q07021	Homo sapiens	Metazoa	282		0	False	1
+Q94AX5	Arabidopsis thaliana	Plants	370		0	False	1
+Q04006	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	179		0	False	1
+P32773	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	286		0	False	1
+B1B534	Oryza sativa subsp. japonica	Plants	475		0	False	1
+O22607	Arabidopsis thaliana	Plants	507		0	False	1
+P52893	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	592		0	False	1
+P0DO11	Arabidopsis thaliana	Plants	126		0	False	1
+P87320	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	903		0	True	1
+Q6UFS5	Danio rerio	Metazoa	563		0	False	1
+Q0DUR2	Oryza sativa subsp. japonica	Plants	92		0	False	1
+Q9QZR8	Rattus norvegicus	Metazoa	2766		0	False	1
+P31166	Arabidopsis thaliana	Plants	243		0	False	1
+O94468	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	213		0	False	1
+Q12041	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	191		0	False	1
+Q40460	Nicotiana tabacum	Plants	442		0	False	1
+Q8TBF4	Homo sapiens	Metazoa	217		0	False	1
+P69682	Rattus norvegicus	Metazoa	277		0	False	1
+Q9M591	Arabidopsis thaliana	Plants	409		0	False	1
+P0CB42	Mus musculus	Metazoa	389		0	False	1
+Q27539	Caenorhabditis elegans	Metazoa	221		0	False	1
+Q15126	Homo sapiens	Metazoa	192		0	False	1
+Q9C9T3	Arabidopsis thaliana	Plants	67		0	False	1
+P02721	Bos taurus	Metazoa	108		0	False	1
+F4K2R6	Arabidopsis thaliana	Plants	563		0	False	1
+Q8IQ70	Drosophila melanogaster	Metazoa	366		0	False	1
+P55273	Homo sapiens	Metazoa	166		0	False	1
+Q8IFW4	Drosophila melanogaster	Metazoa	157		0	False	1
+P25367	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	405		0	False	1
+P98177	Homo sapiens	Metazoa	505		0	False	1
+O22340	Abies grandis	Plants	637		0	False	1
+O95267	Homo sapiens	Metazoa	797		0	False	1
+Q9UNS1	Homo sapiens	Metazoa	1208		0	False	1
+Q6DYE8	Mus musculus	Metazoa	874		0	True	1
+Q9HC52	Homo sapiens	Metazoa	389		0	False	1
+P28817	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	500		0	False	1
+Q04048	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	859		0	False	1
+Q64478	Mus musculus	Metazoa	126		0	False	1
+P53226	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	547		0	False	1
+Q8IU80	Homo sapiens	Metazoa	811		0	True	1
+Q7Z418	Homo sapiens	Metazoa	384		0	True	1
+P70079	Gallus gallus	Metazoa	417		0	False	1
+Q9HAP6	Homo sapiens	Metazoa	207		0	False	1
+Q99543	Homo sapiens	Metazoa	621		0	False	1
+Q9VEN1	Drosophila melanogaster	Metazoa	2210		0	False	1
+P32780	Homo sapiens	Metazoa	548		0	False	1
+Q9NYG5	Homo sapiens	Metazoa	84		0	False	1
+Q7XR88	Oryza sativa subsp. japonica	Plants	361		0	False	1
+Q8CJ67	Mus musculus	Metazoa	570		0	False	1
+Q8MQ70	Caenorhabditis elegans	Metazoa	846		0	False	1
+P28223	Homo sapiens	Metazoa	471		0	True	1
+P56962	Homo sapiens	Metazoa	302		0	False	1
+Q05923	Homo sapiens	Metazoa	314		0	False	1
+P09110	Homo sapiens	Metazoa	424		0	False	1
+Q8W4I7	Arabidopsis thaliana	Plants	528		0	False	1
+Q0DDE3	Oryza sativa subsp. japonica	Plants	810		0	False	1
+Q14192	Homo sapiens	Metazoa	279		0	False	1
+Q4WJ81	Aspergillus fumigatus (strain ATCC MYA-4609 / CBS 101355 / FGSC A1100 / Af293)	Fungi	754		0	False	1
+Q9M0V0	Arabidopsis thaliana	Plants	197		0	False	1
+Q6IQX8	Mus musculus	Metazoa	726		0	False	1
+O09171	Rattus norvegicus	Metazoa	407		0	False	1
+Q15004	Homo sapiens	Metazoa	111		0	False	1
+Q9LQ55	Arabidopsis thaliana	Plants	920		0	False	1
+Q8IWU4	Homo sapiens	Metazoa	369		0	True	1
+Q8IZ07	Homo sapiens	Metazoa	590		0	False	1
+P80723	Homo sapiens	Metazoa	227		0	False	1
+P78953	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	920		0	False	1
+Q8RY95	Arabidopsis thaliana	Plants	1035		0	False	1
+P41920	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	201		0	False	1
+Q9FYG2	Arabidopsis thaliana	Plants	1016		0	False	1
+Q12262	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	181		0	False	1
+Q9CQE1	Mus musculus	Metazoa	247		0	False	1
+Q05568	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	337		0	True	1
+P31652	Rattus norvegicus	Metazoa	630		0	True	1
+Q9ESE1	Mus musculus	Metazoa	2856		0	False	1
+Q9Z2X8	Mus musculus	Metazoa	624		0	False	1
+Q99NB7	Rattus norvegicus	Metazoa	556		0	False	1
+Q9H9Q4	Homo sapiens	Metazoa	299		0	False	1
+P36094	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	363		0	False	1
+Q8CGS4	Rattus norvegicus	Metazoa	223		0	False	1
+P18872	Mus musculus	Metazoa	354		0	False	1
+I4DST8	Tulipa gesneriana	Plants	385		0	False	1
+A0FGR9	Homo sapiens	Metazoa	886		0	True	1
+P08993	Tetrahymena thermophila (strain SB210)	Other	122		0	False	1
+Q8LEG1	Arabidopsis thaliana	Plants	258		0	False	1
+P29468	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	568		0	False	1
+Q6J9Q2	Arabidopsis thaliana	Plants	348		0	False	1
+Q9SPG2	Arabidopsis thaliana	Plants	366		0	False	1
+P36114	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	725		0	False	1
+P51874	Symbiodinium sp.	Other	365		0	False	1
+Q7XYS8	Artemisia spiciformis	Plants	394		0	False	1
+P11177	Homo sapiens	Metazoa	359		0	False	1
+O74435	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	176		0	False	1
+P29414	Rattus norvegicus	Metazoa	416		0	True	1
+Q02078	Homo sapiens	Metazoa	507		0	False	1
+P37089	Rattus norvegicus	Metazoa	698		0	False	1
+Q12259	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	485		0	False	1
+Q05949	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	395		0	False	1
+O48528	Arabidopsis thaliana	Plants	159		0	True	1
+O13648	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	543		0	False	1
+O74791	Schizosaccharomyces pombe (strain 972 / ATCC 24843)	Fungi	470		0	False	1
+P17564	Mus musculus	Metazoa	657		0	False	1
+P40645	Mus musculus	Metazoa	827		0	False	1
+Q9ER97	Mus musculus	Metazoa	151		0	False	1
+P20967	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	1014		0	False	1
+Q04500	Saccharomyces cerevisiae (strain ATCC 204508 / S288c)	Fungi	899		0	False	1
