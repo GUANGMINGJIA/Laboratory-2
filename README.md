@@ -1,5 +1,4 @@
 # Laboratory-2 Project-Report
-A comparative study of von Heijne statistical model and SVM for signal peptide prediction under controlled biological conditions.
 A comparative study of the von Heijne statistical model and an SVM-based classifier for signal peptide prediction under strictly controlled biological conditions.
 
 ## Project Overview
